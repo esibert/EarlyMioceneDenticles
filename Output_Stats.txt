@@ -1,0 +1,157 @@
+This file contains all output statisitcs referenced in the manuscript
+It is generated automatically when the Setup.R file is sourced
+
+This file was generated: 2020-08-21 14:14:28
+
+##### Modern shark diversity ######
+
+There are 152 species of modern shark included in this analysis.
+There are 62 genera of modern shark included in this analysis.
+There are 30 families of modern shark included in this analysis.
+There are 10 orders of modern shark included in this analysis.
+There are 61 unique types of denticles identified across 596 denticle images.
+Of these, 25 modern morphotypes have representation among the 88 morphotypes identified in the fossil record.
+This represents a 71.591% Extinction.
+
+
+##### Denticles per taxon ######
+
+There are 2.388 denticle types per species on average, with a median of 1 type per species in the dataset.
+There are 3.774 denticle types per genus on average, with a median of 2 type per genus in the dataset.
+There are 5.867 denticle types per family on average, with a median of 4.5 type per family in the dataset.
+There are 13 denticle types per order on average, with a median of 8.5 type per order in the dataset.
+
+
+##### Range Extension Values ######
+
+For 50% Range Extensions:
+The estimated extinction age is 19.817 Ma
+The 95% confidence for age of extinction is 19.023 to 21.234 Ma
+The 99% confidence for age of extinction is 18.844 to 21.536 Ma
+
+For 20% Range Extensions:
+The estimated extinction age is 19.363 Ma
+The 95% confidence for age of extinction is 18.997 to 19.749 Ma
+The 99% confidence for age of extinction is 18.495 to 19.911 Ma
+
+
+##### Community Composition Percentages ######
+
+For the FOSSIL ONLY dataset (combines DSDP 596 and ODP 886):
+There are 1381 denticles in this dataset, of which 1263 are identifiable to a Morphotype or category:
+798 from DSDP Site 596
+465 from ODP Site 886.
+
+The full fossil dataset consists of:
+461 Geometric (33.38 %)
+781 Linear (56.55 %)
+21 Smooth (1.52 %)
+0 Spines (0 %)
+118 Unclassifiable Denticles (8.54 %)
+
+The pre-extinction fossil dataset consists of:
+460 Geometric (34.18 %)
+752 Linear (55.87 %)
+18 Smooth (1.34 %)
+0 Spines (0 %)
+116 Unclassifiable Denticles (8.62 %)
+For a total of 1346 denticles pre-extinction.
+
+The post-extinction fossil dataset consists of:
+1 Geometric (2.86 %)
+29 Linear (82.86 %)
+3 Smooth (8.57 %)
+0 Spines (0 %)
+2 Unclassifiable Denticles (5.71 %)
+For a total of 35 denticles post-extinction.
+
+Using a Chi-square test of independence, we calculate that the pre-extinction denticle assemblage is significantly different from the post-extinction denticle assemblage:
+ 	Pearson's Chi-squared test  data:  chisq.tbl X-squared = 26.493, df = 3, p-value = 7.519e-06 
+
+
+##### Fossils ONLY: Morphotype Extinction Calculations #####
+
+There are  89  fossil morphotypes,  83  observed at DSDP Site 596 and  53  observed at ODP Site 886.
+33 geometric morphotypes, including "GenGeom"
+53 linear morphotypes, including "GenLin"
+2 smooth morphotypes
+0 spine morphotypes
+1 unclassifiable catch-all type
+
+Of these,  89  morphotypes are present prior to 19 Ma, while only  10  are present in the fossil record after the extinction event, a  88.764 % decline in morphotype diversity in open ocean sediments
+Of the 33 geometric morphotypes, 1 are found after the extinction (96.97% observed extinction)
+Of the 53 linear morphotypes, 7 are found after the extinction (86.792% observed extinction)
+
+If we exclude the unclassiiable morphotype, these numbers become:
+Of the 88 morphotypes present prior to 19 Ma,  only 9 are present in the fossil record after the extinction event, a 89.773% decline in morphotype diversity in open ocean sediments
+Of the 33 geometric morphotypes, 1 are found after the extinction (96.97% observed extinction)
+Of the 53 linear morphotypes, 7 are found after the extinction (86.792% observed extinction)
+
+The 9 morphotypes which are present in the <19 Ma fossil record (e.g. the survivors) are:
+Angular Straight Edge
+Asymmetrical Kite with Oval Center
+Chubby Trident
+Five Ridged Linear Fan
+Five Thin Ridged Fan
+GenLin
+Ridged Circle
+Smooth
+Trident
+
+There are  7  unique surviving morphotypes at DSDP Site 596, and  6  at ODP Site 886
+
+If we *also* exclude the generic "genlin" and "gengeo" morphotypes, these numbers become:
+Of the,  86  morphotypes present prior to 19 Ma,  only  8  are present in the fossil record after the extinction event, a  90.698 % decline in morphotype diversity in open ocean sediments
+Of the 32 geometric morphotypes, 1 are found after the extinction (96.875% observed extinction)
+Of the 52 linear morphotypes, 6 are found after the extinction (88.462% observed extinction)
+
+
+##### Including modern denticles: Morphotype Extinction Calculations #####
+
+There are 25 fossil denticle morphotypes that have a modern analog:
+Central Ridged Extended Trident
+Central Ridged Triangle
+Central Troughed Petal
+Chubby Trident
+Criss cross
+Five Ridged Linear Fan
+Five Thin Ridged Fan
+Kite-Like
+Kite with Bubble
+Lopsided Trident
+Many Celled Central Complex Polygon
+Many Ridged Linear Fan
+Minnie Indented Shell
+Ridged Circle
+Round Sided Trident
+Shallow Ridged Wide Crown
+Sharp Kite
+Single Dimpled Heptagon
+Skinny Pear Shaped Wedge
+Smooth
+Smooth Petal
+Stretched Branching Crown
+Stretched Minnie Indented Shell
+Three Ridged Extended Petal
+Trident
+
+Of the,  88  morphotypes present prior to 19 Ma,  only  25  are present in the fossil record and/or our modern database after the extinction event, a  71.591 % extinction in morphotype diversity.
+Of the 33 geometric morphotypes, 6 are occur after the extinction, either in the fossils or by a modern analog (81.818% observed extinction)
+Of the 53 linear morphotypes, 17 are found after the extinction, either in the fossils or by a modern analog (67.925% observed extinction)
+
+
+##### Number of investigated Neogene and Paleogene Samples wih denticles #####
+
+Of the 38 samples at DSDP Site 596 post-extinction (<19 Ma), only 17 have denticles present.
+Compared to 65 samples at DSDP Site 596 pre-extinction (19-41 Ma), 65 have denticles present.
+At DSDP Site 596 post-extinction, there is an average of 0.82 denticles per sample and 22.11 teeth per sample.
+Before the extinction, there is an average of 13 denticles per sample and 60.63 teeth per sample.
+
+Of the 54 samples at ODP Site 886 post-extinction (<19 Ma), only 15 have denticles present.
+Compared to 81 samples at ODP Site 886 pre-extinction (22-35 Ma), 81 have denticles present.
+At ODP Site 886 post-extinction, there is an average of 0.5 denticles per sample and 34.19 teeth per sample.
+Before the extinction, there is an average of 27.37 denticles per sample and 107.91 teeth per sample.
+
+In total, there were 92 samples investigated from after the extinction event (<19 Ma). Of these only 32 have any denticles at all (34.78%)
+
+

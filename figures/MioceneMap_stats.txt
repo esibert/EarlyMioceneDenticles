@@ -1,0 +1,42 @@
+##### Summary Statistics for the Early Miocene Hiatus analysis #####
+This analysis is based of of a compilation of shipboard-produced age models for all DSDP, ODP, and IODP expeditions. 
+Each site was given a unique "hiatus status", which combined all of the holes that were drilled for the site. This is largely based on biostratigraphy, however where available other age constraints were included as well (e.g. paleomag).
+
+The categories and designations were based as follows:
+0 = Site does not reach below Miocene
+1 = E Miocene is not recovered, but it was inferred between spot cores - usually from an DSDP expedition which did not have continuous coring and had large core gaps. Impossible to determine presence or absence of a hiatus
+2 = E. Miocene is not recovered, and there is a relatively large age gap (e.g. Middle Miocene to Oligocene) inferred between cores with relatively small coring gaps (e.g. <10 meters between cores). E. Miocene hiatus is likely but not determinable with the available data.
+3 = E. Miocene is not identified within a single 9.5m core, indicating a hiatus, but a hiatus is not specified in the site report.
+4 = E. Miocene Hiatus Reognized by shipboard biostratigraphers and denoted in site report.
+5 = Likely Complete Early Miocene / Hiatus Unlikely - shipboard biostratigraphy is relatively complete and/or estimated sedimentation rates show continuous sedimentation across the Early Miocene.
+6 = Possibly complete Early Miocene, but relatively hard to determine based on shipboard data.
+
+
+Out of the  1624  sites in the DSDP/ODP/IODP database,  683  extend deeper than the Early Miocene. Of these:
+140 (20.5%) have hiatus status = 1 (indeterminate)
+82 (12.01%) have hiatus status = 2 (possible hiatus)
+125 (18.3%) have hiatus status = 3 (likely hiatus)
+252 (36.9%) have hiatus status = 4 (identified hiatus)
+36 (5.27%) have hiatus status = 5 (Likely/complete section)
+48 (7.03%) have hiatus status = 6 (possibly complete section)
+20.5% are indeterminate, 67.2% have a likely or confirmed hiatus, and 12.3% are probably complete.
+
+If we discount the Sites where coring is too poor to make a definite determination (hiatus status = 1):
+82 (15.1%) have hiatus status = 2 (possible hiatus)
+125 (23.02%) have hiatus status = 3 (likely hiatus)
+252 (46.41%) have hiatus status = 4 (identified hiatus)
+36 (6.63%) have hiatus status = 5 (Likely/complete section)
+48 (8.84%) have hiatus status = 6 (possibly complete section)
+84.53% have a likely or confirmed hiatus, and 15.47% are probably complete.
+
+If we further discount the Sites with hiatus status = 2:
+125 (27.11%) have hiatus status = 3 (likely hiatus)
+252 (54.66%) have hiatus status = 4 (identified hiatus)
+36 (7.81%) have hiatus status = 5 (Likely/complete section)
+48 (10.41%) have hiatus status = 6 (possibly complete section)
+81.78% have a likely or confirmed hiatus, and 18.22% are probably complete.
+
+Finally, if we only consider sites that have definitive or near-definitive hiatus status (hiatus status = 4 or hiatus status = 5):
+252 (87.5%) have hiatus status = 4 (identified hiatus)
+36 (12.5%) have hiatus status = 5 (Likely/complete section)
+87.5% have a likely or confirmed hiatus, and 12.5% are probably complete.

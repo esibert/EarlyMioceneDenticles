@@ -1,0 +1,125 @@
+##### Range Chart Legend for combined Fossil & ALL Modern denticles Supplemental Figure #####
+1. Airplane
+2. Angular Edged Arrowhead
+3. Angular Straight Edge
+4. Arrowhead
+5. Asymmetrical Kite with Oval Center
+6. Asymmetrical Kite with Ridged Mound
+7. Big Three Ridge
+8. Bilateral Fan
+9. Bilateral Polygon
+10. Bilateral Single Ridged
+11. Bilateral Single Ridged Arrowhead
+12. Bottom Bulbed Three Ridged Petal
+13. Branching and Flared Chunk
+14. Branching Fan
+15. Branching Fragment
+16. Central Five Ridged Extended Trident
+17. Central Ridged Extended Trident
+18. Central Ridged Petal
+19. Central Ridged Triangle
+20. Central Troughed Petal
+21. Cheeky
+22. Chubby Trident
+23. Circular tipping spines
+24. Crinkle Tops
+25. Criss cross
+26. Cruciform Fragment
+27. Dagger
+28. Eared Trident
+29. Elephant
+30. Elongated Asymmetrical
+31. Extended Central Ridged and Textured Trident
+32. Extended Central Troughed Petal
+33. Extra Nubbed Trident
+34. Eyeball
+35. Five Ridged Linear Fan
+36. Five Thin Ridged Fan
+37. Five Thinned Ridged Branching Fan
+38. Four Ridged Linear Fan
+39. Four Thin Ridged Petal
+40. Funky Central Ridged Spade
+41. Fusiform Dimpled Diamond
+42. Fusiform spines
+43. Generic Kite
+44. Generic Single Dimpled Complex Polygon
+45. GenGeo
+46. GenLin
+47. Geometric Arrowhead
+48. Helter Skelter
+49. High Ridged Diamond
+50. Kite-Like
+51. Kite with Bubble
+52. Large Angular Bits
+53. Llama
+54. Lobular Trident
+55. Lopsided Trident
+56. Madeleine
+57. Madeleine Trident
+58. Many Celled
+59. Many Celled Central Complex Polygon
+60. Many Ridged Linear Fan
+61. Many Ridged Petal
+62. Many Ridged Trident
+63. Minnie Indented Shell
+64. Minnie Ridged Circle
+65. Nub Spine
+66. Oak Leaf
+67. Oblong Branching Crown
+68. Pear Shaped Wedge
+69. Radial Angled Spines
+70. Raised Dimple
+71. Rake
+72. Ridged Circle
+73. Right Angled Five Ridge
+74. Round Bottomed Textured Tulip
+75. Round Ridged Trident
+76. Round Sided Trident
+77. Shallow Ridged Branching Fan
+78. Shallow Ridged Circle
+79. Shallow Ridged Wide Crown
+80. Sharp Kite
+81. Single Dimpled Heptagon
+82. Single Dimpled Hexagon
+83. Single Dimpled Hexagon with Scalloped Edges
+84. Single Dimpled Octagon
+85. Single Dimpled Pentagon
+86. Single Ridged Spade
+87. Skinny Pear Shaped Wedge
+88. Smooth
+89. Smooth Nubbed
+90. Smooth Petal
+91. Smooth Spade
+92. Square Kite with Nodules
+93. Squished Kite
+94. Stretched Bilateral Single Ridged
+95. Stretched Branching Crown
+96. Stretched Minnie Indented Shell
+97. Thin Ridged Kite
+98. Thin Ridged Trident
+99. Three Ridged Extended Petal
+100. Three Ridged Petal
+101. Triangular Spines
+102. Trident
+103. Trident with Pointed Base
+104. Trident with Rounded Base
+105. Triple Dimpled Crown
+106. Troughed Diamond
+107. Troughed Petal with Extended Center
+108. Troughed Ridged Circle
+109. Troughed Trident
+110. Two Big Lobes
+111. Two Dimpled Fan
+112. Two Ridged Shell
+113. Two Ridged Wedge
+114. Two Sectioned Wedge
+115. Volcano
+116. Wavey Trident
+117. Wedged Branching Crown
+118. Whale Blow
+119. Widespread Branching Crown
+120. Wishbone
+121. Wrapped Trident
+122. Wrinkly
+123. Wrinkly Kite
+124. Zebra Hoof
