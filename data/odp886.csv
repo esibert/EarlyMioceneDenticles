@@ -1,0 +1,531 @@
+unique sample ID or species Name,Which image file (or paper for modern),which object number,KPg. 66.04; Modern=0,type name
+SampleID,Image,ObjNum,Age,Type
+ODP-886C-NP012-24-7H-2W-95-98cm_N1of1_z200x_2D,ODP-886C-NP012-24-7H-2W-95-98cm_N1of1_z200x_2D_obj0001,1,10.73003,Five Thin Ridged Fan
+ODP-886C-NP017-34-7H-2W-145-148cm_N1of1_z200x_2d,ODP-886C-NP017-34-7H-2W-145-148cm_N1of1_z200x_2d_obj0001,1,10.960438,Asymmetrical Kite with Oval Center
+ODP-886C-NP018-35-7H-3W-5-8cm_N1of1_z200x_2d,ODP-886C-NP018-35-7H-3W-5-8cm_N1of1_z200x_2d_obj0001,1,11.005616,Smooth
+ODP-886C-NP021-41-7H-3W-35-38cm_N1of1_z200x_2d,ODP-886C-NP021-41-7H-3W-35-38cm_N1of1_z200x_2d_obj0001,1,11.142071,GenLin
+ODP-886C-NP021-42-7H-3W-40-43cm_N1of1_z200x_2d,ODP-886C-NP021-42-7H-3W-40-43cm_N1of1_z200x_2d_obj0001,1,11.165643,Trident
+ODP-886C-NP024-47-7H-3W-65-68cm_N1of1_z200x_2d,ODP-886C-NP024-47-7H-3W-65-68cm_N1of1_z200x_2d_obj0001,1,11.300326,Trident
+ODP-886C-NP024-47-7H-3W-65-68cm_N1of1_z200x_2d,ODP-886C-NP024-47-7H-3W-65-68cm_N1of1_z200x_2d_obj0002,2,11.300326,Chubby Trident
+ODP-886C-NP025-49-7H-3W-75-78cm_N1of1_z200x_2d,ODP-886C-NP025-49-7H-3W-75-78cm_N1of1_z200x_2d_obj0001,1,11.380761,Trident
+ODP-886C-NP025-50-7H-3W-80-83cm_N1of1_z200x_2d,ODP-886C-NP025-50-7H-3W-80-83cm_N1of1_z200x_2d_obj0001,1,11.420978,Trident
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00004_edf,4,22.3102,GenGeo
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00005_edf,5,22.3102,z
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00006_edf,6,22.3102,z
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00007_edf,7,22.3102,z
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00008_edf,8,22.3102,z
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00011_edf,11,22.3102,Five Ridged Linear Fan
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00012_edf,12,22.3102,Five Thin Ridged Fan
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00013_edf,13,22.3102,GenLin
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00014_edf,14,22.3102,Lopsided Trident
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00015_edf,15,22.3102,Five Thin Ridged Fan
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00016_edf,16,22.3102,Trident
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00017_edf,17,22.3102,Big Three Ridge
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00018_edf,18,22.3102,Llama
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00019_edf,19,22.3102,Five Ridged Linear Fan
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00020_edf,20,22.3102,GenLin
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00021_edf,21,22.3102,Five Ridged Linear Fan
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00022_edf,22,22.3102,Square Kite with Nodules
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00023_edf,23,22.3102,Asymmetrical Kite with Oval Center
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00024_edf,24,22.3102,GenGeo
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00025_edf,25,22.3102,Square Kite with Nodules
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00026_edf,26,22.3102,Kite-Like
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00027_edf,27,22.3102,Sharp Kite
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00028_edf,28,22.3102,Sharp Kite
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00029_edf,29,22.3102,Big Three Ridge
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00030_edf,30,22.3102,GenGeo
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00031_edf,31,22.3102,Four Ridged Linear Fan
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00032_edf,32,22.3102,Five Thin Ridged Fan
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00033_edf,33,22.3102,Angular Edged Arrowhead
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00034_edf,34,22.3102,GenGeo
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00035_edf,35,22.3102,GenGeo
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00036_edf,36,22.3102,GenLin
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00037_edf,37,22.3102,GenLin
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00038_edf,38,22.3102,z
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00039_edf,39,22.3102,z
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00040_edf,40,22.3102,Square Kite with Nodules
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00041_edf,41,22.3102,GenLin
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00042_edf,42,22.3102,Raised Dimple
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00043_edf,43,22.3102,Many Celled
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00044_edf,44,22.3102,Many Ridged Linear Fan
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00045_edf,45,22.3102,Branching Fragment
+ODP-886-060-7H-3W-130-133cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-060-7H-3W-130-133cm-g106_obj00046_edf,46,22.3102,Kite-Like
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00001_edf,1,23.1142,Kite-Like
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00002_edf,2,23.1142,Square Kite with Nodules
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00003_edf,3,23.1142,Cruciform Fragment
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00004_edf,4,23.1142,Branching Fragment
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00005_edf,5,23.1142,Lobular Trident
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00006_edf,6,23.1142,GenLin
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00007_edf,7,23.1142,Ridged Circle
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00008_edf,8,23.1142,Sharp Kite
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00009_edf,9,23.1142,Trident
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00010_edf,10,23.1142,Arrowhead
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00011_edf,11,23.1142,GenLin
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00012_edf,12,23.1142,Branching Fragment
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00013_edf,13,23.1142,Branching Fragment
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00014_edf,14,23.1142,Generic Single Dimpled Complex Polygon
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00015_edf,15,23.1142,GenGeo
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00016_edf,16,23.1142,GenLin
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00017_edf,17,23.1142,Sharp Kite
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00018_edf,18,23.1142,Raised Dimple
+ODP-886-065-7H-4W-10-13cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-065-7H-4W-10-13cm-g106_obj00019_edf,19,23.1142,GenLin
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00001_edf,1,23.7842,Generic Kite
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00002_edf,2,23.7842,Branching and Flared Chunk
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00003_edf,3,23.7842,Sharp Kite
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00004_edf,4,23.7842,Kite-Like
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00005_edf,5,23.7842,Generic Kite
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00006_edf,6,23.7842,Kite-Like
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00007_edf,7,23.7842,Asymmetrical Kite with Oval Center
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00008_edf,8,23.7842,Generic Kite
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00009_edf,9,23.7842,Generic Kite
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00010_edf,10,23.7842,Kite-Like
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00011_edf,11,23.7842,Kite-Like
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00012_edf,12,23.7842,Big Three Ridge
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00013_edf,13,23.7842,Generic Single Dimpled Complex Polygon
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00014_edf,14,23.7842,Stretched Bilateral Single Ridged
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00015_edf,15,23.7842,GenLin
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00016_edf,16,23.7842,Cruciform Fragment
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00017_edf,17,23.7842,Many Celled Central Complex Polygon
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00018_edf,18,23.7842,Bilateral Single Ridged
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00019_edf,19,23.7842,z
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00020_edf,20,23.7842,GenLin
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00021_edf,21,23.7842,Bilateral Polygon
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00022_edf,22,23.7842,Five Ridged Linear Fan
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00023_edf,23,23.7842,Troughed Diamond
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00024_edf,24,23.7842,Many Ridged Linear Fan
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00025_edf,25,23.7842,GenLin
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00026_edf,26,23.7842,GenLin
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00027_edf,27,23.7842,GenLin
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00028_edf,28,23.7842,GenLin
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00029_edf,29,23.7842,Raised Dimple
+ODP-886-070-7H-4W-35-38cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-070-7H-4W-35-38cm-g106_obj00030_edf,30,23.7842,GenLin
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00001_edf,1,24.4542,Generic Kite
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00002_edf,2,24.4542,Generic Single Dimpled Complex Polygon
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00003_edf,3,24.4542,Many Ridged Linear Fan
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00004_edf,4,24.4542,GenGeo
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00005_edf,5,24.4542,Many Celled Central Complex Polygon
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00006_edf,6,24.4542,Generic Kite
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00007_edf,7,24.4542,Elongated Asymmetrical
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00008_edf,8,24.4542,Kite-Like
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00009_edf,9,24.4542,Sharp Kite
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00010_edf,10,24.4542,Sharp Kite
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00011_edf,11,24.4542,Sharp Kite
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00012_edf,12,24.4542,Many Celled
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00013_edf,13,24.4542,Generic Kite
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00014_edf,14,24.4542,Sharp Kite
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00015_edf,15,24.4542,Kite-Like
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00016_edf,16,24.4542,Many Ridged Linear Fan
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00017_edf,17,24.4542,Sharp Kite
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00018_edf,18,24.4542,GenLin
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00019_edf,19,24.4542,Five Ridged Linear Fan
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00020_edf,20,24.4542,GenLin
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00021_edf,21,24.4542,Many Ridged Linear Fan
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00022_edf,22,24.4542,Five Ridged Linear Fan
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00023_edf,23,24.4542,GenLin
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00024_edf,24,24.4542,Sharp Kite
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00025_edf,25,24.4542,GenLin
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00026_edf,26,24.4542,GenGeo
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00027_edf,27,24.4542,GenLin
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00028_edf,28,24.4542,Branching Fragment
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00029_edf,29,24.4542,Generic Single Dimpled Complex Polygon
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00030_edf,30,24.4542,GenLin
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00031_edf,31,24.4542,GenLin
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00032_edf,32,24.4542,Minnie Indented Shell
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00033_edf,33,24.4542,GenLin
+ODP-886-075-7H-4W-60-63cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-075-7H-4W-60-63cm-g106_obj00034_edf,34,24.4542,GenLin
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00001_edf,1,25.1242,GenLin
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00002_edf,2,25.1242,Shallow Ridged Wide Crown
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00003_edf,3,25.1242,Generic Single Dimpled Complex Polygon
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00004_edf,4,25.1242,Bilateral Fan
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00005_edf,5,25.1242,Generic Kite
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00006_edf,6,25.1242,GenLin
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00007_edf,7,25.1242,Generic Kite
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00008_edf,8,25.1242,Shallow Ridged Wide Crown
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00009_edf,9,25.1242,Raised Dimple
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00010_edf,10,25.1242,Generic Kite
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00011_edf,11,25.1242,GenLin
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00012_edf,12,25.1242,GenLin
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00013_edf,13,25.1242,Generic Single Dimpled Complex Polygon
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00014_edf,14,25.1242,Bilateral Single Ridged
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00015_edf,15,25.1242,Stretched Bilateral Single Ridged
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00016_edf,16,25.1242,Generic Single Dimpled Complex Polygon
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00017_edf,17,25.1242,Generic Kite
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00018_edf,18,25.1242,Smooth
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00019_edf,19,25.1242,Cruciform Fragment
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00020_edf,20,25.1242,GenLin
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00021_edf,21,25.1242,Generic Kite
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00022_edf,22,25.1242,GenLin
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00023_edf,23,25.1242,Four Ridged Linear Fan
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00024_edf,24,25.1242,GenLin
+ODP-886-080-7H-4W-85-88cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-080-7H-4W-85-88cm-g106_obj00025_edf,25,25.1242,z
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00001_edf,1,25.7916,Many Ridged Linear Fan
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00002_edf,2,25.7916,Branching and Flared Chunk
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00003_edf,3,25.7916,Five Ridged Linear Fan
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00004_edf,4,25.7916,Branching and Flared Chunk
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00005_edf,5,25.7916,Kite-Like
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00006_edf,6,25.7916,Asymmetrical Kite with Oval Center
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00007_edf,7,25.7916,Generic Kite
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00008_edf,8,25.7916,Generic Kite
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00009_edf,9,25.7916,Sharp Kite
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00010_edf,10,25.7916,z
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00011_edf,11,25.7916,Many Celled
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00012_edf,12,25.7916,GenLin
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00013_edf,13,25.7916,Two Dimpled Fan
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00014_edf,14,25.7916,Extra Nubbed Trident
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00015_edf,15,25.7916,Generic Single Dimpled Complex Polygon
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00016_edf,16,25.7916,Generic Kite
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00017_edf,17,25.7916,Asymmetrical Kite with Oval Center
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00018_edf,18,25.7916,Sharp Kite
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00019_edf,19,25.7916,Generic Kite
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00020_edf,20,25.7916,Asymmetrical Kite with Oval Center
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00021_edf,21,25.7916,GenLin
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00022_edf,22,25.7916,GenLin
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00023_edf,23,25.7916,Branching Fragment
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00024_edf,24,25.7916,Bilateral Single Ridged
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00025_edf,25,25.7916,z
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00026_edf,26,25.7916,z
+ODP-886-085-7H-4W-110-113cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-085-7H-4W-110-113cm-g106_obj00027_edf,27,25.7916,Cruciform Fragment
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00001_edf,1,26.4542,Sharp Kite
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00002_edf,2,26.4542,GenGeo
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00003_edf,3,26.4542,Generic Kite
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00004_edf,4,26.4542,Sharp Kite
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00005_edf,5,26.4542,Square Kite with Nodules
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00006_edf,6,26.4542,Asymmetrical Kite with Oval Center
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00007_edf,7,26.4542,Sharp Kite
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00008_edf,8,26.4542,Generic Kite
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00009_edf,9,26.4542,Generic Single Dimpled Complex Polygon
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00010_edf,10,26.4542,GenLin
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00011_edf,11,26.4542,GenGeo
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00012_edf,12,26.4542,Raised Dimple
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00013_edf,13,26.4542,GenGeo
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00014_edf,14,26.4542,GenGeo
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00015_edf,15,26.4542,GenLin
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00016_edf,16,26.4542,Sharp Kite
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00017_edf,17,26.4542,GenGeo
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00018_edf,18,26.4542,Generic Single Dimpled Complex Polygon
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00019_edf,19,26.4542,Generic Single Dimpled Complex Polygon
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00020_edf,20,26.4542,Sharp Kite
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00021_edf,21,26.4542,z
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00022_edf,22,26.4542,GenLin
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00023_edf,23,26.4542,GenGeo
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00024_edf,24,26.4542,Geometric Arrowhead
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00025_edf,25,26.4542,z
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00026_edf,26,26.4542,Branching Fan
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00027_edf,27,26.4542,z
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00028_edf,28,26.4542,Generic Single Dimpled Complex Polygon
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00029_edf,29,26.4542,Generic Single Dimpled Complex Polygon
+ODP-886-090-7H-4W-135-138cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-090-7H-4W-135-138cm-g106_obj00030_edf,30,26.4542,Generic Kite
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00001_edf,1,27.2582,GenLin
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00002_edf,2,27.2582,Branching Fragment
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00003_edf,3,27.2582,Branching Fragment
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00004_edf,4,27.2582,GenLin
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00005_edf,5,27.2582,GenLin
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00006_edf,6,27.2582,Wrinkly
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00007_edf,7,27.2582,GenLin
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00008_edf,8,27.2582,Asymmetrical Kite with Oval Center
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00009_edf,9,27.2582,GenGeo
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00010_edf,10,27.2582,Sharp Kite
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00011_edf,11,27.2582,GenLin
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00012_edf,12,27.2582,Wrinkly
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00013_edf,13,27.2582,z
+ODP-886-095-7H-5W-15-18cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-095-7H-5W-15-18cm-g106_obj00014_edf,14,27.2582,Asymmetrical Kite with Oval Center
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00001_edf,1,27.9282,Crinkle Tops
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00002_edf,2,27.9282,GenLin
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00003_edf,3,27.9282,Generic Single Dimpled Complex Polygon
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00004_edf,4,27.9282,Troughed Diamond
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00005_edf,5,27.9282,Generic Single Dimpled Complex Polygon
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00006_edf,6,27.9282,GenLin
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00007_edf,7,27.9282,GenLin
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00008_edf,8,27.9282,Many Celled Central Complex Polygon
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00009_edf,9,27.9282,Many Celled
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00010_edf,10,27.9282,GenLin
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00011_edf,11,27.9282,GenGeo
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00012_edf,12,27.9282,Generic Kite
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00013_edf,13,27.9282,z
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00014_edf,14,27.9282,GenLin
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00015_edf,15,27.9282,Generic Single Dimpled Complex Polygon
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00016_edf,16,27.9282,Extra Nubbed Trident
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00017_edf,17,27.9282,Trident
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00018_edf,18,27.9282,Bilateral Fan
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00019_edf,19,27.9282,Many Celled Central Complex Polygon
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00020_edf,20,27.9282,Branching Fragment
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00021_edf,21,27.9282,Square Kite with Nodules
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00022_edf,22,27.9282,GenLin
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00023_edf,23,27.9282,Asymmetrical Kite with Oval Center
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00024_edf,24,27.9282,z
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00025_edf,25,27.9282,Many Celled
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00026_edf,26,27.9282,GenLin
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00027_edf,27,27.9282,GenGeo
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00028_edf,28,27.9282,Sharp Kite
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00029_edf,29,27.9282,GenLin
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00030_edf,30,27.9282,z
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00031_edf,31,27.9282,Raised Dimple
+ODP-886-100-7H-5W-40-43cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-100-7H-5W-40-43cm-g106_obj00032_edf,32,27.9282,GenLin
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00001_edf,1,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00002_edf,2,28.5982,Branching and Flared Chunk
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00003_edf,3,28.5982,z
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00004_edf,4,28.5982,z
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00005_edf,5,28.5982,Generic Single Dimpled Complex Polygon
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00006_edf,6,28.5982,Shallow Ridged Wide Crown
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00007_edf,7,28.5982,Square Kite with Nodules
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00008_edf,8,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00009_edf,9,28.5982,NA
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00010.5_edf,10.5,28.5982,GenGeo
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00010_edf,10,28.5982,z
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00011_edf,11,28.5982,GenLin
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00012_edf,12,28.5982,Raised Dimple
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00013_edf,13,28.5982,GenLin
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00014_edf,14,28.5982,Generic Single Dimpled Complex Polygon
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00015_edf,15,28.5982,Generic Single Dimpled Complex Polygon
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00016_edf,16,28.5982,Sharp Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00017_edf,17,28.5982,Bilateral Fan
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00018_edf,18,28.5982,z
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00020_edf,20,28.5982,Stretched Branching Crown
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00021_edf,21,28.5982,Many Celled
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00022_edf,22,28.5982,Shallow Ridged Wide Crown
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00023_edf,23,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00024_edf,24,28.5982,Trident
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00025_edf,25,28.5982,Generic Single Dimpled Complex Polygon
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00026_edf,26,28.5982,Central Troughed Petal
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00027_edf,27,28.5982,GenLin
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00028_edf,28,28.5982,Bilateral Single Ridged
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00029_edf,29,28.5982,GenLin
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00030_edf,30,28.5982,GenLin
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00031_edf,31,28.5982,Bilateral Fan
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00032_edf,32,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00033_edf,33,28.5982,Four Ridged Linear Fan
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00034_edf,34,28.5982,Bilateral Fan
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00035_edf,35,28.5982,Stretched Minnie Indented Shell
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00036_edf,36,28.5982,Asymmetrical Kite with Oval Center
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00037_edf,37,28.5982,Branching and Flared Chunk
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00038_edf,38,28.5982,Bilateral Fan
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00039_edf,39,28.5982,Sharp Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00040_edf,40,28.5982,Square Kite with Nodules
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00041_edf,41,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00042_edf,42,28.5982,GenLin
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00043_edf,43,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00044_edf,44,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00045_edf,45,28.5982,Llama
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00046_edf,46,28.5982,Generic Single Dimpled Complex Polygon
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00047_edf,47,28.5982,Sharp Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00048_edf,48,28.5982,Many Celled
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00049_edf,49,28.5982,z
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00050_edf,50,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00051_edf,51,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00052_edf,52,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00053_edf,53,28.5982,z
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00054_edf,54,28.5982,Raised Dimple
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00055_edf,55,28.5982,z
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00056_edf,56,28.5982,Single Dimpled Pentagon
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00057_edf,57,28.5982,GenLin
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00058_edf,58,28.5982,GenLin
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00059_edf,59,28.5982,GenLin
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00060_edf,60,28.5982,Trident with Pointed Base
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00061_edf,61,28.5982,Branching Fragment
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00062_edf,62,28.5982,Branching Fragment
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00063_edf,63,28.5982,Crinkle Tops
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00064_edf,64,28.5982,GenLin
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00065_edf,65,28.5982,Generic Single Dimpled Complex Polygon
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00066_edf,66,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00067_edf,67,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00068_edf,68,28.5982,Generic Single Dimpled Complex Polygon
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00069_edf,69,28.5982,Generic Kite
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00070_edf,70,28.5982,Trident
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00071_edf,71,28.5982,Raised Dimple
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00072_edf,72,28.5982,z
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00073_edf,73,28.5982,z
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00074_edf,74,28.5982,Asymmetrical Kite with Oval Center
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00075_edf,75,28.5982,Square Kite with Nodules
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00076_edf,76,28.5982,Minnie Indented Shell
+ODP-886-105-7H-5W-65-68cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-105-7H-5W-65-68cm-g106_obj00077_edf,77,28.5982,Generic Single Dimpled Complex Polygon
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00001_edf,1,29.2682,Sharp Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00002_edf,2,29.2682,Generic Single Dimpled Complex Polygon
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00003_edf,3,29.2682,Five Thin Ridged Fan
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00004_edf,4,29.2682,Sharp Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00005_edf,5,29.2682,Generic Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00006_edf,6,29.2682,Generic Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00007_edf,7,29.2682,Generic Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00008_edf,8,29.2682,Generic Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00009_edf,9,29.2682,z
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00010_edf,10,29.2682,Trident
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00011_edf,11,29.2682,z
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00012_edf,12,29.2682,Generic Single Dimpled Complex Polygon
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00013_edf,13,29.2682,Sharp Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00014_edf,14,29.2682,Generic Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00015_edf,15,29.2682,Asymmetrical Kite with Oval Center
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00016_edf,16,29.2682,Trident
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00017_edf,17,29.2682,Generic Single Dimpled Complex Polygon
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00018_edf,18,29.2682,Asymmetrical Kite with Oval Center
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00019_edf,19,29.2682,Generic Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00020_edf,20,29.2682,GenLin
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00021_edf,21,29.2682,GenLin
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00022_edf,22,29.2682,z
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00023_edf,23,29.2682,Branching Fragment
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00024_edf,24,29.2682,Asymmetrical Kite with Oval Center
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00025_edf,25,29.2682,Generic Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00026_edf,26,29.2682,Many Ridged Linear Fan
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00027_edf,27,29.2682,GenLin
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00028_edf,28,29.2682,Many Celled Central Complex Polygon
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00029_edf,29,29.2682,GenLin
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00030_edf,30,29.2682,Sharp Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00031_edf,31,29.2682,Generic Kite
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00032_edf,32,29.2682,Generic Single Dimpled Complex Polygon
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00033_edf,33,29.2682,Generic Single Dimpled Complex Polygon
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00034_edf,34,29.2682,GenLin
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00035_edf,35,29.2682,GenLin
+ODP-886-110-7H-5W-90-93cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-110-7H-5W-90-93cm-g106_obj00036_edf,36,29.2682,z
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00001_edf,1,29.93667,z
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00002_edf,2,29.93667,Generic Single Dimpled Complex Polygon
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00003_edf,3,29.93667,GenLin
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00004_edf,4,29.93667,z
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00005_edf,5,29.93667,Generic Single Dimpled Complex Polygon
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00006_edf,6,29.93667,Generic Kite
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00007_edf,7,29.93667,GenLin
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00008_edf,8,29.93667,Many Celled
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00009_edf,9,29.93667,GenGeo
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00010_edf,10,29.93667,Sharp Kite
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00011_edf,11,29.93667,Generic Kite
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00012_edf,12,29.93667,Generic Single Dimpled Complex Polygon
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00013_edf,13,29.93667,Generic Single Dimpled Complex Polygon
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00014_edf,14,29.93667,Generic Kite
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00015_edf,15,29.93667,Generic Kite
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00016_edf,16,29.93667,Thin Ridged Kite
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00017_edf,17,29.93667,Generic Kite
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00018_edf,18,29.93667,Generic Single Dimpled Complex Polygon
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00019_edf,19,29.93667,Generic Kite
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00020_edf,20,29.93667,GenLin
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00021_edf,21,29.93667,Bilateral Fan
+ODP-886-115-7H-5W-115-118cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-115-7H-5W-115-118cm-g106_obj00022_edf,22,29.93667,Generic Kite
+ODP-886-120-7H-6W-5-8cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-120-7H-6W-5-8cm-g106_obj00002_edf,2,31.00333,GenLin
+ODP-886-120-7H-6W-5-8cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-120-7H-6W-5-8cm-g106_obj00003_edf,3,31.00333,z
+ODP-886-120-7H-6W-5-8cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-120-7H-6W-5-8cm-g106_obj00004_edf,4,31.00333,Trident
+ODP-886-120-7H-6W-5-8cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-120-7H-6W-5-8cm-g106_obj00005_edf,5,31.00333,GenLin
+ODP-886-120-7H-6W-5-8cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-120-7H-6W-5-8cm-g106_obj00006_edf,6,31.00333,z
+ODP-886-120-7H-6W-5-8cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-120-7H-6W-5-8cm-g106_obj00007_edf,7,31.00333,z
+ODP-886-120-7H-6W-5-8cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-120-7H-6W-5-8cm-g106_obj00008_edf,8,31.00333,Generic Kite
+ODP-886-120-7H-6W-5-8cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-120-7H-6W-5-8cm-g106_obj00009_edf,9,31.00333,z
+ODP-886-120-7H-6W-5-8cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-120-7H-6W-5-8cm-g106_obj00010_edf,10,31.00333,GenLin
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00001_edf,1,31.6702,Smooth
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00002_edf,2,31.6702,Round Ridged Trident
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00003_edf,3,31.6702,Generic Single Dimpled Complex Polygon
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00004_edf,4,31.6702,Asymmetrical Kite with Oval Center
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00005_edf,5,31.6702,z
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00006_edf,6,31.6702,z
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00007_edf,7,31.6702,GenLin
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00008_edf,8,31.6702,Five Thin Ridged Fan
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00009_edf,9,31.6702,GenLin
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00010_edf,10,31.6702,GenLin
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00011_edf,11,31.6702,z
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00012_edf,12,31.6702,GenLin
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00013_edf,13,31.6702,Generic Single Dimpled Complex Polygon
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00014_edf,14,31.6702,GenLin
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00015_edf,15,31.6702,z
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00016_edf,16,31.6702,Generic Kite
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00017_edf,17,31.6702,Raised Dimple
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00018_edf,18,31.6702,GenLin
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00019_edf,19,31.6702,z
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00020_edf,20,31.6702,Trident
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00020.5_edf,20.5,31.6702,z
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00021_edf,21,31.6702,GenLin
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00022_edf,22,31.6702,z
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00023_edf,23,31.6702,Five Ridged Linear Fan
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00024_edf,24,31.6702,z
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00025_edf,25,31.6702,GenLin
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00026_edf,26,31.6702,Trident
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00027_edf,27,31.6702,Generic Single Dimpled Complex Polygon
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00028_edf,28,31.6702,Cruciform Fragment
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00029_edf,29,31.6702,Generic Single Dimpled Complex Polygon
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00030_edf,30,31.6702,z
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00031_edf,31,31.6702,GenLin
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00032_edf,32,31.6702,Skinny Pear Shaped Wedge
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00033_edf,33,31.6702,z
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00034_edf,34,31.6702,z
+ODP-886-125-7H-6W-30-33cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-125-7H-6W-30-33cm-g106_obj00035_edf,35,31.6702,GenLin
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00001_edf,1,32.3402,GenLin
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00002_edf,2,32.3402,GenLin
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00003_edf,3,32.3402,z
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00004_edf,4,32.3402,Trident
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00005_edf,5,32.3402,z
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00006_edf,6,32.3402,GenGeo
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00007_edf,7,32.3402,Generic Single Dimpled Complex Polygon
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00008_edf,8,32.3402,Trident
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00009_edf,9,32.3402,z
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00010_edf,10,32.3402,GenLin
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00011_edf,11,32.3402,z
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00012_edf,12,32.3402,Shallow Ridged Wide Crown
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00013_edf,13,32.3402,Generic Single Dimpled Complex Polygon
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00014_edf,14,32.3402,GenLin
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00015_edf,15,32.3402,z
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00016_edf,16,32.3402,Central Ridged Triangle
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00017_edf,17,32.3402,GenLin
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00018_edf,18,32.3402,GenLin
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00019_edf,19,32.3402,Smooth
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00020_edf,20,32.3402,Generic Single Dimpled Complex Polygon
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00021_edf,21,32.3402,GenLin
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00022_edf,22,32.3402,Many Ridged Linear Fan
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00023_edf,23,32.3402,Many Celled Central Complex Polygon
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00024_edf,24,32.3402,GenLin
+ODP-886-130-7H-6W-55-58cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-130-7H-6W-55-58cm-g106_obj00025_edf,25,32.3402,GenLin
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00003_edf,3,33.0102,GenLin
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00004_edf,4,33.0102,GenLin
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00005_edf,5,33.0102,GenLin
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00006_edf,6,33.0102,Extra Nubbed Trident
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00007_edf,7,33.0102,GenLin
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00008_edf,8,33.0102,GenLin
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00009_edf,9,33.0102,GenGeo
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00010_edf,10,33.0102,Trident
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00011_edf,11,33.0102,GenLin
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00012_edf,12,33.0102,z
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00013_edf,13,33.0102,Generic Kite
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00014_edf,14,33.0102,Smooth
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00015_edf,15,33.0102,Bilateral Single Ridged Arrowhead
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00016_edf,16,33.0102,GenLin
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00017_edf,17,33.0102,Five Ridged Linear Fan
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00018_edf,18,33.0102,GenLin
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00020_edf,20,33.0102,Trident
+ODP-886-135-7H-6W-80-83cm-g106_Hwell_N2of2_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-135-7H-6W-80-83cm-g106_obj00021_edf,21,33.0102,GenLin
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00001_edf,1,35.66296,z
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00002_edf,2,35.66296,GenLin
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00003_edf,3,35.66296,z
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00004_edf,4,35.66296,Sharp Kite
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00005_edf,5,35.66296,Asymmetrical Kite with Oval Center
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00006_edf,6,35.66296,Bilateral Fan
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00007_edf,7,35.66296,Extra Nubbed Trident
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00008_edf,8,35.66296,GenGeo
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00009_edf,9,35.66296,Trident
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00010_edf,10,35.66296,Smooth
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00011_edf,11,35.66296,z
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00012_edf,12,35.66296,Square Kite with Nodules
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00013_edf,13,35.66296,GenLin
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00014_edf,14,35.66296,Square Kite with Nodules
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00015_edf,15,35.66296,z
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00016_edf,16,35.66296,Square Kite with Nodules
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00017_edf,17,35.66296,z
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00018_edf,18,35.66296,Cruciform Fragment
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00019_edf,19,35.66296,Many Celled Central Complex Polygon
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00020_edf,20,35.66296,z
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00021_edf,21,35.66296,Trident
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00022_edf,22,35.66296,Five Ridged Linear Fan
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00023_edf,23,35.66296,GenLin
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00024_edf,24,35.66296,GenLin
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00025_edf,25,35.66296,GenLin
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00026_edf,26,35.66296,Five Ridged Linear Fan
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00027_edf,27,35.66296,z
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00028_edf,28,35.66296,Sharp Kite
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00029_edf,29,35.66296,Minnie Indented Shell
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00030_edf,30,35.66296,Five Ridged Linear Fan
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00031_edf,31,35.66296,Many Ridged Linear Fan
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00032_edf,32,35.66296,Trident
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00033_edf,33,35.66296,z
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00034_edf,34,35.66296,Five Ridged Linear Fan
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00035_edf,35,35.66296,Branching Fragment
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00036_edf,36,35.66296,Skinny Pear Shaped Wedge
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00037_edf,37,35.66296,GenLin
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00038_edf,38,35.66296,Generic Single Dimpled Complex Polygon
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00039_edf,39,35.66296,Trident
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00040_edf,40,35.66296,GenLin
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00041_edf,41,35.66296,z
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00042_edf,42,35.66296,Generic Kite
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00043_edf,43,35.66296,Generic Single Dimpled Complex Polygon
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00044_edf,44,35.66296,GenLin
+ODP-886-140-7H-6W-105-108cm-g106_Hwell_N2of3_Mcompound_Oflat_I1_TzEDF-0_X5,ODP-886-140-7H-6W-105-108cm-g106_obj00045_edf,45,35.66296,GenGeo
