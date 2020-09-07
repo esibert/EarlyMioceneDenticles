@@ -1,0 +1,89 @@
+##### Range Chart Legend for Figure 1 #####
+1. Angular Edged Arrowhead
+2. Angular Straight Edge
+3. Arrowhead
+4. Asymmetrical Kite with Oval Center
+5. Big Three Ridge
+6. Bilateral Fan
+7. Bilateral Polygon
+8. Bilateral Single Ridged
+9. Bilateral Single Ridged Arrowhead
+10. Branching and Flared Chunk
+11. Branching Fan
+12. Branching Fragment
+13. Central Ridged Extended Trident
+14. Central Ridged Triangle
+15. Central Troughed Petal
+16. Chubby Trident
+17. Crinkle Tops
+18. Criss cross
+19. Cruciform Fragment
+20. Elongated Asymmetrical
+21. Extended Central Troughed Petal
+22. Extra Nubbed Trident
+23. Eyeball
+24. Five Ridged Linear Fan
+25. Five Thin Ridged Fan
+26. Four Ridged Linear Fan
+27. Fusiform Dimpled Diamond
+28. Generic Kite
+29. Generic Single Dimpled Complex Polygon
+30. GenGeo
+31. GenLin
+32. Geometric Arrowhead
+33. Helter Skelter
+34. High Ridged Diamond
+35. Kite-Like
+36. Kite with Bubble
+37. Large Angular Bits
+38. Llama
+39. Lobular Trident
+40. Lopsided Trident
+41. Many Celled
+42. Many Celled Central Complex Polygon
+43. Many Ridged Linear Fan
+44. Minnie Indented Shell
+45. Oblong Branching Crown
+46. Raised Dimple
+47. Rake
+48. Ridged Circle
+49. Right Angled Five Ridge
+50. Round Ridged Trident
+51. Round Sided Trident
+52. Shallow Ridged Branching Fan
+53. Shallow Ridged Circle
+54. Shallow Ridged Wide Crown
+55. Sharp Kite
+56. Single Dimpled Heptagon
+57. Single Dimpled Hexagon
+58. Single Dimpled Hexagon with Scalloped Edges
+59. Single Dimpled Octagon
+60. Single Dimpled Pentagon
+61. Skinny Pear Shaped Wedge
+62. Smooth
+63. Smooth Petal
+64. Square Kite with Nodules
+65. Squished Kite
+66. Stretched Bilateral Single Ridged
+67. Stretched Branching Crown
+68. Stretched Minnie Indented Shell
+69. Thin Ridged Kite
+70. Three Ridged Extended Petal
+71. Trident
+72. Trident with Pointed Base
+73. Trident with Rounded Base
+74. Triple Dimpled Crown
+75. Troughed Diamond
+76. Two Big Lobes
+77. Two Dimpled Fan
+78. Two Ridged Shell
+79. Two Ridged Wedge
+80. Two Sectioned Wedge
+81. Wavey Trident
+82. Wedged Branching Crown
+83. Whale Blow
+84. Widespread Branching Crown
+85. Wrapped Trident
+86. Wrinkly
+87. Wrinkly Kite
+88. Zebra Hoof
