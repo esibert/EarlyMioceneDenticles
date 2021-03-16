@@ -1,7 +1,7 @@
 ##########################################################
 #                                                        #
 #        Denticle Analyses                               #
-#           Aug 18, 2020                                 #
+#           March 16, 2021                               #
 #    Elizabeth Sibert and Leah Rubin                     #
 #     Supplemental Code for:                             #
 #     "An Early Miocene Extinction in Pelagic Sharks"    #
@@ -52,14 +52,17 @@
 
 ##### Libraries #####
 library(ichthyoliths) # for range chart fucntion
-library(vegan)  # for rarefaction analyses ????? WHY DO I HAVE VEGAN INSTALLED?
+library(vegan)  # for rarefaction analyses 
 library(Hmisc)  # for some of the stats
 library(viridis) # for colors
 # library(rfishbase) # if necessary to run taxonomy lookup for modern denticles. not necessary in the current scripts
 
-##### Functions #####
+##### Functions & Published Datasets #####
 # All functions used in these analyses are stored in functions.R
 source('code/functions.R')
+
+# Westerhold 2020 smoothed dataset (for supplemental figure)
+westerhold <- read.csv('data/Westerhold_2020_Oxygen_Carbon_smooth.csv')
 
 ##### Save SessionInfo to file #####
 writeLines(capture.output(sessionInfo()), "sessionInfo.txt")
@@ -96,6 +99,7 @@ denticle_geomlin$Classification <- as.factor(denticle_geomlin$Classification)
 accum.596 <- read.csv('data/596_accum.csv', header =TRUE)
 names(accum.596)[1] <- 'age'
 accum.596$dentAR[39:44] <- accum.596$dentAR[39:44]/4 #normalize the accumulation rate from poor age model interval
+accum.596$teethAR[39:44] <- accum.596$teethAR[39:44]/4 #normalize the accumulation rate from poor age model interval
 
 age.breakdown.596 <- c(accum.596$age[39], accum.596$age[44])
 
@@ -134,6 +138,31 @@ counts.886 <- table(sub.886, exclude='z')  # occurrance table
 taxa.886 <- colnames(counts.886) #
 cat.886 <- type.cat.lookup(taxaList = taxa.886, typeList = denticle_geomlin)
 
+#### Include *all* 886 samples observed, even those with no denticles
+neogene.886 <- c(na.omit(accum.886$age[c(accum.886$age<19.1)])) #pull just the Neogene sample ages
+    # The na.omit here is because I added a NA line to make plotting the hiatus easier
+
+# run loop to add rows of zero values for samples with teeth but no denticles
+rowname.ages <- as.numeric(rownames(counts.886)) # save the old ranges for loop
+counts.886.all <- counts.886
+for(i in 1:length(neogene.886)) {
+    age.point <- neogene.886[i]
+    if(age.point %in% rowname.ages == FALSE) {  
+        newrow <- rep(0, length(counts.886.all[1,]))
+        counts.886.all <- as.table(rbind(counts.886.all, newrow))
+        rownames(counts.886.all)[length(rownames(counts.886.all))] <- age.point
+    }
+}
+
+rm(i, age.point, newrow, rowname.ages)
+
+# Reorder counts.596.all to be in age order
+counts.886.all <- counts.886.all[ order(as.numeric(row.names(counts.886.all))), ]
+# Note that taxa.886 and cat.886 remain untouched. 
+
+age.886.all <- as.numeric(rownames(counts.886.all))
+
+
 ##################################
 #                                #
 #     DSDP 596 Denticle Types    #
@@ -157,7 +186,7 @@ taxa.596 <- colnames(counts.596)
 cat.596 <- type.cat.lookup(taxaList = taxa.596, typeList = denticle_geomlin)
 
 #### Include *all* 596 depths, even those with no denticles [this is ]
-neogene.596 <- c(accum.596$age[1:39]) #pull just the first 39 Neogene sample ages
+neogene.596 <- accum.596$age[c(accum.596$age<19.1)] #pull just the first post-extinction sample ages
 
 # run loop to add rows of zero values for samples with teeth but no denticles
 rowname.ages <- as.numeric(rownames(counts.596)) # save the old ranges for loop
@@ -504,7 +533,8 @@ sink()
 #   values are the same for all counts.fossil.[taxa].matches datasets, since the only thing that 
 #   changes is the number counted in the 0 ('modern') age level, which isn't a part of the calculation
 
-##### 50% Range Extensions #####  
+##### Range Extinction calculations done on the full DSDP 596 / ODP 886 / Modern combined dataset #####
+### 50% Range Extensions  
 # 50% range extntions
 extensions.fossil.species.matches.50 <- rangeExtensions(counts.fossil.species.matches, conf = 0.5)
 extensions.fossil.species.matches.50$new.lad[extensions.fossil.species.matches.50$new.lad<0] <- 0 #zero out modern extensions... 
@@ -519,7 +549,7 @@ species.range.extended.50 <- dim(ext.fossils.modern.sub.50)[1]
 sp.conf.50.95 <- binom.conf(species.range.extended.50, conf = 0.5, conf.threshold = 0.95, print.output = F, print.error = F)
 sp.conf.50.99 <- binom.conf(species.range.extended.50, conf = 0.5, conf.threshold = 0.99, print.output = F, print.error = F)
 
-##### 20% Range Extensions #####
+### 20% Range Extensions 
 # 20% range extntions
 extensions.fossil.species.matches.20 <- rangeExtensions(counts.fossil.species.matches, conf = 0.2)
 extensions.fossil.species.matches.20$new.lad[extensions.fossil.species.matches.20$new.lad<0] <- 0 #zero out modern extensions... 
@@ -535,38 +565,144 @@ sp.conf.20.95 <- binom.conf(species.range.extended.20, conf = 0.2, conf.threshol
 sp.conf.20.99 <- binom.conf(species.range.extended.20, conf = 0.2, conf.threshold = 0.99, print.output = F, print.error = F)
 
 
+##### Range extinction calculations done only on DSDP Site 596 (with modern survivors) #####
+### 50% range extntions
+extensions.596.species.matches.50 <- rangeExtensions(counts.596.species, conf = 0.5)
+extensions.596.species.matches.50$new.lad[extensions.596.species.matches.50$new.lad<0] <- 0 #zero out modern extensions... 
+
+# Selecct only the types that went extinct that are not singletons (reduces the total nubmer of denticle types)
+ext.596.modern.sub.50 <- subset(extensions.596.species.matches.50, extensions.596.species.matches.50$occurrences > 1 & extensions.596.species.matches.50$lads >= 19)
+
+# How many denticles went extinct and are not singletons and can be used for this analysis? 
+species.596.range.extended.50 <- dim(ext.596.modern.sub.50)[1]
+
+# Calculate binomial probability distributions for these denticles: 
+sp.conf.596.50.95 <- binom.conf(species.596.range.extended.50, conf = 0.5, conf.threshold = 0.95, print.output = F, print.error = F)
+sp.conf.596.50.99 <- binom.conf(species.596.range.extended.50, conf = 0.5, conf.threshold = 0.99, print.output = F, print.error = F)
+
+### 20% Range Extensions 
+# 20% range extntions
+extensions.596.species.matches.20 <- rangeExtensions(counts.596.species, conf = 0.2)
+extensions.596.species.matches.20$new.lad[extensions.596.species.matches.20$new.lad<0] <- 0 #zero out modern extensions... 
+
+# Selecct only the types that went extinct that are not singletons (reduces the total nubmer of denticle types)
+ext.596.modern.sub.20 <- subset(extensions.596.species.matches.20, extensions.596.species.matches.20$occurrences > 1 & extensions.596.species.matches.20$lads >= 19)
+
+# How many denticles went extinct and are not singletons and can be used for this analysis? 
+species.596.range.extended.20 <- dim(ext.596.modern.sub.20)[1]
+
+# Calculate binomial probability distributions for these denticles: 
+sp.conf.596.20.95 <- binom.conf(species.596.range.extended.20, conf = 0.2, conf.threshold = 0.95, print.output = F, print.error = F)
+sp.conf.596.20.99 <- binom.conf(species.596.range.extended.20, conf = 0.2, conf.threshold = 0.99, print.output = F, print.error = F)
+
+
+##### Range Extinction calculations done on the FOSSIL DSDP 596 / ODP 886 combined dataset (no modern) #####
+### 50% Range Extensions  
+# 50% range extntions
+extensions.fossil.50 <- rangeExtensions(counts.fossil, conf = 0.5)
+extensions.fossil.50$new.lad[extensions.fossil.50$new.lad<0] <- 0 #zero out modern extensions... 
+
+# Selecct only the types that went extinct that are not singletons (reduces the total nubmer of denticle types)
+ext.fossils.sub.50 <- subset(extensions.fossil.50, extensions.fossil.50$occurrences > 1 & extensions.fossil.50$lads >= 19)
+
+# How many denticles went extinct and are not singletons and can be used for this analysis? 
+fossil.range.extended.50 <- dim(ext.fossils.sub.50)[1]
+
+# Calculate binomial probability distributions for these denticles: 
+sp.fossil.conf.50.95 <- binom.conf(fossil.range.extended.50, conf = 0.5, conf.threshold = 0.95, print.output = F, print.error = F)
+sp.fossil.conf.50.99 <- binom.conf(fossil.range.extended.50, conf = 0.5, conf.threshold = 0.99, print.output = F, print.error = F)
+
+### 20% Range Extensions 
+# 20% range extntions
+extensions.fossil.20 <- rangeExtensions(counts.fossil, conf = 0.2)
+extensions.fossil.20$new.lad[extensions.fossil.20$new.lad<0] <- 0 #zero out modern extensions... 
+
+# Selecct only the types that went extinct that are not singletons (reduces the total nubmer of denticle types)
+ext.fossils.sub.20 <- subset(extensions.fossil.20, extensions.fossil.20$occurrences > 1 & extensions.fossil.20$lads >= 19)
+
+# How many denticles went extinct and are not singletons and can be used for this analysis? 
+fossil.range.extended.20 <- dim(ext.fossils.sub.20)[1]
+
+# Calculate binomial probability distributions for these denticles: 
+sp.fossil.conf.20.95 <- binom.conf(fossil.range.extended.20, conf = 0.2, conf.threshold = 0.95, print.output = F, print.error = F)
+sp.fossil.conf.20.99 <- binom.conf(fossil.range.extended.20, conf = 0.2, conf.threshold = 0.99, print.output = F, print.error = F)
+
+
+##### Range extinction calculations done only on DSDP Site 596 (no modern matches) #####
+### 50% range extntions
+extensions.596.50 <- rangeExtensions(counts.596.all, conf = 0.5)
+extensions.596.50$new.lad[extensions.596.50$new.lad<0] <- 0 #zero out modern extensions... 
+
+# Selecct only the types that went extinct that are not singletons (reduces the total nubmer of denticle types)
+ext.596.sub.50 <- subset(extensions.596.50, extensions.596.50$occurrences > 1 & extensions.596.50$lads >= 19)
+
+# How many denticles went extinct and are not singletons and can be used for this analysis? 
+fossil.596.range.extended.50 <- dim(ext.596.sub.50)[1]
+
+# Calculate binomial probability distributions for these denticles: 
+sp.conf.596.fossil.50.95 <- binom.conf(fossil.596.range.extended.50, conf = 0.5, conf.threshold = 0.95, print.output = F, print.error = F)
+sp.conf.596.fossil.50.99 <- binom.conf(fossil.596.range.extended.50, conf = 0.5, conf.threshold = 0.99, print.output = F, print.error = F)
+
+### 20% Range Extensions 
+# 20% range extntions
+extensions.596.20 <- rangeExtensions(counts.596.all, conf = 0.2)
+extensions.596.20$new.lad[extensions.596.20$new.lad<0] <- 0 #zero out modern extensions... 
+
+# Selecct only the types that went extinct that are not singletons (reduces the total nubmer of denticle types)
+ext.596.sub.20 <- subset(extensions.596.20, extensions.596.20$occurrences > 1 & extensions.596.20$lads >= 19)
+
+# How many denticles went extinct and are not singletons and can be used for this analysis? 
+fossil.596.range.extended.20 <- dim(ext.596.sub.20)[1]
+
+# Calculate binomial probability distributions for these denticles: 
+sp.conf.596.fossil.20.95 <- binom.conf(fossil.596.range.extended.20, conf = 0.2, conf.threshold = 0.95, print.output = F, print.error = F)
+sp.conf.596.fossil.20.99 <- binom.conf(fossil.596.range.extended.20, conf = 0.2, conf.threshold = 0.99, print.output = F, print.error = F)
+
+
 ##################################
 #                                #
 #        Rarefaction Setup       #
 #                                #
 ##################################
+## Modern only
 rare.modern <- sub.modern.rarefy
 rare.modern.counts <- table(sub.modern.rarefy)
 # rarecurve(rare.modern.counts)
 
+## Fossil only
 rare.fossil <- data.frame(Age = 'fossil', Type = sub.fossil$Type)
 rare.fossil.counts <- table(rare.fossil)
 # rarecurve(rare.fossil.counts)
 
-rare.fossil.modern <- rbind(rare.fossil, rare.modern)
-rare.fossil.modern.counts <- table(rare.fossil.modern)
-# rarecurve(rare.fossil.modern.counts)
-
+## Fossils split by pre- and post 
 rare.fossil.split <- data.frame(Age = ifelse(sub.fossil$Age >= 19, 'Pre', 'Post'), Type = sub.fossil$Type)
 rare.fossil.split.counts <- table(rare.fossil.split)
 # rarecurve(rare.fossil.split.counts)
 
-rare.fossil.modern.split <- rbind(rare.fossil.modern, rare.fossil.split)
-rare.fossil.modern.split.counts <- table(rare.fossil.modern.split)
-# rarecurve(rare.fossil.modern.split.counts)
+## Set up Rarefaction on DSDP 596 Subset with equal sample number pre- and post- extinction 
+counts.596.pre <- counts.596.all[as.numeric(rownames(counts.596.all))>= 19.36,] # all pre-extinction denticles
+counts.596.post <- counts.596.all[as.numeric(rownames(counts.596.all))<= 19.36,] # all post-extinction denticles
+counts.596.pre.subset <- counts.596.pre[1:dim(counts.596.post)[1],] #Pull the youngest samples pre-extinction to match the number of samples as post-extinction
+# Rarefication Tables
+rare.counts.596.post <- apply(counts.596.post, 2, sum)
+rare.counts.596.pre <- apply(counts.596.pre, 2, sum)
+rare.counts.596.pre.sub <- apply(counts.596.pre.subset, 2, sum)
 
-rare.all.dent <- data.frame(Age = 'All', Type = rare.fossil.modern$Type)
-rare.fossil.modern.split.all <- rbind(rare.fossil.modern.split, rare.all.dent)
-rare.fossil.modern.split.all.counts <- table(rare.fossil.modern.split.all)
-# rarecurve(rare.fossil.modern.split.all.counts)
+# ### Number of samples used Rarefaction 
+# # 886
+# sum(ifelse(as.numeric(rownames(counts.886.all))<19.36, 1, 0)) # 54 samples post-extinciton, 8 with denticles
+# sum(ifelse(as.numeric(rownames(counts.886))<19.36, 1, 0)) # 54 samples post-extinciton, 8 with denticles
+# sum(ifelse(as.numeric(rownames(counts.886.all))>19.36, 1, 0)) # 17 samples pre-extinction
+# 
+# # (Note, we looked at all 886 samples post-extinction as listed in accum.886, since there were so few denticles. These were not all added to the "counts.886" matrix as was done in DSDP 596 for samples with no denticles because the addition of tickmarks would have been so dense for the 1.3 million year interval that this sample set spans, it would have become not informative. This is why to count the  total number of samples we looked for denticles in post-extinciton, we use the accumulation document. 
+# 
+# #596
+# sum(ifelse(as.numeric(rownames(counts.596.all))<19.36, 1, 0)) # 38 samples post-extinction
+# sum(ifelse(as.numeric(rownames(counts.596))<19.36, 1, 0)) # 38 samples post-extinction, 15 with denticles
+# sum(ifelse(as.numeric(rownames(counts.596.all))>19.36, 1, 0)) # 65 samples pre-extinction
+# 
+# # This all checks out with appropriate numbers of samples and denticles for this dataset. 
 
-# rarefaction curve slopes at end of each sampling curve
-# rareslope(rare.fossil.modern.split.all.counts, 34)
 
 ##################################
 #                                #
@@ -575,3 +711,9 @@ rare.fossil.modern.split.all.counts <- table(rare.fossil.modern.split.all)
 ##################################
 
 source('code/stats.R')
+##################################
+#                                #
+#     Save .RData file           #
+#                                #
+##################################
+save.image('denticles.RData')

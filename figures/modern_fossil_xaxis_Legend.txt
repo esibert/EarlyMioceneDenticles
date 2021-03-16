@@ -105,21 +105,22 @@
 104. Trident with Rounded Base
 105. Triple Dimpled Crown
 106. Troughed Diamond
-107. Troughed Petal with Extended Center
-108. Troughed Ridged Circle
-109. Troughed Trident
-110. Two Big Lobes
-111. Two Dimpled Fan
-112. Two Ridged Shell
-113. Two Ridged Wedge
-114. Two Sectioned Wedge
-115. Volcano
-116. Wavey Trident
-117. Wedged Branching Crown
-118. Whale Blow
-119. Widespread Branching Crown
-120. Wishbone
-121. Wrapped Trident
-122. Wrinkly
-123. Wrinkly Kite
-124. Zebra Hoof
+107. Troughed Petal
+108. Troughed Petal with Extended Center
+109. Troughed Ridged Circle
+110. Troughed Trident
+111. Two Big Lobes
+112. Two Dimpled Fan
+113. Two Ridged Shell
+114. Two Ridged Wedge
+115. Two Sectioned Wedge
+116. Volcano
+117. Wavey Trident
+118. Wedged Branching Crown
+119. Whale Blow
+120. Widespread Branching Crown
+121. Wishbone
+122. Wrapped Trident
+123. Wrinkly
+124. Wrinkly Kite
+125. Zebra Hoof

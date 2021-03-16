@@ -45,11 +45,11 @@ legend.order <- c(5,4, 3, 2, 6, 7) #order of hiatus values presented in the lege
 fig.dims <- c(7, 11) #Set Figure-dimensions
 
 if(writeFile == 'pdf') {
-    pdf('figures/S7_MioceneMap.pdf', height = fig.dims[1], width = fig.dims[2], useDingbats = FALSE)
+    pdf('figures/S13_MioceneMap.pdf', height = fig.dims[1], width = fig.dims[2], useDingbats = FALSE)
 }
 
 if(writeFile == 'jpg') {
-    jpeg('figures/S7_MioceneMap.jpg', height = fig.dims[1], width = fig.dims[2], units = 'in', res = 300)
+    jpeg('figures/S13_MioceneMap.jpg', height = fig.dims[1], width = fig.dims[2], units = 'in', res = 300)
 }
 
 par(mar = c(3, 3, 6, 2))

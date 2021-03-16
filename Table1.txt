@@ -1,3 +1,4 @@
+Branching Fan:Carcharhinidae
 Central Ridged Extended Trident:Alopiidae,Carcharhinidae,Lamnidae,Oxynotidae,Rhincodontidae,Scyliorhinidae
 Central Ridged Triangle:Carcharhinidae,Chlamydoselachidae,Dalatiidae,Mitsukurinidae,Pseudocarchariidae,Somniosidae,Squatinidae
 Central Troughed Petal:Carcharhinidae,Squatinidae,Triakidae
@@ -7,18 +8,18 @@ Five Ridged Linear Fan:Carcharhinidae,Lamnidae,Sphyrnidae
 Five Thin Ridged Fan:Alopiidae,Carcharhinidae,Lamnidae,Sphyrnidae,Triakidae
 Kite-Like:Etmopteridae
 Kite with Bubble:Dalatiidae
-Lopsided Trident:Megachasmidae,Squalidae
+Lopsided Trident:Megachasmidae,Squalidae,Triakidae
 Many Celled Central Complex Polygon:Dalatiidae
 Many Ridged Linear Fan:Alopiidae,Carcharhinidae,Scyliorhinidae,Sphyrnidae
-Minnie Indented Shell:Alopiidae,Carcharhinidae,Centrophoridae,Hemiscylliidae,Odontaspididae,Triakidae
+Minnie Indented Shell:Alopiidae,Carcharhinidae,Centrophoridae,Hemiscylliidae,Odontaspididae,Sphyrnidae,Triakidae
 Ridged Circle:Alopiidae,Carcharhinidae,Ginglymostomatidae,Lamnidae,Sphyrnidae
-Round Sided Trident:Hexanchidae,Odontaspididae,Squalidae
+Round Sided Trident:Hexanchidae,Odontaspididae,Squalidae,Triakidae
 Shallow Ridged Wide Crown:Carcharhinidae,Centrophoridae,Hemiscylliidae,Odontaspididae
 Sharp Kite:Dalatiidae
 Single Dimpled Heptagon:Chlamydoselachidae
 Skinny Pear Shaped Wedge:Alopiidae
 Smooth:Alopiidae,Carcharhinidae,Ginglymostomatidae,Hemiscylliidae,Hexanchidae,Lamnidae,Rajidae,Scyliorhinidae,Sphyrnidae,Squalidae,Squatinidae,Triakidae
-Smooth Petal:Ginglymostomatidae,Hemiscylliidae,Lamnidae,Rajidae,Scyliorhinidae,Somniosidae,Squatinidae,Triakidae
+Smooth Petal:Ginglymostomatidae,Hemiscylliidae,Lamnidae,Rajidae,Scyliorhinidae,Somniosidae,Squalidae,Squatinidae,Triakidae
 Stretched Branching Crown:Centrophoridae
 Stretched Minnie Indented Shell:Carcharhinidae,Triakidae
 Three Ridged Extended Petal:Scyliorhinidae

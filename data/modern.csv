@@ -1,598 +1,598 @@
-unique sample ID or species Name,Which image file (or paper for modern),which object number,KPg. 66.04; Modern=0,type name,Taxonomy,Updated 8/6/2020 from rfishbase output,,,,
-SampleID,Image,ObjNum,Age,Type,Possible_Name,Accepted_Name,Genus,Family,Order,Class
-Chlamydoselachus_anguineus,Castro,"Pg. 22, Fig. 1d",0,Central Ridged Triangle,Chlamydoselachus anguineus,Chlamydoselachus anguineus,Chlamydoselachus,Chlamydoselachidae,Hexanchiformes,Elasmobranchii
-Heptranchias_perlo,Castro,"Pg. 28, Fig. 2d",0,Trident,Heptranchias perlo,Heptranchias perlo,Heptranchias,Hexanchidae,Hexanchiformes,Elasmobranchii
-Hexanchus_griseus,Castro,Pg. 31,0,Round Sided Trident,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
-Hexanchus_nakamurai,Castro,Pg. 36,0,Round Sided Trident,Hexanchus nakamurai,Hexanchus nakamurai,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
-Notorynchus_cepedianus,Castro,Pg. 38,0,Trident,Notorynchus cepedianus,Notorynchus cepedianus,Notorynchus,Hexanchidae,Hexanchiformes,Elasmobranchii
-Echinorhinus_brucus,Castro,Pg. 44,0,Radial Angled Spines,Echinorhinus brucus,Echinorhinus brucus,Echinorhinus,Echinorhinidae,Squaliformes,Elasmobranchii
-Echinorhinus_cookei,Castro,Pg. 47,0,Radial Angled Spines,Echinorhinus cookei,Echinorhinus cookei,Echinorhinus,Echinorhinidae,Squaliformes,Elasmobranchii
-Cirrhigaleus_asper,Castro,Pg. 52,0,Funky Central Ridged Spade,Cirrhigaleus asper,Cirrhigaleus asper,Cirrhigaleus,Squalidae,Squaliformes,Elasmobranchii
-Squalus_acanthias,Castro,Pg. 55,0,Round Sided Trident,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus_cubensis,Castro,Pg. 63,0,Oak Leaf,Squalus cubensis,Squalus cubensis,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Centrophorus_squamosus,Castro,Pg. 76,0,Funky Central Ridged Spade,Centrophorus squamosus,Centrophorus squamosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Centrophorus_tessellatus,Castro,Pg. 79 15 d,0,Minnie Indented Shell,Centrophorus tessellatus,Centrophorus tessellatus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Centrophorus_niaukang,Castro,Pg. 73 13 d,0,Minnie Indented Shell,Centrophorus niaukang,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Centrophorus_isodon,Castro,Pg. 71 12 e,0,Minnie Indented Shell,Centrophorus isodon,Centrophorus isodon,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Squalus_mitsukuri,Castro,Pg. 65,0,Funky Central Ridged Spade,Squalus mitsukuri,Squalus mitsukurii,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Centroscyllium_fabricii,Castro,Pg. 93,0,Radial Angled Spines,Centroscyllium fabricii,Centroscyllium fabricii,Centroscyllium,Etmopteridae,Squaliformes,Elasmobranchii
-Deania_profundorum,Castro,Pg. 89,0,Dagger,Deania profundorum,Deania profundorum,Deania,Centrophoridae,Squaliformes,Elasmobranchii
-Deania_calcea,Castro,Pg. 86,0,Dagger,Deania calcea,Deania calcea,Deania,Centrophoridae,Squaliformes,Elasmobranchii
-Centrophorus_a.,Castro,Pg. 84 17 d,0,Minnie Indented Shell,Centrophorus a.,Centrophorus a.__a__,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Centrophorus_b.,Castro,Pg. 85 18 d,0,Minnie Indented Shell,Centrophorus b.,Centrophorus b.__a__,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Centrophorus_uyato,Castro,Pg. 81 16 e,0,Minnie Indented Shell,Centrophorus uyato,Centrophorus uyato,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Centroscyllium_nigrum,Castro,Pg. 96,0,Radial Angled Spines,Centroscyllium nigrum,Centroscyllium nigrum,Centroscyllium,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus_bigelowi,Castro,Pg. 98,0,Kite-Like,Etmopterus bigelowi,Etmopterus bigelowi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus_bullisi,Castro,Pg. 101,0,Triangular Spines,Etmopterus bullisi,Etmopterus bullisi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus_gracilispinis,Castro,Ps. 103,0,Triangular Spines,Etmopterus gracilispinis,Etmopterus gracilispinis,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus_hillianus,Castro,Pg. 105,0,Circular tipping spines,Etmopterus hillianus,Etmopterus hillianus,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus_princeps,Castro,Pg. 107,0,Triangular Spines,Etmopterus princeps,Etmopterus princeps,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus_schultzi,Castro,Pg. 110,0,Triangular Spines,Etmopterus schultzi,Etmopterus schultzi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus_virens,Castro,Pg. 112,0,Circular tipping spines,Etmopterus virens,Etmopterus virens,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Centroscymnus_coelolepis,Castro,Pg. 117,0,Smooth Petal,Centroscymnus coelolepis,Centroscymnus coelolepis,Centroscymnus,Somniosidae,Squaliformes,Elasmobranchii
-Centroscymnus_owstoni,Castro,Pg. 120,0,Smooth Petal,Centroscymnus owstoni,Centroscymnus owstonii,Centroscymnus,Somniosidae,Squaliformes,Elasmobranchii
-Zameus_squamulosus,Castro,Pg. 122,0,Round Bottomed Textured Tulip,Zameus squamulosus,Zameus squamulosus,Zameus,Somniosidae,Squaliformes,Elasmobranchii
-Somniosus_pacificus,Castro,Pg. 131,0,Circular tipping spines,Somniosus pacificus,Somniosus pacificus,Somniosus,Somniosidae,Squaliformes,Elasmobranchii
-Somniosus_rostratus,Castro,Pg. 135,0,Central Ridged Triangle,Somniosus rostratus,Somniosus rostratus,Somniosus,Somniosidae,Squaliformes,Elasmobranchii
-Oxynotus_caribbaeus,Castro,Pg. 138,0,Dagger,Oxynotus caribbaeus,Oxynotus caribbaeus,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
-Dalatias_licha,Castro,Pg. 142,0,Central Ridged Triangle,Dalatias licha,Dalatias licha,Dalatias,Dalatiidae,Squaliformes,Elasmobranchii
-Isistius_brasiliensis,Castro,Pg. 145,0,Kite with Bubble,Isistius brasiliensis,Isistius brasiliensis,Isistius,Dalatiidae,Squaliformes,Elasmobranchii
-Isistius_plutodus,Castro,Pg. 151,0,Sharp Kite,Isistius plutodus,Isistius plutodus,Isistius,Dalatiidae,Squaliformes,Elasmobranchii
-Euprotomicrus_bispinatus,Castro,Pg. 153,0,Many Celled Central Complex Polygon,Euprotomicrus bispinatus,Euprotomicrus bispinatus,Euprotomicrus,Dalatiidae,Squaliformes,Elasmobranchii
-Squaliolus_laticaudus,Castro,Pg. 156,0,Sharp Kite,Squaliolus laticaudus,Squaliolus laticaudus,Squaliolus,Dalatiidae,Squaliformes,Elasmobranchii
-Pristiophorus_schroederi,Castro,Pg. 160,0,Trident,Pristiophorus schroederi,Pristiophorus schroederi,Pristiophorus,Pristiophoridae,Pristiophoriformes,Elasmobranchii
-Squatina_californica,Castro,Pg. 163,0,Smooth Petal,Squatina californica,Squatina californica,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina_dumeril,Castro,Pg. 167,0,Smooth Petal,Squatina dumeril,Squatina dumeril,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina_heteroptera,Castro,Pg. 170 ,0,Troughed Petal with Extended Center,Squatina heteroptera,Squatina heteroptera,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina_mexicana,Castro,Pg. 172,0,Troughed Petal with Extended Center,Squatina mexicana,Squatina mexicana,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Heterodontus_mexicanus,Castro,Pg. 179,0,Criss cross,Heterodontus mexicanus,Heterodontus mexicanus,Heterodontus,Heterodontidae,Heterodontiformes,Elasmobranchii
-Heterodontus_francisci,Castro,Pg. 175,0,Criss cross,Heterodontus francisci,Heterodontus francisci,Heterodontus,Heterodontidae,Heterodontiformes,Elasmobranchii
-Ginglymostoma_cirratum,Castro,Pg. 184,0,Ridged Circle,Ginglymostoma cirratum,Ginglymostoma cirratum,Ginglymostoma,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
-Ginglymostoma_unami,Castro,Pg. 191,0,Ridged Circle,Ginglymostoma unami,Ginglymostoma unami,Ginglymostoma,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
-Rhincodon_typus,Castro,Pg. 194,0,Central Ridged Extended Trident,Rhincodon typus,Rhincodon typus,Rhincodon,Rhincodontidae,Orectolobiformes,Elasmobranchii
-Mitsukurina_owstoni,Castro,Pg. 202,0,Circular tipping spines,Mitsukurina owstoni,Mitsukurina owstoni,Mitsukurina,Mitsukurinidae,Lamniformes,Elasmobranchii
-Carcharias_taurus,Castro,Pg. 208,0,Funky Central Ridged Spade,Carcharias taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
-Odontaspis_ferox,Castro,Pg. 215,0,Round Sided Trident,Odontaspis ferox,Odontaspis ferox,Odontaspis,Odontaspididae,Lamniformes,Elasmobranchii
-Odontaspis_noronhai,Castro,Pg. 218,0,Smooth Spade,Odontaspis noronhai,Odontaspis noronhai,Odontaspis,Odontaspididae,Lamniformes,Elasmobranchii
-Pseudocarcharias_kamoharai,Castro,Pg. 222,0,Central Ridged Triangle,Pseudocarcharias kamoharai,Pseudocarcharias kamoharai,Pseudocarcharias,Pseudocarchariidae,Lamniformes,Elasmobranchii
-Megachasma_pelagios,Castro,Pg. 226,0,Lopsided Trident,Megachasma pelagios,Megachasma pelagios,Megachasma,Megachasmidae,Lamniformes,Elasmobranchii
-Alopias_pelagicus,Castro,Pg. 233,0,Trident,Alopias pelagicus,Alopias pelagicus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias_superciliosus,Castro,Pg. 236,0,Triangular Spines,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias_vulpinus,Castro,Pg. 241,0,Five Thin Ridged Fan,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Cetorhinus_maximus,Castro,Pg. 249,0,Triangular Spines,Cetorhinus maximus,Cetorhinus maximus,Cetorhinus,Cetorhinidae,Lamniformes,Elasmobranchii
-Carcharodon_carcharias,Castro,Pg. 258,0,Trident,Carcharodon carcharias,Carcharodon carcharias,Carcharodon,Lamnidae,Lamniformes,Elasmobranchii
-Apristurus_canutus,Castro,Pg. 299,0,Round Bottomed Textured Tulip,Apristurus canutus,Apristurus canutus,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Apristurus_kampae,Castro,Pg. 301,0,Round Bottomed Textured Tulip,Apristurus kampae,Apristurus kampae,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Apristurus_laurussonii,Castro,Pg. 303,0,Round Bottomed Textured Tulip,Apristurus laurussonii,Apristurus laurussonii,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Apristurus_manis,Castro,Pg. 205,0,Round Bottomed Textured Tulip,Apristurus manis,Apristurus manis,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Apristurus_melanoasper,Castro,Pg. 307,0,Round Bottomed Textured Tulip,Apristurus melanoasper,Apristurus melanoasper,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Apristurus_parvipinnis,Castro,Pg. 309,0,Extended Central Ridged and Textured Trident,Apristurus parvipinnis,Apristurus parvipinnis,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Apristurus_profundorum,Castro,Pg. 311,0,Round Bottomed Textured Tulip,Apristurus profundorum,Apristurus profundorum,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Apristurus_riveri,Castro,Pg. 314,0,Round Bottomed Textured Tulip,Apristurus riveri,Apristurus riveri,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Apristurus_sp.,Castro,Pg. 316,0,Round Bottomed Textured Tulip,Apristurus sp.,Apristurus sp.,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Cephaloscyllium_ventriosum,Castro,Pg. 318,0,Smooth Spade,Cephaloscyllium ventriosum,Cephaloscyllium ventriosum,Cephaloscyllium,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Cephalurus_cephalus,Castro,Pg. 321,0,Circular tipping spines,Cephalurus cephalus,Cephalurus cephalus,Cephalurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus_arae,Castro,Pg. 323,0,Extended Central Ridged and Textured Trident,Galeus arae,Galeus arae,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus_springeri,Castro,Pg. 326,0,Central Ridged Extended Trident,Galeus springeri,Galeus springeri,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus_piperatus,Castro,Pg. 328,0,Central Ridged Extended Trident,Galeus piperatus,Galeus piperatus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Parmaturus_campechiensis,Castro,Pg. 330,0,Extended Central Ridged and Textured Trident,Parmaturus campechiensis,Parmaturus campechiensis,Parmaturus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Parmaturus_xaniurus,Castro,Pg. 332,0,Triangular Spines,Parmaturus xaniurus,Parmaturus xaniurus,Parmaturus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Schroederichthys_maculatus,Castro,Pg. 334,0,Troughed Petal with Extended Center,Schroederichthys maculatus,Schroederichthys maculatus,Schroederichthys,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus_boa,Castro,Pg. 336,0,Many Ridged Petal,Scyliorhinus boa,Scyliorhinus boa,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus_hesperius,Castro,Pg. 338,0,Three Ridged Extended Petal,Asymbolus occiduus,Asymbolus occiduus,Asymbolus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus_meadi,Castro,Pg. 340,0,Three Ridged Petal,Scyliorhinus meadi,Scyliorhinus meadi,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus_retifer,Castro,Pg. 342,0,Bottom Bulbed Three Ridged Petal,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus_sp.,Castro,Pg. 346,0,Central Five Ridged Extended Trident,Scyliorhinus sp.,Scyliorhinus sp.__a__,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus_torrei,Castro,Pg. 347,0,Bottom Bulbed Three Ridged Petal,Scyliorhinus torrei,Scyliorhinus torrei,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Eridacnis_barbouri,Castro,Pg. 350,0,Troughed Petal with Extended Center,Eridacnis barbouri,Eridacnis barbouri,Eridacnis,Proscylliidae,Carcharhiniformes,Elasmobranchii
-Pseudotriakis_microdon,Castro,Pg. 353,0,Central Ridged Petal,Pseudotriakis microdon,Pseudotriakis microdon,Pseudotriakis,Pseudotriakidae,Carcharhiniformes,Elasmobranchii
-Galeorhinus_galeus,Castro,Pg. 361,0,Trident,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_albipinnis,Castro,Pg. 364,0,Stretched Minnie Indented Shell,Mustelus albipinnis,Mustelus albipinnis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_californicus,Castro,Pg. 366,0,Smooth Petal,Mustelus californicus,Mustelus californicus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_canis,Castro,Pg. 369,0,Four Thin Ridged Petal,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_dorsalis,Castro,Pg. 372,0,Three Ridged Petal,Mustelus dorsalis,Mustelus dorsalis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_henlei,Castro,Pg. 374,0,Troughed Petal with Extended Center,Mustelus henlei,Mustelus henlei,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_lunulatus,Castro,Pg. 377,0,Central Troughed Petal,Mustelus lunulatus,Mustelus lunulatus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_norrisi,Castro,Pg. 379,0,Central Troughed Petal,Mustelus norrisi,Mustelus norrisi,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_sinusmexicanus,Castro,Pg. 382,0,Troughed Petal with Extended Center,Mustelus sinusmexicanus,Mustelus sinusmexicanus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Triakis_semifasciata,Castro,Pg. 384,0,Smooth Spade,Triakis semifasciata,Triakis semifasciata,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_acronotus,Castro,Pg. 393,0,Five Thin Ridged Fan,Carcharhinus acronotus,Carcharhinus acronotus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_albimarginatus,Castro,Pg. 397,0,Five Thin Ridged Fan,Carcharhinus albimarginatus,Carcharhinus albimarginatus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_altimus,Castro,Pg. 400,0,Ridged Circle,Carcharhinus altimus,Carcharhinus altimus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_brachyurus,Castro,Pg. 403,0,Five Ridged Linear Fan,Carcharhinus brachyurus,Carcharhinus brachyurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_brevipinna,Castro,Pg. 407,0,Five Thin Ridged Fan,Carcharhinus brevipinna,Carcharhinus brevipinna,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_cerdale,Castro,Pg. 410,0,Ridged Circle,Carcharhinus cerdale,Carcharhinus cerdale,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_falciformis,Castro,Pg. 413,0,Five Thin Ridged Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_galapagensis,Castro,Pg. 417,0,Five Thin Ridged Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_isodon,Castro,Pg. 421,0,Five Ridged Linear Fan,Carcharhinus isodon,Carcharhinus isodon,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_leucas,Castro,Pg. 426,0,Five Ridged Linear Fan,Carcharhinus leucas,Carcharhinus leucas,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_limbatus,Castro,Pg. 432,0,Five Thin Ridged Fan,Carcharhinus limbatus,Carcharhinus limbatus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_longimanus,Castro,Pg. 438,0,Five Thin Ridged Fan,Carcharhinus longimanus,Carcharhinus longimanus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_obscurus,Castro,Pg. 444,0,Five Thin Ridged Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_perezii,Castro,Pg. 449,0,Five Thin Ridged Fan,Carcharhinus perezii,Carcharhinus perezi,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_plumbeus,Castro,Pg. 453,0,Ridged Circle,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_porosus,Castro,Pg. 459,0,Trident,Carcharhinus porosus,Carcharhinus porosus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus_signatus,Castro,Pg. 463,0,Trident,Carcharhinus signatus,Carcharhinus signatus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo_cuvier,Castro,Pg. 466,0,Funky Central Ridged Spade,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Sphyrna_lewini,Castro,Pg. 509,0,Five Thin Ridged Fan,Sphyrna lewini,Sphyrna lewini,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna_media,Castro,Pg. 514,0,Five Ridged Linear Fan,Sphyrna media,Sphyrna media,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna_mokarran,Castro,Pg. 516,0,Five Ridged Linear Fan,Sphyrna mokarran,Sphyrna mokarran,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna_tiburo,Castro,Pg. 521,0,Five Thin Ridged Fan,Sphyrna tiburo,Sphyrna tiburo,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna_tudes,Castro,Pg. 525,0,Five Ridged Linear Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna_zygaena,Castro,Pg. 529,0,Five Thin Ridged Fan,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Isogomphodon_oxyrhynchus,Castro,Pg. 475,0,Trident,Isogomphodon oxyrhynchus,Isogomphodon oxyrhynchus,Isogomphodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Nasolamia_velox,Castro,Pg. 478,0,Five Thin Ridged Fan,Nasolamia velox,Nasolamia velox,Nasolamia,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion_brevirostris,Castro,Pg. 481,0,Five Ridged Linear Fan,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Mustelus_canis,Ankhelyi et al. a,"Pg. 5, Fig. a",0,Smooth,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_canis,Ankhelyi et al. b,"Pg. 5, Fig. b",0,Five Thin Ridged Fan,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_canis,Ankhelyi et al. c,"Pg. 5, Fig. c",0,Central Troughed Petal,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_canis,Ankhelyi et al. d,"Pg. 5, Fig. d",0,Four Thin Ridged Petal,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_canis,Ankhelyi et al. e,"Pg. 5, Fig. e ",0,Stretched Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_canis,Ankhelyi et al. f,"Pg. 5, Fig. f",0,Stretched Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_canis,Ankhelyi et al. g,"Pg. 5, Fig. g",0,Stretched Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_canis,Ankhelyi et al. h,"Pg. 5, Fig. h",0,Smooth Petal,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus_canis,Ankhelyi et al. i,"Pg. 5, Fig. i",0,Stretched Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus canis,Ankhelyi et al. a,Pg. 38,0,Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus canis,Ankhelyi et al. b,Pg. 39,0,Stretched Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus canis,Ankhelyi et al. C,Pg. 40,0,Smooth Spade,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus canis,Ankhelyi et al. D,Pg. 41,0,Troughed Petal with Extended Center,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus canis,Ankhelyi et al. E,Pg. 42,0,Troughed Petal with Extended Center,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus canis,Ankhelyi et al. f,Pg. 43,0,Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Raja_clavata,Serra-Pereira et al.  d,,0,Fusiform spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 6 (median)",,0,Fusiform spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 6 (lateral)",,0,Fusiform spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 6 (pectoral fin)",,0,Fusiform spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 6 (cross-type prickle)",,0,Triangular Spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 7 (star type)",,0,Triangular Spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 7 (leaf type)",,0,Triangular Spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 7 (claw type)",,0,Fusiform spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 8 (ventral buckler)",,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 8 (lateral buckler)",,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 8 (alar thorn)",,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 8 (malar buckler)",,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 8 (malar thorn)",,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 9 (median)",,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 9 (parallel)",,0,Fusiform spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 9 (orbital)",,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 9 (fin)",,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 10 (pectoral fin)",,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 10 (straight leaf type prickle)",,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 10 (myrmecoid lead type prickle) ",,0,Triangular Spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 11 (median)",,0,Fusiform spines,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 11 (rosteral)",,0,Smooth Petal,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 11 (cross type prickle)",,0,Circular tipping spines,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 12 (claw type prickle)",,0,Circular tipping spines,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 12 (leaf type prickle)",,0,Triangular Spines,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 12 (star type prickle)",,0,Smooth Petal,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 12 (prickle)",,0,Circular tipping spines,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 13 (median)",,0,Fusiform spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 13 (parallel)",,0,Circular tipping spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 13 (alar)",,0,Circular tipping spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 13 (malar)",,0,Fusiform spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 13 (suprascapular)",,0,Circular tipping spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 14 (pectoral fin)",,0,Circular tipping spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 14 (orbital)",,0,Circular tipping spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 14 (cross type prickle)",,0,Fusiform spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_undulata,"Gravendeel, Neer, and Brinkhuizen 17 (alar)",,0,Fusiform spines,Raja undulata,Raja undulata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_undulata,"Gravendeel, Neer, and Brinkhuizen 17 (pectoral fin)",,0,Circular tipping spines,Raja undulata,Raja undulata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Raja_undulata,"Gravendeel, Neer, and Brinkhuizen 17 (claw type prickle)",,0,Circular tipping spines,Raja undulata,Raja undulata,Raja,Rajidae,Rajiformes,Elasmobranchii
-Dipturus_batis,"Gravendeel, Neer, and Brinkhuizen 18 (lateral)",,0,Nub Spine,Dipturus batis,Dipturus batis,Dipturus,Rajidae,Rajiformes,Elasmobranchii
-Dipturus_batis,"Gravendeel, Neer, and Brinkhuizen 18 (median)",,0,Smooth,Dipturus batis,Dipturus batis,Dipturus,Rajidae,Rajiformes,Elasmobranchii
-Dipturus_batis,"Gravendeel, Neer, and Brinkhuizen 18 (cross type)",1,0,Circular tipping spines,Dipturus batis,Dipturus batis,Dipturus,Rajidae,Rajiformes,Elasmobranchii
-Leucoraja_circularis,"Gravendeel, Neer, and Brinkhuizen 22 (median)",2,0,Smooth,Leucoraja circularis,Leucoraja circularis,Leucoraja,Rajidae,Rajiformes,Elasmobranchii
-Leucoraja_circularis,"Gravendeel, Neer, and Brinkhuizen 22 (median)",3,0,Fusiform spines,Leucoraja circularis,Leucoraja circularis,Leucoraja,Rajidae,Rajiformes,Elasmobranchii
-Leucoraja_circularis,"Gravendeel, Neer, and Brinkhuizen 22 (pectoral fin)",4,0,Circular tipping spines,Leucoraja circularis,Leucoraja circularis,Leucoraja,Rajidae,Rajiformes,Elasmobranchii
-Amblyraja_radiata,"Gravendeel, Neer, and Brinkhuizen 26 (lateral)",5,0,Circular tipping spines,Amblyraja radiata,Amblyraja radiata,Amblyraja,Rajidae,Rajiformes,Elasmobranchii
-Amblyraja_radiata,"Gravendeel, Neer, and Brinkhuizen 26 (pectoral fin)",6,0,Circular tipping spines,Amblyraja radiata,Amblyraja radiata,Amblyraja,Rajidae,Rajiformes,Elasmobranchii
-Amblyraja_radiata,"Gravendeel, Neer, and Brinkhuizen 26 (pectoral fin)",7,0,Circular tipping spines,Amblyraja radiata,Amblyraja radiata,Amblyraja,Rajidae,Rajiformes,Elasmobranchii
-Amblyraja_radiata,"Gravendeel, Neer, and Brinkhuizen 26 (star type prickle)",,0,Triangular Spines,Amblyraja radiata,Amblyraja radiata,Amblyraja,Rajidae,Rajiformes,Elasmobranchii
-Amblyraja_radiata,"Gravendeel, Neer, and Brinkhuizen 26 (alar)",,0,Circular tipping spines,Amblyraja radiata,Amblyraja radiata,Amblyraja,Rajidae,Rajiformes,Elasmobranchii
-Manta_birostris,"Marshall, Compagno, and Bennett 6 (C)",,0,Circular tipping spines,Manta birostris,Mobula birostris,Mobula,Myliobatidae,Myliobatiformes,Elasmobranchii
-Manta_birostris,"Marshall, Compagno, and Bennett 6 (D)",,0,Asymmetrical Kite with Ridged Mound,Manta birostris,Mobula birostris,Mobula,Myliobatidae,Myliobatiformes,Elasmobranchii
-Manta_alfredi,"Marshall, Compagno, and Bennett 14 (C)",,0,Volcano,Manta alfredi,Mobula alfredi,Mobula,Myliobatidae,Myliobatiformes,Elasmobranchii
-Heterodontus_japonicus,Reif,Text-fig.1D,0,Airplane,Heterodontus japonicus,Heterodontus japonicus,Heterodontus,Heterodontidae,Heterodontiformes,Elasmobranchii
-Chlamydoselachus anguineus,Reif,Pg. 103 L,0,Troughed Trident,Chlamydoselachus anguineus,Chlamydoselachus anguineus,Chlamydoselachus,Chlamydoselachidae,Hexanchiformes,Elasmobranchii
-Chlamydoselachus anguineus,Reif,Pg. 103 B1,0,Single Dimpled Heptagon,Chlamydoselachus anguineus,Chlamydoselachus anguineus,Chlamydoselachus,Chlamydoselachidae,Hexanchiformes,Elasmobranchii
-Chlamydoselachus anguineus,Reif,Pg. 103 B5,0,Central Ridged Triangle,Chlamydoselachus anguineus,Chlamydoselachus anguineus,Chlamydoselachus,Chlamydoselachidae,Hexanchiformes,Elasmobranchii
-Chlamydoselachus anguineus,Reif,Pg. 103 C2,0,Central Ridged Triangle,Chlamydoselachus anguineus,Chlamydoselachus anguineus,Chlamydoselachus,Chlamydoselachidae,Hexanchiformes,Elasmobranchii
-Hexanchus griseus,Reif,Pg. 103 B1,0,Trident,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
-Hexanchus griseus,Reif,Pg. 103 C1,0,Madeleine,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
-Hexanchus griseus,Reif,Pg. 105 M1,0,Many Ridged Trident,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
-Hexanchus griseus,Reif,Pg. 105 H1,0,Smooth,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
-Hexanchus griseus,Reif,Pg. 105 H3,0,Trident,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
-Hexanchus griseus,Reif,Pg. 105 M3,0,Eared Trident,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
-Etmopterus bullisi,Reif,Pg. 108 B2,0,Circular tipping spines,Etmopterus bullisi,Etmopterus bullisi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus schultzi,Reif,Pg. 108 H1,0,Volcano,Etmopterus schultzi,Etmopterus schultzi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus schultzi,Reif,Pg. 108 B3,0,Kite-Like,Etmopterus schultzi,Etmopterus schultzi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus spinax,Reif,Pg. 110 C2,0,Circular tipping spines,Etmopterus spinax,Etmopterus spinax,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus virens,Reif,Pg. 110 B1,0,Asymmetrical Kite with Ridged Mound,Etmopterus virens,Etmopterus virens,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Etmopterus virens,Reif,Pg. 110 C2,0,Fusiform spines,Etmopterus virens,Etmopterus virens,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
-Centrophorus granulosus,Reif,Pg. 112 H1,0,Shallow Ridged Wide Crown,Centrophorus granulosus,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Centrophorus granulosus,Reif,Pg. 112 H3,0,Stretched Branching Crown,Centrophorus granulosus,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Centrophorus granulosus,Reif,Pg. 112 B1,0,Shallow Ridged Wide Crown,Centrophorus granulosus,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Centrophorus granulosus,Reif,Pg. 112 Cla,0,Shallow Ridged Wide Crown,Centrophorus granulosus,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Centrophorus granulosus,Reif,Pg. 112 M3,0,Thin Ridged Trident,Centrophorus granulosus,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 114 H1,0,Elephant,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 114 DF,0,Trident,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 114 H1,0,Smooth,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 114 B2,0,Elephant,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 114 C2,0,Triangular Spines,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 116 M1,0,Central Ridged Petal,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 116 G,0,Smooth,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 116 B2,0,Funky Central Ridged Spade,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 116 B3,0,Lopsided Trident,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 118 C2,0,Trident,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 118 Cla,0,Smooth Spade,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 118 H1,0,Smooth,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 118 H3,0,Funky Central Ridged Spade,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 118 M2,0,Radial Angled Spines,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Squalus acanthias,Reif,Pg. 118 B3,0,Trident,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
-Oxynotus centrina,Reif,Pg. 120 H2,0,Oak Leaf,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
-Oxynotus centrina,Reif,Pg. 120 B1,0,Dagger,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
-Oxynotus centrina,Reif,Pg. 120 B3,0,Airplane,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
-Oxynotus centrina,Reif,Pg. 120 DF,0,Airplane,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
-Oxynotus centrina,Reif,Pg. 120 P1,0,Trident,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
-Oxynotus centrina,Reif,Pg. 120 P3,0,Central Ridged Extended Trident,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
-Euprotomicrus bispinatus,Reif,Pg. 124 B1,0,Many Celled Central Complex Polygon,Euprotomicrus bispinatus,Euprotomicrus bispinatus,Euprotomicrus,Dalatiidae,Squaliformes,Elasmobranchii
-Isistius brasiliensis,Reif,Pg. 124 B2,0,Sharp Kite,Isistius brasiliensis,Isistius brasiliensis,Isistius,Dalatiidae,Squaliformes,Elasmobranchii
-Squatina squatina,Reif,Pg. 126 H1,0,Smooth,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina squatina,Reif,Pg. 126 H2 Small to right,0,Central Ridged Triangle,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina squatina,Reif,Pg. 126 H2 Large Central ,0,Wishbone,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina squatina,Reif,Pg. 126 H3,0,Smooth,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina squatina,Reif,Pg. 126 B4,0,Trident,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina squatina,Reif,Pg. 126 M1,0,Criss cross,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina japonica,Reif,Pg. 128 B1,0,Central Troughed Petal,Squatina japonica,Squatina japonica,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina japonica,Reif,Pg. 128 B4,0,Trident,Squatina japonica,Squatina japonica,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina japonica,Reif,Pg. 128 P4,0,Smooth,Squatina japonica,Squatina japonica,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Squatina japonica,Reif,Pg. 128 B4,0,Airplane,Squatina japonica,Squatina japonica,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
-Chiloscyllium plagiosum,Reif,Pg. 130 H2,0,Smooth,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
-Chiloscyllium plagiosum,Reif,Pg. 130 B1,0,Minnie Indented Shell,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
-Chiloscyllium plagiosum,Reif,Pg. 130 B3,0,Smooth Petal,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
-Chiloscyllium plagiosum,Reif,Pg. 130 C3,0,Smooth Petal,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
-Chiloscyllium plagiosum,Reif,Pg. 130 G,0,Smooth,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
-Chiloscyllium plagiosum,Reif,Pg. 130 M1,0,Smooth Nubbed,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
-Chiloscyllium punctatum,Reif,Pg. 132 H2,0,Minnie Indented Shell,Chiloscyllium punctatum,Chiloscyllium punctatum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
-Chiloscyllium punctatum,Reif,Pg. 132 B1,0,Shallow Ridged Wide Crown,Chiloscyllium punctatum,Chiloscyllium punctatum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
-Chiloscyllium punctatum,Reif,Pg. 132 B3,0,Smooth Petal,Chiloscyllium punctatum,Chiloscyllium punctatum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
-Chiloscyllium punctatum,Reif,Pg. 132 M1,0,Smooth Nubbed,Chiloscyllium punctatum,Chiloscyllium punctatum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
-Nebrius ferrugineus,Reif,Pg. 132 H1,0,Smooth,Nebrius ferrugineus,Nebrius ferrugineus,Nebrius,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
-Nebrius ferrugineus,Reif,Pg. 132 H3,0,Smooth Petal,Nebrius ferrugineus,Nebrius ferrugineus,Nebrius,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
-Nebrius ferrugineus,Reif,Pg. 132 C1,0,Ridged Circle,Nebrius ferrugineus,Nebrius ferrugineus,Nebrius,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
-Nebrius ferrugineus,Reif,Pg. 132 M1,0,Triangular Spines,Nebrius ferrugineus,Nebrius ferrugineus,Nebrius,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
-Echinorhinus brucus,Reif,Pg. 135 ,0,Radial Angled Spines,Echinorhinus brucus,Echinorhinus brucus,Echinorhinus,Echinorhinidae,Squaliformes,Elasmobranchii
-Odontaspis taurus,Reif,Pg. 137 H1,0,Minnie Indented Shell,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
-Odontaspis taurus,Reif,Pg. 137 H2,0,Trident,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
-Odontaspis taurus,Reif,Pg. 137 H3_Small,0,Trident,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
-Odontaspis taurus,Reif,Pg. 137 H3_Big,0,Shallow Ridged Wide Crown,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
-Odontaspis taurus,Reif,Pg. 137 C1,0,Trident,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
-Odontaspis taurus,Reif,Pg. 137 C3,0,Trident,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
-Odontaspis taurus,Reif,Pg. 137 M2,0,Round Sided Trident,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
-Alopias vulpinus,Reif,Pg. 139 C1,0,Five Thin Ridged Fan,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias vulpinus,Reif,Pg. 139 C2,0,Trident,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias vulpinus,Reif,Pg. 139 C3,0,Trident,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias vulpinus,Reif,Pg. 139 P1,0,Ridged Circle,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias vulpinus,Reif,Pg. 139 P3,0,Trident,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 141 H1,0,Smooth,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 141 H1/2 Little middle,0,Ridged Circle,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 141 H1/2 Bigger surround,0,Five Thinned Ridged Branching Fan,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 141 H2 little upper half,0,Trident,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 141 H2 middle left,0,Five Thin Ridged Fan,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 141 H2 larger bottom right,0,Many Ridged Linear Fan,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 141 H3,0,Skinny Pear Shaped Wedge,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 141 C1,0,Trident,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 143 P1,0,Central Ridged Extended Trident,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 143 P3,0,Trident,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 143 G,0,Minnie Ridged Circle,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 143 M1,0,Minnie Indented Shell,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Alopias superciliosus,Reif,Pg. 143 M3,0,Trident,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 145 H1,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 145 H3,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 145 B5 smaller,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 145 B5 Larger,0,Pear Shaped Wedge,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 145 B2,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 145 M1,0,Smooth Petal,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 145 H1,0,Smooth,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 147 H2,0,Five Ridged Linear Fan,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 147 H3,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 147 C1,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 147 C2,0,Central Ridged Extended Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 147 P1,0,Five Thin Ridged Fan,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Isurus oxyrinchus,Reif,Pg. 147 M1,0,Smooth Petal,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
-Lamna nasus,Reif,Pg. 149 H1,0,Five Ridged Linear Fan,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
-Lamna nasus,Reif,Pg. 149 H2,0,Five Ridged Linear Fan,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
-Lamna nasus,Reif,Pg. 149 H3 Small surrounding,0,Five Ridged Linear Fan,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
-Lamna nasus,Reif,Pg. 149 H3 Large middle,0,Chubby Trident,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
-Lamna nasus,Reif,Pg. 149 P1,0,Five Ridged Linear Fan,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
-Lamna nasus,Reif,Pg. 149 P3,0,Five Ridged Linear Fan,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
-Lamna nasus,Reif,Pg. 149 Cla,0,Smooth,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
-Carcharodon carcharias,Reif,Pg. 151 B5  (surrounding small),0,Trident,Carcharodon carcharias,Carcharodon carcharias,Carcharodon,Lamnidae,Lamniformes,Elasmobranchii
-Carcharodon carcharias,Reif,Pg. 151 B5 (Central Large),0,Pear Shaped Wedge,Carcharodon carcharias,Carcharodon carcharias,Carcharodon,Lamnidae,Lamniformes,Elasmobranchii
-Carcharodon carcharias,Reif,Pg. 151 C1,0,Ridged Circle,Carcharodon carcharias,Carcharodon carcharias,Carcharodon,Lamnidae,Lamniformes,Elasmobranchii
-Carcharodon carcharias,Reif,Pg. 151 C2,0,Trident,Carcharodon carcharias,Carcharodon carcharias,Carcharodon,Lamnidae,Lamniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 153 H1,0,Funky Central Ridged Spade,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 153 H2,0,Round Bottomed Textured Tulip,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 153 B4,0,Round Bottomed Textured Tulip,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 153 B6,0,Smooth Petal,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 153 C1 Middle larger,0,Madeleine Trident,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 153 C1 Bottom and top smaller,0,Troughed Petal with Extended Center,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 155 C2,0,Troughed Petal with Extended Center,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 155  Cla,0,Smooth Petal,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 155  H1,0,Troughed Ridged Circle,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 155  B4 Surrounding,0,Central Ridged Extended Trident,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 155  B4 Large Central,0,Many Ridged Petal,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Galeus melastomus,Reif,Pg. 155  C1,0,Madeleine Trident,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus canicula,Reif,Pg. 157  H1,0,Smooth Petal,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus canicula,Reif,Pg. 157  H2,0,Many Ridged Petal,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus canicula,Reif,Pg. 157  H3,0,Central Ridged Extended Trident,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus canicula,Reif,Pg. 157 B1,0,Central Five Ridged Extended Trident,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus canicula,Reif,Pg. 157 B3,0,Central Ridged Extended Trident,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus canicula,Reif,Pg. 157 H1,0,Smooth,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus canicula,Reif,Pg. 159 H2,0,Central Five Ridged Extended Trident,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus canicula,Reif,Pg. 159 B1,0,Central Five Ridged Extended Trident,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus canicula,Reif,Pg. 159 B3,0,Smooth Petal,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus canicula,Reif,Pg. 159 P2,0,Many Ridged Petal,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus canicula,Reif,Pg. 159 P5,0,Smooth Petal,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus stellaris,Reif,Pg. 161 H1,0,Many Ridged Linear Fan,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus stellaris,Reif,Pg. 161 B1,0,Central Five Ridged Extended Trident,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus stellaris,Reif,Pg. 161 B3,0,Central Five Ridged Extended Trident,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus stellaris,Reif,Pg. 161 C2,0,Central Ridged Extended Trident,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus stellaris,Reif,Pg. 161 C3,0,Many Ridged Petal,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus stellaris,Reif,Pg. 161 Cla,0,Smooth Petal,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus retifer,Reif,Pg. 163 Cla,0,Madeleine,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus retifer,Reif,Pg. 163 H2,0,Central Ridged Extended Trident,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus retifer,Reif,Pg. 163 H3,0,Three Ridged Petal,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus retifer,Reif,Pg. 163 P2,0,Central Ridged Extended Trident,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Scyliorhinus retifer,Reif,Pg. 163 C3,0,Radial Angled Spines,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
-Mitsukurina owstoni,Reif,Pg. 163 M1,0,Central Ridged Triangle,Mitsukurina owstoni,Mitsukurina owstoni,Mitsukurina,Mitsukurinidae,Lamniformes,Elasmobranchii
-Mustelus mustelus,Reif,Pg. 165 H1,0,Smooth,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus mustelus,Reif,Pg. 165 H2,0,Troughed Petal with Extended Center,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus mustelus,Reif,Pg. 165 H3,0,Troughed Petal with Extended Center,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus mustelus,Reif,Pg. 165 B3,0,Smooth Petal,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus mustelus,Reif,Pg. 165 Cla,0,Smooth,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus mustelus,Reif,Pg. 167 M2,0,Minnie Indented Shell,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus mustelus,Reif,Pg. 167 N,0,Minnie Indented Shell,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus mustelus,Reif,Pg. 167 H2,0,Central Troughed Petal,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Mustelus mustelus,Reif,Pg. 167 H3,0,Smooth Petal,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
-Triakis scyllium,Reif,Pg. 169 H1,0,Smooth Spade,Triakis scyllium,Triakis scyllium,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
-Triakis scyllium,Reif,Pg. 169 H3,0,Smooth Petal,Triakis scyllium,Triakis scyllium,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
-Triakis scyllium,Reif,Pg. 169 P2,0,Trident,Triakis scyllium,Triakis scyllium,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
-Triakis scyllium,Reif,Pg. 169 B2,0,Trident,Triakis scyllium,Triakis scyllium,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
-Triakis scyllium,Reif,Pg. 169 N,0,Single Ridged Spade,Triakis scyllium,Triakis scyllium,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
-Galeorhinus galeus,Reif,Pg. 171 H1,0,Smooth,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
-Galeorhinus galeus,Reif,Pg. 171 H2,0,Trident,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
-Galeorhinus galeus,Reif,Pg. 171 H3,0,Trident,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
-Galeorhinus galeus,Reif,Pg. 171 M2,0,Minnie Indented Shell,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
-Galeorhinus galeus,Reif,Pg. 171 M3,0,Smooth Spade,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 173 H1,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 173 H2,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 173 H3,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 173 B4,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 175 B6,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 175 C1,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 175 C2,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 175 C3,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 175 P1,0,Ridged Circle,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 175 N,0,Minnie Ridged Circle,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 177 H1,0,Many Ridged Linear Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 177 H2,0,Many Ridged Linear Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 177 H3,0,Five Thin Ridged Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 177 B1,0,Many Ridged Linear Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 177 B3,0,Five Ridged Linear Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 177 B4,0,Many Ridged Linear Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 179 M1,0,Smooth Spade,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 179 M2,0,Smooth,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus falciformis,Reif,Pg. 179 M3,0,Smooth,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus galapagensis,Reif,Pg. 181 H1,0,Smooth,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus galapagensis,Reif,Pg. 181 H2,0,Many Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus galapagensis,Reif,Pg. 181 H3,0,Five Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus galapagensis,Reif,Pg. 181 B1,0,Many Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus galapagensis,Reif,Pg. 183 B2,0,Many Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus galapagensis,Reif,Pg. 183 B3,0,Five Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus galapagensis,Reif,Pg. 183 P2,0,Many Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus galapagensis,Reif,Pg. 183 P3,0,Five Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus galapagensis,Reif,Pg. 183 M1,0,Many Ridged Trident,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus galapagensis,Reif,Pg. 183 M3,0,Smooth Spade,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus obscurus,Reif,Pg. 185 C1 Surrounding,0,Trident,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus obscurus,Reif,Pg. 185 C1 Central,0,Shallow Ridged Wide Crown,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus obscurus,Reif,Pg. 185 C3,0,Trident,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus obscurus,Reif,Pg. 185 P1,0,Trident,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus obscurus,Reif,Pg. 185 P3,0,Central Troughed Petal,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus obscurus,Reif,Pg. 185 C1,0,Five Ridged Linear Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus obscurus,Reif,Pg. 187 C2,0,Many Ridged Linear Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus obscurus,Reif,Pg. 187 C3,0,Five Ridged Linear Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus obscurus,Reif,Pg. 187 P1,0,Five Thin Ridged Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus obscurus,Reif,Pg. 187 P2,0,Five Thin Ridged Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus obscurus,Reif,Pg. 187 P3,0,Troughed Petal with Extended Center,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 189 H1,0,Ridged Circle,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 189 H2,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 189 H3,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 189 B1,0,Ridged Circle,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 189 B3,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 190 B6,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 190 P1,0,Ridged Circle,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 190 P3,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 190 N,0,Minnie Indented Shell,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 192 B2,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 192 B4,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 192 M1,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 192 B5,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 192 C1 Surrounding,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 192 C1 Central,0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 192 P1 Central,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 192 P1 Surrounding,0,Central Troughed Petal,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 194 P3,0,Troughed Petal with Extended Center,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 194 M1,0,Many Ridged Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 194 M2,0,Troughed Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 194 C1 (smaller),0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 194 C1 (larger),0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 194 H1,0,Smooth,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 196 H2 (Surrounding),0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 196 H2 (Central),0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 196 H3 (Surrounding),0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 196 H3 (Central),0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 196 B3,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 196 B4 (Surrounding),0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 196 B4 (Central),0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 196 B6,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 196 C1 (surrounding),0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 196 C1 (Central),0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 197 C3,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 197 P1,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 197 P3,0,Troughed Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 197 N,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 197 M1,0,Many Ridged Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus plumbeus,Reif,Pg. 197 M3,0,Troughed Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 H1,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 H2,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 H3,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 B1,0,Five Thin Ridged Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 B3,0,Five Thin Ridged Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 C1,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 H1,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 H2,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 H3,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 B1,0,Five Thin Ridged Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 B3,0,Five Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 199 C1,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 200 C3,0,Trident,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 200 P1,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 200 P3,0,Five Thin Ridged Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 200 N,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 200 H1,0,Minnie Indented Shell,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 200 H2,0,Five Thin Ridged Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 202 B1 (surrounding),0,Five Thin Ridged Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 202 B1 (Central),0,Shallow Ridged Wide Crown,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 202 B2,0,Five Thin Ridged Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 202 B3,0,Many Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 202 P1,0,Many Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 202 C1,0,Many Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus amblyrhynchos,Reif,Pg. 202 C3,0,Five Thin Ridged Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 204 B2,0,Trident,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 204 H1,0,Minnie Ridged Circle,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 204 H2,0,Trident,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 204 H3,0,Trident,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 204 B1,0,Five Thin Ridged Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 204 B3,0,Trident,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 206 N,0,Ridged Circle,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 206 M1,0,Four Thin Ridged Petal,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 206 M3,0,Trident,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 206 H1,0,Smooth,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 206 B2,0,Five Ridged Linear Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 206 B3,0,Many Ridged Linear Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 208 P1,0,Many Ridged Linear Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 208 P3,0,Troughed Trident,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 208 C1,0,Minnie Indented Shell,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 208 C2,0,Five Thin Ridged Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 208 C3,0,Five Thin Ridged Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Carcharhinus melanopterus,Reif,Pg. 208 M1,0,Five Thin Ridged Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Triaenodon obesus,Reif,Pg. 210 H2,0,Ridged Circle,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Triaenodon obesus,Reif,Pg. 210 B1,0,Five Thin Ridged Fan,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Triaenodon obesus,Reif,Pg. 210 H1,0,Smooth,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Triaenodon obesus,Reif,Pg. 210 H2,0,Minnie Indented Shell,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Triaenodon obesus,Reif,Pg. 210 N,0,Minnie Indented Shell,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Triaenodon obesus,Reif,Pg. 212 H3,0,Minnie Indented Shell,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Triaenodon obesus,Reif,Pg. 212 B1 (Surrounding),0,Five Ridged Linear Fan,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Triaenodon obesus,Reif,Pg. 212 B1 (Central),0,Shallow Ridged Wide Crown,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Triaenodon obesus,Reif,Pg. 212 C2,0,Trident,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Triaenodon obesus,Reif,Pg. 212 C3,0,Troughed Trident,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Triaenodon obesus,Reif,Pg. 212 M1,0,Smooth Spade,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 214 H1,0,Minnie Ridged Circle,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 214 H2,0,Ridged Circle,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 214 H3 (surrounding),0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 214 H3 (Central Many Ridge),0,Shallow Ridged Wide Crown,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 214 H3 (Central three ridge),0,Pear Shaped Wedge,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 214 B4 (Surrounding),0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 214 B4 (right),0,Airplane,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 214 B5,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 215 B6,0,Central Ridged Extended Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 215 C1,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 215 C2 (Surrounding),0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 215 C2 (Central),0,Shallow Ridged Wide Crown,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 215 C3,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 215 P1,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 215 P2,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 217 P3,0,Stretched Minnie Indented Shell,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 217 N,0,Minnie Indented Shell,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 217 H3 (Surrounding smaller),0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 217 H3 (Central three ridge),0,Chubby Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 217 H3 (Central many ridge),0,Shallow Ridged Wide Crown,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 217 B1 Surrounding,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 217 B1 Central,0,Shallow Ridged Wide Crown,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 218 B2,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 218 B3,0,Ridged Circle,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 218 P3,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 218 M1,0,Minnie Indented Shell,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 220 M3,0,Smooth Spade,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 220 N,0,Minnie Indented Shell,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 220 H1,0,Minnie Indented Shell,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 220 H2,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 220 H3 (surrounding smaller),0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 220 H3 (Central Larger),0,Shallow Ridged Wide Crown,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 220 B1,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 221 B2,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 221 B3,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 221 P2,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 221 P3,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Prionace glauca,Reif,Pg. 221 N,0,Five Thinned Ridged Branching Fan,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 224 H1,0,Minnie Ridged Circle,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 224 H2,0,Trident,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 224 H3,0,Trident,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 224 B4,0,Five Thin Ridged Fan,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 224 B5,0,Trident,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 224 B6,0,Five Ridged Linear Fan,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 225 P1,0,Five Ridged Linear Fan,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 225 P3,0,Troughed Trident,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 225 P4,0,Minnie Indented Shell,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 225 P6,0,Stretched Minnie Indented Shell,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 225 N,0,Minnie Indented Shell,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Negaprion brevirostris,Reif,Pg. 225 M1,0,Five Thin Ridged Fan,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 227 H1,0,Oak Leaf,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 227 H2,0,Funky Central Ridged Spade,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 227 B3,0,Triangular Spines,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 227 B5,0,Central Ridged Triangle,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 227 N,0,Cheeky,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 227 M1,0,Troughed Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 229 H1,0,Smooth,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 229 B5,0,Funky Central Ridged Spade,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 229 G,0,Smooth Spade,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 229 M1,0,Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 229 M3,0,Cheeky,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 229 N,0,Cheeky,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 231 B1,0,Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 231 B2,0,Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 231 B4,0,Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Galeocerdo cuvier,Reif,Pg. 231 M1,0,Many Ridged Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
-Sphyrna lewini,Reif,Pg. 233 H1,0,Trident,Sphyrna lewini,Sphyrna lewini,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna lewini,Reif,Pg. 233 B2,0,Trident,Sphyrna lewini,Sphyrna lewini,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna lewini,Reif,Pg. 233 N,0,Smooth,Sphyrna lewini,Sphyrna lewini,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna lewini,Reif,Pg. 233 M2,0,Trident,Sphyrna lewini,Sphyrna lewini,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 235 H1,0,Ridged Circle,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 235 H2,0,Trident,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 235 H3,0,Trident,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 235 B4,0,Trident,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 235 P1,0,Trident,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 237 P3,0,Trident,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 237 H1,0,Five Thin Ridged Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 237 H2,0,Five Ridged Linear Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 238 C1,0,Many Ridged Linear Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 238 C2,0,Five Ridged Linear Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 238 C3,0,Five Ridged Linear Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 238 M2,0,Five Thin Ridged Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 238 M3,0,Five Ridged Linear Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna tudes,Reif,Pg. 238 N,0,Smooth,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,Pg. 240 B1,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,B3,0,Five Ridged Linear Fan,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,P1,0,Ridged Circle,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,P3,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,Cla,0,Smooth,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,H1,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,H2,0,Five Ridged Linear Fan,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,H3,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,B1,0,Five Ridged Linear Fan,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,B3,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,P1,0,Five Ridged Linear Fan,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,P3,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,M1,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,M2,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,M3,0,Smooth Spade,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
-Sphyrna zygaena,Reif,N,0,Smooth,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+unique sample ID or species Name,Which image file (or paper for modern),which object number,Which slide in the powerpoint,KPg. 66.04; Modern=0,type name,Taxonomy,Updated 6/13/2020,Genus,Family,Order,Class
+SampleID,Image,ObjNum,SlideNum,Age,Type,Possible_Name,Accepted_Name,Genus,Family,Order,Class
+Chlamydoselachus_anguineus,Castro,"Pg. 22, Fig. 1d",2,0,Central Ridged Triangle,Chlamydoselachus anguineus,Chlamydoselachus anguineus,Chlamydoselachus,Chlamydoselachidae,Hexanchiformes,Elasmobranchii
+Heptranchias_perlo,Castro,"Pg. 28, Fig. 2d",3,0,Trident,Heptranchias perlo,Heptranchias perlo,Heptranchias,Hexanchidae,Hexanchiformes,Elasmobranchii
+Hexanchus_griseus,Castro,Pg. 31,4,0,Round Sided Trident,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
+Hexanchus_nakamurai,Castro,Pg. 36,5,0,Round Sided Trident,Hexanchus nakamurai,Hexanchus nakamurai,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
+Notorynchus_cepedianus,Castro,Pg. 38,6,0,Trident,Notorynchus cepedianus,Notorynchus cepedianus,Notorynchus,Hexanchidae,Hexanchiformes,Elasmobranchii
+Echinorhinus_brucus,Castro,Pg. 44,7,0,Radial Angled Spines,Echinorhinus brucus,Echinorhinus brucus,Echinorhinus,Echinorhinidae,Squaliformes,Elasmobranchii
+Echinorhinus_cookei,Castro,Pg. 47,8,0,Radial Angled Spines,Echinorhinus cookei,Echinorhinus cookei,Echinorhinus,Echinorhinidae,Squaliformes,Elasmobranchii
+Cirrhigaleus_asper,Castro,Pg. 52,9,0,Funky Central Ridged Spade,Cirrhigaleus asper,Cirrhigaleus asper,Cirrhigaleus,Squalidae,Squaliformes,Elasmobranchii
+Squalus_acanthias,Castro,Pg. 55,10,0,Round Sided Trident,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus_cubensis,Castro,Pg. 63,11,0,Oak Leaf,Squalus cubensis,Squalus cubensis,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Centrophorus_squamosus,Castro,Pg. 76,12,0,Funky Central Ridged Spade,Centrophorus squamosus,Centrophorus squamosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Centrophorus_tessellatus,Castro,Pg. 79 15 d,13,0,Minnie Indented Shell,Centrophorus tessellatus,Centrophorus tessellatus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Centrophorus_niaukang,Castro,Pg. 73 13 d,14,0,Minnie Indented Shell,Centrophorus niaukang,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Centrophorus_isodon,Castro,Pg. 71 12 e,15,0,Minnie Indented Shell,Centrophorus isodon,Centrophorus isodon,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Squalus_mitsukuri,Castro,Pg. 65,16,0,Funky Central Ridged Spade,Squalus mitsukuri,Squalus mitsukurii,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Centroscyllium_fabricii,Castro,Pg. 93,17,0,Radial Angled Spines,Centroscyllium fabricii,Centroscyllium fabricii,Centroscyllium,Etmopteridae,Squaliformes,Elasmobranchii
+Deania_profundorum,Castro,Pg. 89,18,0,Dagger,Deania profundorum,Deania profundorum,Deania,Centrophoridae,Squaliformes,Elasmobranchii
+Deania_calcea,Castro,Pg. 86,19,0,Dagger,Deania calcea,Deania calcea,Deania,Centrophoridae,Squaliformes,Elasmobranchii
+Centrophorus_a.,Castro,Pg. 84 17 d,20,0,Minnie Indented Shell,Centrophorus a.,Centrophorus a.__a__,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Centrophorus_b.,Castro,Pg. 85 18 d,21,0,Minnie Indented Shell,Centrophorus b.,Centrophorus b.__a__,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Centrophorus_uyato,Castro,Pg. 81 16 e,22,0,Minnie Indented Shell,Centrophorus uyato,Centrophorus uyato,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Centroscyllium_nigrum,Castro,Pg. 96,23,0,Radial Angled Spines,Centroscyllium nigrum,Centroscyllium nigrum,Centroscyllium,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus_bigelowi,Castro,Pg. 98,24,0,Kite-Like,Etmopterus bigelowi,Etmopterus bigelowi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus_bullisi,Castro,Pg. 101,25,0,Triangular Spines,Etmopterus bullisi,Etmopterus bullisi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus_gracilispinis,Castro,Ps. 103,26,0,Triangular Spines,Etmopterus gracilispinis,Etmopterus gracilispinis,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus_hillianus,Castro,Pg. 105,27,0,Circular tipping spines,Etmopterus hillianus,Etmopterus hillianus,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus_princeps,Castro,Pg. 107,28,0,Triangular Spines,Etmopterus princeps,Etmopterus princeps,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus_schultzi,Castro,Pg. 110,29,0,Triangular Spines,Etmopterus schultzi,Etmopterus schultzi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus_virens,Castro,Pg. 112,30,0,Circular tipping spines,Etmopterus virens,Etmopterus virens,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Centroscymnus_coelolepis,Castro,Pg. 117,31,0,Smooth Petal,Centroscymnus coelolepis,Centroscymnus coelolepis,Centroscymnus,Somniosidae,Squaliformes,Elasmobranchii
+Centroscymnus_owstoni,Castro,Pg. 120,32,0,Smooth Petal,Centroscymnus owstoni,Centroscymnus owstonii,Centroscymnus,Somniosidae,Squaliformes,Elasmobranchii
+Zameus_squamulosus,Castro,Pg. 122,33,0,Round Bottomed Textured Tulip,Zameus squamulosus,Zameus squamulosus,Zameus,Somniosidae,Squaliformes,Elasmobranchii
+Somniosus_pacificus,Castro,Pg. 131,35,0,Circular tipping spines,Somniosus pacificus,Somniosus pacificus,Somniosus,Somniosidae,Squaliformes,Elasmobranchii
+Somniosus_rostratus,Castro,Pg. 135,36,0,Central Ridged Triangle,Somniosus rostratus,Somniosus rostratus,Somniosus,Somniosidae,Squaliformes,Elasmobranchii
+Oxynotus_caribbaeus,Castro,Pg. 138,37,0,Dagger,Oxynotus caribbaeus,Oxynotus caribbaeus,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
+Dalatias_licha,Castro,Pg. 142,38,0,Central Ridged Triangle,Dalatias licha,Dalatias licha,Dalatias,Dalatiidae,Squaliformes,Elasmobranchii
+Isistius_brasiliensis,Castro,Pg. 145,39,0,Kite with Bubble,Isistius brasiliensis,Isistius brasiliensis,Isistius,Dalatiidae,Squaliformes,Elasmobranchii
+Isistius_plutodus,Castro,Pg. 151,40,0,Sharp Kite,Isistius plutodus,Isistius plutodus,Isistius,Dalatiidae,Squaliformes,Elasmobranchii
+Euprotomicrus_bispinatus,Castro,Pg. 153,41,0,Many Celled Central Complex Polygon,Euprotomicrus bispinatus,Euprotomicrus bispinatus,Euprotomicrus,Dalatiidae,Squaliformes,Elasmobranchii
+Squaliolus_laticaudus,Castro,Pg. 156,42,0,Sharp Kite,Squaliolus laticaudus,Squaliolus laticaudus,Squaliolus,Dalatiidae,Squaliformes,Elasmobranchii
+Pristiophorus_schroederi,Castro,Pg. 160,43,0,Trident,Pristiophorus schroederi,Pristiophorus schroederi,Pristiophorus,Pristiophoridae,Pristiophoriformes,Elasmobranchii
+Squatina_californica,Castro,Pg. 163,44,0,Smooth Petal,Squatina californica,Squatina californica,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina_dumeril,Castro,Pg. 167,45,0,Smooth Petal,Squatina dumeril,Squatina dumeril,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina_heteroptera,Castro,Pg. 170 ,46,0,Troughed Petal with Extended Center,Squatina heteroptera,Squatina heteroptera,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina_mexicana,Castro,Pg. 172,47,0,Troughed Petal with Extended Center,Squatina mexicana,Squatina mexicana,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Heterodontus_mexicanus,Castro,Pg. 179,48,0,Criss cross,Heterodontus mexicanus,Heterodontus mexicanus,Heterodontus,Heterodontidae,Heterodontiformes,Elasmobranchii
+Heterodontus_francisci,Castro,Pg. 175,49,0,Criss cross,Heterodontus francisci,Heterodontus francisci,Heterodontus,Heterodontidae,Heterodontiformes,Elasmobranchii
+Ginglymostoma_cirratum,Castro,Pg. 184,50,0,Ridged Circle,Ginglymostoma cirratum,Ginglymostoma cirratum,Ginglymostoma,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
+Ginglymostoma_unami,Castro,Pg. 191,51,0,Ridged Circle,Ginglymostoma unami,Ginglymostoma unami,Ginglymostoma,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
+Rhincodon_typus,Castro,Pg. 194,52,0,Central Ridged Extended Trident,Rhincodon typus,Rhincodon typus,Rhincodon,Rhincodontidae,Orectolobiformes,Elasmobranchii
+Mitsukurina_owstoni,Castro,Pg. 202,53,0,Circular tipping spines,Mitsukurina owstoni,Mitsukurina owstoni,Mitsukurina,Mitsukurinidae,Lamniformes,Elasmobranchii
+Carcharias_taurus,Castro,Pg. 208,54,0,Funky Central Ridged Spade,Carcharias taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
+Odontaspis_ferox,Castro,Pg. 215,55,0,Round Sided Trident,Odontaspis ferox,Odontaspis ferox,Odontaspis,Odontaspididae,Lamniformes,Elasmobranchii
+Odontaspis_noronhai,Castro,Pg. 218,56,0,Single Ridged Spade,Odontaspis noronhai,Odontaspis noronhai,Odontaspis,Odontaspididae,Lamniformes,Elasmobranchii
+Pseudocarcharias_kamoharai,Castro,Pg. 222,57,0,Central Ridged Triangle,Pseudocarcharias kamoharai,Pseudocarcharias kamoharai,Pseudocarcharias,Pseudocarchariidae,Lamniformes,Elasmobranchii
+Megachasma_pelagios,Castro,Pg. 226,58,0,Lopsided Trident,Megachasma pelagios,Megachasma pelagios,Megachasma,Megachasmidae,Lamniformes,Elasmobranchii
+Alopias_pelagicus,Castro,Pg. 233,59,0,Trident,Alopias pelagicus,Alopias pelagicus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias_superciliosus,Castro,Pg. 236,60,0,Triangular Spines,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias_vulpinus,Castro,Pg. 241,61,0,Five Thin Ridged Fan,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Cetorhinus_maximus,Castro,Pg. 249,62,0,Triangular Spines,Cetorhinus maximus,Cetorhinus maximus,Cetorhinus,Cetorhinidae,Lamniformes,Elasmobranchii
+Carcharodon_carcharias,Castro,Pg. 258,63,0,Trident,Carcharodon carcharias,Carcharodon carcharias,Carcharodon,Lamnidae,Lamniformes,Elasmobranchii
+Apristurus_canutus,Castro,Pg. 299,64,0,Round Bottomed Textured Tulip,Apristurus canutus,Apristurus canutus,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Apristurus_kampae,Castro,Pg. 301,65,0,Round Bottomed Textured Tulip,Apristurus kampae,Apristurus kampae,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Apristurus_laurussonii,Castro,Pg. 303,66,0,Round Bottomed Textured Tulip,Apristurus laurussonii,Apristurus laurussonii,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Apristurus_manis,Castro,Pg. 205,67,0,Round Bottomed Textured Tulip,Apristurus manis,Apristurus manis,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Apristurus_melanoasper,Castro,Pg. 307,68,0,Round Bottomed Textured Tulip,Apristurus melanoasper,Apristurus melanoasper,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Apristurus_parvipinnis,Castro,Pg. 309,69,0,Extended Central Ridged and Textured Trident,Apristurus parvipinnis,Apristurus parvipinnis,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Apristurus_profundorum,Castro,Pg. 311,70,0,Round Bottomed Textured Tulip,Apristurus profundorum,Apristurus profundorum,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Apristurus_riveri,Castro,Pg. 314,71,0,Round Bottomed Textured Tulip,Apristurus riveri,Apristurus riveri,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Apristurus_sp.,Castro,Pg. 316,72,0,Round Bottomed Textured Tulip,Apristurus sp.,Apristurus sp.,Apristurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Cephaloscyllium_ventriosum,Castro,Pg. 318,73,0,Smooth Spade,Cephaloscyllium ventriosum,Cephaloscyllium ventriosum,Cephaloscyllium,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Cephalurus_cephalus,Castro,Pg. 321,74,0,Circular tipping spines,Cephalurus cephalus,Cephalurus cephalus,Cephalurus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus_arae,Castro,Pg. 323,75,0,Extended Central Ridged and Textured Trident,Galeus arae,Galeus arae,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus_springeri,Castro,Pg. 326,76,0,Central Ridged Extended Trident,Galeus springeri,Galeus springeri,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus_piperatus,Castro,Pg. 328,77,0,Central Ridged Extended Trident,Galeus piperatus,Galeus piperatus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Parmaturus_campechiensis,Castro,Pg. 330,78,0,Extended Central Ridged and Textured Trident,Parmaturus campechiensis,Parmaturus campechiensis,Parmaturus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Parmaturus_xaniurus,Castro,Pg. 332,79,0,Triangular Spines,Parmaturus xaniurus,Parmaturus xaniurus,Parmaturus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Schroederichthys_maculatus,Castro,Pg. 334,80,0,Troughed Petal with Extended Center,Schroederichthys maculatus,Schroederichthys maculatus,Schroederichthys,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus_boa,Castro,Pg. 336,81,0,Many Ridged Petal,Scyliorhinus boa,Scyliorhinus boa,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus_hesperius,Castro,Pg. 338,82,0,Three Ridged Extended Petal,Asymbolus occiduus,Asymbolus occiduus,Asymbolus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus_meadi,Castro,Pg. 340,83,0,Three Ridged Petal,Scyliorhinus meadi,Scyliorhinus meadi,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus_retifer,Castro,Pg. 342,84,0,Bottom Bulbed Three Ridged Petal,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus_sp.,Castro,Pg. 346,85,0,Central Five Ridged Extended Trident,Scyliorhinus sp.,Scyliorhinus sp.__a__,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus_torrei,Castro,Pg. 347,86,0,Bottom Bulbed Three Ridged Petal,Scyliorhinus torrei,Scyliorhinus torrei,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Eridacnis_barbouri,Castro,Pg. 350,87,0,Troughed Petal with Extended Center,Eridacnis barbouri,Eridacnis barbouri,Eridacnis,Proscylliidae,Carcharhiniformes,Elasmobranchii
+Pseudotriakis_microdon,Castro,Pg. 353,88,0,Central Ridged Petal,Pseudotriakis microdon,Pseudotriakis microdon,Pseudotriakis,Pseudotriakidae,Carcharhiniformes,Elasmobranchii
+Galeorhinus_galeus,Castro,Pg. 361,89,0,Trident,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_albipinnis,Castro,Pg. 364,90,0,Stretched Minnie Indented Shell,Mustelus albipinnis,Mustelus albipinnis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_californicus,Castro,Pg. 366,91,0,Smooth Petal,Mustelus californicus,Mustelus californicus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_canis,Castro,Pg. 369,92,0,Four Thin Ridged Petal,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_dorsalis,Castro,Pg. 372,93,0,Three Ridged Petal,Mustelus dorsalis,Mustelus dorsalis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_henlei,Castro,Pg. 374,94,0,Troughed Petal with Extended Center,Mustelus henlei,Mustelus henlei,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_lunulatus,Castro,Pg. 377,95,0,Central Troughed Petal,Mustelus lunulatus,Mustelus lunulatus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_norrisi,Castro,Pg. 379,96,0,Central Troughed Petal,Mustelus norrisi,Mustelus norrisi,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_sinusmexicanus,Castro,Pg. 382,97,0,Troughed Petal with Extended Center,Mustelus sinusmexicanus,Mustelus sinusmexicanus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Triakis_semifasciata,Castro,Pg. 384,98,0,Single Ridged Spade,Triakis semifasciata,Triakis semifasciata,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_acronotus,Castro,Pg. 393,99,0,Five Thin Ridged Fan,Carcharhinus acronotus,Carcharhinus acronotus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_albimarginatus,Castro,Pg. 397,100,0,Five Thin Ridged Fan,Carcharhinus albimarginatus,Carcharhinus albimarginatus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_altimus,Castro,Pg. 400,101,0,Ridged Circle,Carcharhinus altimus,Carcharhinus altimus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_brachyurus,Castro,Pg. 403,102,0,Five Ridged Linear Fan,Carcharhinus brachyurus,Carcharhinus brachyurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_brevipinna,Castro,Pg. 407,103,0,Five Thin Ridged Fan,Carcharhinus brevipinna,Carcharhinus brevipinna,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_cerdale,Castro,Pg. 410,104,0,Ridged Circle,Carcharhinus cerdale,Carcharhinus cerdale,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_falciformis,Castro,Pg. 413,105,0,Five Thin Ridged Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_galapagensis,Castro,Pg. 417,106,0,Five Thin Ridged Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_isodon,Castro,Pg. 421,107,0,Five Ridged Linear Fan,Carcharhinus isodon,Carcharhinus isodon,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_leucas,Castro,Pg. 426,108,0,Five Ridged Linear Fan,Carcharhinus leucas,Carcharhinus leucas,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_limbatus,Castro,Pg. 432,109,0,Five Thin Ridged Fan,Carcharhinus limbatus,Carcharhinus limbatus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_longimanus,Castro,Pg. 438,110,0,Five Thin Ridged Fan,Carcharhinus longimanus,Carcharhinus longimanus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_obscurus,Castro,Pg. 444,111,0,Five Thin Ridged Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_perezii,Castro,Pg. 449,112,0,Five Thin Ridged Fan,Carcharhinus perezii,Carcharhinus perezi,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_plumbeus,Castro,Pg. 453,113,0,Ridged Circle,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_porosus,Castro,Pg. 459,114,0,Trident,Carcharhinus porosus,Carcharhinus porosus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus_signatus,Castro,Pg. 463,115,0,Trident,Carcharhinus signatus,Carcharhinus signatus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo_cuvier,Castro,Pg. 466,116,0,Funky Central Ridged Spade,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Sphyrna_lewini,Castro,Pg. 509,117,0,Five Thin Ridged Fan,Sphyrna lewini,Sphyrna lewini,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna_media,Castro,Pg. 514,118,0,Five Ridged Linear Fan,Sphyrna media,Sphyrna media,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna_mokarran,Castro,Pg. 516,119,0,Five Ridged Linear Fan,Sphyrna mokarran,Sphyrna mokarran,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna_tiburo,Castro,Pg. 521,120,0,Five Thin Ridged Fan,Sphyrna tiburo,Sphyrna tiburo,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna_tudes,Castro,Pg. 525,121,0,Five Ridged Linear Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna_zygaena,Castro,Pg. 529,122,0,Five Thin Ridged Fan,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Isogomphodon_oxyrhynchus,Castro,Pg. 475,123,0,Trident,Isogomphodon oxyrhynchus,Isogomphodon oxyrhynchus,Isogomphodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Nasolamia_velox,Castro,Pg. 478,124,0,Five Thin Ridged Fan,Nasolamia velox,Nasolamia velox,Nasolamia,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion_brevirostris,Castro,Pg. 481,125,0,Five Ridged Linear Fan,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Mustelus_canis,Ankhelyi et al. a,"Pg. 5, Fig. a",Ankhelyi et al. a,0,Smooth,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_canis,Ankhelyi et al. b,"Pg. 5, Fig. b",127,0,Five Thin Ridged Fan,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_canis,Ankhelyi et al. c,"Pg. 5, Fig. c",Ankhelyi et al. c,0,Central Troughed Petal,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_canis,Ankhelyi et al. d,"Pg. 5, Fig. d",Ankhelyi et al. d,0,Four Thin Ridged Petal,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_canis,Ankhelyi et al. e,"Pg. 5, Fig. e ",130,0,Stretched Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_canis,Ankhelyi et al. f,"Pg. 5, Fig. f",131,0,Stretched Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_canis,Ankhelyi et al. g,"Pg. 5, Fig. g",132,0,Stretched Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_canis,Ankhelyi et al. h,"Pg. 5, Fig. h",Ankhelyi et al. h,0,Smooth Petal,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus_canis,Ankhelyi et al. i,"Pg. 5, Fig. i",134,0,Stretched Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus canis,Ankhelyi et al. a,Pg. 38,135,0,Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus canis,Ankhelyi et al. b,Pg. 39,136,0,Stretched Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus canis,Ankhelyi et al. C,Pg. 40,Ankhelyi et al. C,0,Smooth Spade,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus canis,Ankhelyi et al. D,Pg. 41,Ankhelyi et al. D,0,Troughed Petal with Extended Center,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus canis,Ankhelyi et al. E,Pg. 42,Ankhelyi et al. E,0,Troughed Petal with Extended Center,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus canis,Ankhelyi et al. f,Pg. 43,140,0,Minnie Indented Shell,Mustelus canis,Mustelus canis,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Raja_clavata,Serra-Pereira et al.  d,,141,0,Fusiform spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 6 (median)",,142,0,Fusiform spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 6 (lateral)",,143,0,Fusiform spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 6 (pectoral fin)",,144,0,Fusiform spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 6 (cross-type prickle)",,145,0,Triangular Spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 7 (star type)",,146,0,Triangular Spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 7 (leaf type)",,147,0,Triangular Spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_brachyura,"Gravendeel, Neer, and Brinkhuizen 7 (claw type)",,148,0,Fusiform spines,Raja brachyura,Raja brachyura,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 8 (ventral buckler)",,149,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 8 (lateral buckler)",,150,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 8 (alar thorn)",,151,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 8 (malar buckler)",,152,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 8 (malar thorn)",,153,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 9 (median)",,154,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 9 (parallel)",,155,0,Fusiform spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 9 (orbital)",,156,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 9 (fin)",,157,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 10 (pectoral fin)",,158,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 10 (straight leaf type prickle)",,159,0,Circular tipping spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_clavata,"Gravendeel, Neer, and Brinkhuizen 10 (myrmecoid lead type prickle) ",,160,0,Triangular Spines,Raja clavata,Raja clavata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 11 (median)",,161,0,Fusiform spines,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 11 (rosteral)",,162,0,Smooth Petal,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 11 (cross type prickle)",,163,0,Circular tipping spines,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 12 (claw type prickle)",,164,0,Circular tipping spines,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 12 (leaf type prickle)",,165,0,Triangular Spines,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 12 (star type prickle)",,166,0,Smooth Petal,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_microocellata,"Gravendeel, Neer, and Brinkhuizen 12 (prickle)",,167,0,Circular tipping spines,Raja microocellata,Raja microocellata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 13 (median)",,168,0,Fusiform spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 13 (parallel)",,169,0,Circular tipping spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 13 (alar)",,170,0,Circular tipping spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 13 (malar)",,171,0,Fusiform spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 13 (suprascapular)",,172,0,Circular tipping spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 14 (pectoral fin)",,173,0,Circular tipping spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 14 (orbital)",,174,0,Circular tipping spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_montagui,"Gravendeel, Neer, and Brinkhuizen 14 (cross type prickle)",,175,0,Fusiform spines,Raja montagui,Raja montagui,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_undulata,"Gravendeel, Neer, and Brinkhuizen 17 (alar)",,176,0,Fusiform spines,Raja undulata,Raja undulata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_undulata,"Gravendeel, Neer, and Brinkhuizen 17 (pectoral fin)",,177,0,Circular tipping spines,Raja undulata,Raja undulata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Raja_undulata,"Gravendeel, Neer, and Brinkhuizen 17 (claw type prickle)",,178,0,Circular tipping spines,Raja undulata,Raja undulata,Raja,Rajidae,Rajiformes,Elasmobranchii
+Dipturus_batis,"Gravendeel, Neer, and Brinkhuizen 18 (lateral)",,179,0,Nub Spine,Dipturus batis,Dipturus batis,Dipturus,Rajidae,Rajiformes,Elasmobranchii
+Dipturus_batis,"Gravendeel, Neer, and Brinkhuizen 18 (median)",,180,0,Smooth,Dipturus batis,Dipturus batis,Dipturus,Rajidae,Rajiformes,Elasmobranchii
+Dipturus_batis,"Gravendeel, Neer, and Brinkhuizen 18 (cross type)",1,181,0,Circular tipping spines,Dipturus batis,Dipturus batis,Dipturus,Rajidae,Rajiformes,Elasmobranchii
+Leucoraja_circularis,"Gravendeel, Neer, and Brinkhuizen 22 (median)",2,181,0,Smooth,Leucoraja circularis,Leucoraja circularis,Leucoraja,Rajidae,Rajiformes,Elasmobranchii
+Leucoraja_circularis,"Gravendeel, Neer, and Brinkhuizen 22 (median)",3,181,0,Fusiform spines,Leucoraja circularis,Leucoraja circularis,Leucoraja,Rajidae,Rajiformes,Elasmobranchii
+Leucoraja_circularis,"Gravendeel, Neer, and Brinkhuizen 22 (pectoral fin)",4,181,0,Circular tipping spines,Leucoraja circularis,Leucoraja circularis,Leucoraja,Rajidae,Rajiformes,Elasmobranchii
+Amblyraja_radiata,"Gravendeel, Neer, and Brinkhuizen 26 (lateral)",5,181,0,Circular tipping spines,Amblyraja radiata,Amblyraja radiata,Amblyraja,Rajidae,Rajiformes,Elasmobranchii
+Amblyraja_radiata,"Gravendeel, Neer, and Brinkhuizen 26 (pectoral fin)",6,181,0,Circular tipping spines,Amblyraja radiata,Amblyraja radiata,Amblyraja,Rajidae,Rajiformes,Elasmobranchii
+Amblyraja_radiata,"Gravendeel, Neer, and Brinkhuizen 26 (pectoral fin)",7,181,0,Circular tipping spines,Amblyraja radiata,Amblyraja radiata,Amblyraja,Rajidae,Rajiformes,Elasmobranchii
+Amblyraja_radiata,"Gravendeel, Neer, and Brinkhuizen 26 (star type prickle)",,,0,Triangular Spines,Amblyraja radiata,Amblyraja radiata,Amblyraja,Rajidae,Rajiformes,Elasmobranchii
+Amblyraja_radiata,"Gravendeel, Neer, and Brinkhuizen 26 (alar)",,,0,Circular tipping spines,Amblyraja radiata,Amblyraja radiata,Amblyraja,Rajidae,Rajiformes,Elasmobranchii
+Manta_birostris,"Marshall, Compagno, and Bennett 6 (C)",,,0,Circular tipping spines,Manta birostris,Mobula birostris,Mobula,Myliobatidae,Myliobatiformes,Elasmobranchii
+Manta_birostris,"Marshall, Compagno, and Bennett 6 (D)",,,0,Asymmetrical Kite with Ridged Mound,Manta birostris,Mobula birostris,Mobula,Myliobatidae,Myliobatiformes,Elasmobranchii
+Manta_alfredi,"Marshall, Compagno, and Bennett 14 (C)",,,0,Volcano,Manta alfredi,Mobula alfredi,Mobula,Myliobatidae,Myliobatiformes,Elasmobranchii
+Heterodontus_japonicus,Reif,Text-fig.1D,182,0,Airplane,Heterodontus japonicus,Heterodontus japonicus,Heterodontus,Heterodontidae,Heterodontiformes,Elasmobranchii
+Chlamydoselachus anguineus,Reif,Pg. 103 L,183,0,Troughed Trident,Chlamydoselachus anguineus,Chlamydoselachus anguineus,Chlamydoselachus,Chlamydoselachidae,Hexanchiformes,Elasmobranchii
+Chlamydoselachus anguineus,Reif,Pg. 103 B1,184,0,Single Dimpled Heptagon,Chlamydoselachus anguineus,Chlamydoselachus anguineus,Chlamydoselachus,Chlamydoselachidae,Hexanchiformes,Elasmobranchii
+Chlamydoselachus anguineus,Reif,Pg. 103 B5,185,0,Central Ridged Triangle,Chlamydoselachus anguineus,Chlamydoselachus anguineus,Chlamydoselachus,Chlamydoselachidae,Hexanchiformes,Elasmobranchii
+Chlamydoselachus anguineus,Reif,Pg. 103 C2,186,0,Central Ridged Triangle,Chlamydoselachus anguineus,Chlamydoselachus anguineus,Chlamydoselachus,Chlamydoselachidae,Hexanchiformes,Elasmobranchii
+Hexanchus griseus,Reif,Pg. 103 B1,187,0,Trident,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
+Hexanchus griseus,Reif,Pg. 103 C1,188,0,Madeleine,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
+Hexanchus griseus,Reif,Pg. 105 M1,189,0,Many Ridged Trident,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
+Hexanchus griseus,Reif,Pg. 105 H1,190,0,Smooth,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
+Hexanchus griseus,Reif,Pg. 105 H3,191,0,Trident,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
+Hexanchus griseus,Reif,Pg. 105 M3,192,0,Eared Trident,Hexanchus griseus,Hexanchus griseus,Hexanchus,Hexanchidae,Hexanchiformes,Elasmobranchii
+Etmopterus bullisi,Reif,Pg. 108 B2,193,0,Circular tipping spines,Etmopterus bullisi,Etmopterus bullisi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus schultzi,Reif,Pg. 108 H1,194,0,Volcano,Etmopterus schultzi,Etmopterus schultzi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus schultzi,Reif,Pg. 108 B3,195,0,Kite-Like,Etmopterus schultzi,Etmopterus schultzi,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus spinax,Reif,Pg. 110 C2,196,0,Circular tipping spines,Etmopterus spinax,Etmopterus spinax,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus virens,Reif,Pg. 110 B1,197,0,Asymmetrical Kite with Ridged Mound,Etmopterus virens,Etmopterus virens,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Etmopterus virens,Reif,Pg. 110 C2,198,0,Fusiform spines,Etmopterus virens,Etmopterus virens,Etmopterus,Etmopteridae,Squaliformes,Elasmobranchii
+Centrophorus granulosus,Reif,Pg. 112 H1,199,0,Shallow Ridged Wide Crown,Centrophorus granulosus,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Centrophorus granulosus,Reif,Pg. 112 H3,200,0,Stretched Branching Crown,Centrophorus granulosus,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Centrophorus granulosus,Reif,Pg. 112 B1,201,0,Shallow Ridged Wide Crown,Centrophorus granulosus,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Centrophorus granulosus,Reif,Pg. 112 Cla,202,0,Shallow Ridged Wide Crown,Centrophorus granulosus,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Centrophorus granulosus,Reif,Pg. 112 M3,203,0,Thin Ridged Trident,Centrophorus granulosus,Centrophorus granulosus,Centrophorus,Centrophoridae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 114 H1,204,0,Elephant,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 114 DF,205,0,Trident,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 114 H1,206,0,Smooth,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 114 B2,207,0,Elephant,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 114 C2,208,0,Triangular Spines,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 116 M1,209,0,Central Ridged Petal,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 116 G,210,0,Smooth,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 116 B2,211,0,Funky Central Ridged Spade,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 116 B3,212,0,Lopsided Trident,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 118 C2,213,0,Trident,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 118 Cla,214,0,Smooth Spade,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 118 H1,215,0,Smooth,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 118 H3,216,0,Funky Central Ridged Spade,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 118 M2,217,0,Smooth Petal,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Squalus acanthias,Reif,Pg. 118 B3,218,0,Trident,Squalus acanthias,Squalus acanthias,Squalus,Squalidae,Squaliformes,Elasmobranchii
+Oxynotus centrina,Reif,Pg. 120 H2,219,0,Oak Leaf,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
+Oxynotus centrina,Reif,Pg. 120 B1,220,0,Dagger,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
+Oxynotus centrina,Reif,Pg. 120 B3,221,0,Airplane,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
+Oxynotus centrina,Reif,Pg. 120 DF,222,0,Airplane,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
+Oxynotus centrina,Reif,Pg. 120 P1,223,0,Trident,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
+Oxynotus centrina,Reif,Pg. 120 P3,224,0,Central Ridged Extended Trident,Oxynotus centrina,Oxynotus centrina,Oxynotus,Oxynotidae,Squaliformes,Elasmobranchii
+Euprotomicrus bispinatus,Reif,Pg. 124 B1,225,0,Many Celled Central Complex Polygon,Euprotomicrus bispinatus,Euprotomicrus bispinatus,Euprotomicrus,Dalatiidae,Squaliformes,Elasmobranchii
+Isistius brasiliensis,Reif,Pg. 124 B2,226,0,Sharp Kite,Isistius brasiliensis,Isistius brasiliensis,Isistius,Dalatiidae,Squaliformes,Elasmobranchii
+Squatina squatina,Reif,Pg. 126 H1,227,0,Smooth,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina squatina,Reif,Pg. 126 H2 Small to right,228,0,Central Ridged Triangle,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina squatina,Reif,Pg. 126 H2 Large Central ,228,0,Wishbone,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina squatina,Reif,Pg. 126 H3,229,0,Smooth,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina squatina,Reif,Pg. 126 B4,230,0,Trident,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina squatina,Reif,Pg. 126 M1,231,0,Criss cross,Squatina squatina,Squatina squatina,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina japonica,Reif,Pg. 128 B1,232,0,Central Troughed Petal,Squatina japonica,Squatina japonica,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina japonica,Reif,Pg. 128 B4,233,0,Trident,Squatina japonica,Squatina japonica,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina japonica,Reif,Pg. 128 P4,234,0,Smooth,Squatina japonica,Squatina japonica,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Squatina japonica,Reif,Pg. 128 B4,235,0,Airplane,Squatina japonica,Squatina japonica,Squatina,Squatinidae,Squatiniformes,Elasmobranchii
+Chiloscyllium plagiosum,Reif,Pg. 130 H2,236,0,Smooth,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
+Chiloscyllium plagiosum,Reif,Pg. 130 B1,237,0,Minnie Indented Shell,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
+Chiloscyllium plagiosum,Reif,Pg. 130 B3,238,0,Smooth Petal,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
+Chiloscyllium plagiosum,Reif,Pg. 130 C3,239,0,Smooth Petal,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
+Chiloscyllium plagiosum,Reif,Pg. 130 G,240,0,Smooth,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
+Chiloscyllium plagiosum,Reif,Pg. 130 M1,241,0,Smooth Nubbed,Chiloscyllium plagiosum,Chiloscyllium plagiosum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
+Chiloscyllium punctatum,Reif,Pg. 132 H2,242,0,Minnie Indented Shell,Chiloscyllium punctatum,Chiloscyllium punctatum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
+Chiloscyllium punctatum,Reif,Pg. 132 B1,243,0,Shallow Ridged Wide Crown,Chiloscyllium punctatum,Chiloscyllium punctatum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
+Chiloscyllium punctatum,Reif,Pg. 132 B3,244,0,Smooth Petal,Chiloscyllium punctatum,Chiloscyllium punctatum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
+Chiloscyllium punctatum,Reif,Pg. 132 M1,245,0,Smooth Nubbed,Chiloscyllium punctatum,Chiloscyllium punctatum,Chiloscyllium,Hemiscylliidae,Orectolobiformes,Elasmobranchii
+Nebrius ferrugineus,Reif,Pg. 132 H1,246,0,Smooth,Nebrius ferrugineus,Nebrius ferrugineus,Nebrius,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
+Nebrius ferrugineus,Reif,Pg. 132 H3,247,0,Smooth Petal,Nebrius ferrugineus,Nebrius ferrugineus,Nebrius,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
+Nebrius ferrugineus,Reif,Pg. 132 C1,248,0,Single Ridged Spade,Nebrius ferrugineus,Nebrius ferrugineus,Nebrius,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
+Nebrius ferrugineus,Reif,Pg. 132 M1,249,0,Triangular Spines,Nebrius ferrugineus,Nebrius ferrugineus,Nebrius,Ginglymostomatidae,Orectolobiformes,Elasmobranchii
+Echinorhinus brucus,Reif,Pg. 135 ,250,0,Radial Angled Spines,Echinorhinus brucus,Echinorhinus brucus,Echinorhinus,Echinorhinidae,Squaliformes,Elasmobranchii
+Odontaspis taurus,Reif,Pg. 137 H1,251,0,Minnie Indented Shell,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
+Odontaspis taurus,Reif,Pg. 137 H2,252,0,Trident,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
+Odontaspis taurus,Reif,Pg. 137 H3_Small,253,0,Trident,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
+Odontaspis taurus,Reif,Pg. 137 H3_Big,253,0,Shallow Ridged Wide Crown,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
+Odontaspis taurus,Reif,Pg. 137 C1,254,0,Trident,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
+Odontaspis taurus,Reif,Pg. 137 C3,255,0,Trident,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
+Odontaspis taurus,Reif,Pg. 137 M2,256,0,Round Sided Trident,Odontaspis taurus,Carcharias taurus,Carcharias,Odontaspididae,Lamniformes,Elasmobranchii
+Alopias vulpinus,Reif,Pg. 139 C1,257,0,Five Thin Ridged Fan,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias vulpinus,Reif,Pg. 139 C2,258,0,Trident,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias vulpinus,Reif,Pg. 139 C3,259,0,Trident,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias vulpinus,Reif,Pg. 139 P1,260,0,Ridged Circle,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias vulpinus,Reif,Pg. 139 P3,261,0,Trident,Alopias vulpinus,Alopias vulpinus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 141 H1,262,0,Smooth,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 141 H1/2 Little middle,263,0,Ridged Circle,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 141 H1/2 Bigger surround,263,0,Five Thinned Ridged Branching Fan,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 141 H2 little upper half,264,0,Trident,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 141 H2 middle left,264,0,Five Thin Ridged Fan,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 141 H2 larger bottom right,264,0,Many Ridged Linear Fan,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 141 H3,265,0,Skinny Pear Shaped Wedge,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 141 C1,266,0,Trident,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 143 P1,267,0,Central Ridged Extended Trident,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 143 P3,268,0,Trident,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 143 G,269,0,Minnie Ridged Circle,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 143 M1,270,0,Minnie Indented Shell,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Alopias superciliosus,Reif,Pg. 143 M3,271,0,Trident,Alopias superciliosus,Alopias superciliosus,Alopias,Alopiidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 145 H1,272,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 145 H3,273,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 145 B5 smaller,274,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 145 B5 Larger,274,0,Pear Shaped Wedge,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 145 B2,275,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 145 M1,276,0,Smooth Petal,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 145 H1,277,0,Smooth,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 147 H2,278,0,Five Ridged Linear Fan,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 147 H3,279,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 147 C1,280,0,Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 147 C2,281,0,Central Ridged Extended Trident,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 147 P1,282,0,Five Thin Ridged Fan,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Isurus oxyrinchus,Reif,Pg. 147 M1,283,0,Smooth Petal,Isurus oxyrinchus,Isurus oxyrinchus,Isurus,Lamnidae,Lamniformes,Elasmobranchii
+Lamna nasus,Reif,Pg. 149 H1,284,0,Five Ridged Linear Fan,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
+Lamna nasus,Reif,Pg. 149 H2,285,0,Five Ridged Linear Fan,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
+Lamna nasus,Reif,Pg. 149 H3 Small surrounding,286,0,Five Ridged Linear Fan,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
+Lamna nasus,Reif,Pg. 149 H3 Large middle,286,0,Chubby Trident,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
+Lamna nasus,Reif,Pg. 149 P1,287,0,Five Ridged Linear Fan,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
+Lamna nasus,Reif,Pg. 149 P3,288,0,Five Ridged Linear Fan,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
+Lamna nasus,Reif,Pg. 149 Cla,289,0,Smooth,Lamna nasus,Lamna nasus,Lamna,Lamnidae,Lamniformes,Elasmobranchii
+Carcharodon carcharias,Reif,Pg. 151 B5  (surrounding small),290,0,Trident,Carcharodon carcharias,Carcharodon carcharias,Carcharodon,Lamnidae,Lamniformes,Elasmobranchii
+Carcharodon carcharias,Reif,Pg. 151 B5 (Central Large),290,0,Pear Shaped Wedge,Carcharodon carcharias,Carcharodon carcharias,Carcharodon,Lamnidae,Lamniformes,Elasmobranchii
+Carcharodon carcharias,Reif,Pg. 151 C1,291,0,Ridged Circle,Carcharodon carcharias,Carcharodon carcharias,Carcharodon,Lamnidae,Lamniformes,Elasmobranchii
+Carcharodon carcharias,Reif,Pg. 151 C2,292,0,Trident,Carcharodon carcharias,Carcharodon carcharias,Carcharodon,Lamnidae,Lamniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 153 H1,293,0,Funky Central Ridged Spade,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 153 H2,294,0,Round Bottomed Textured Tulip,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 153 B4,295,0,Round Bottomed Textured Tulip,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 153 B6,296,0,Smooth Petal,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 153 C1 Middle larger,297,0,Madeleine Trident,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 153 C1 Bottom and top smaller,297,0,Troughed Petal with Extended Center,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 155 C2,298,0,Troughed Petal with Extended Center,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 155  Cla,299,0,Smooth Petal,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 155  H1,300,0,Troughed Ridged Circle,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 155  B4 Surrounding,301,0,Central Ridged Extended Trident,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 155  B4 Large Central,301,0,Many Ridged Petal,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Galeus melastomus,Reif,Pg. 155  C1,302,0,Madeleine Trident,Galeus melastomus,Galeus melastomus,Galeus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus canicula,Reif,Pg. 157  H1,303,0,Smooth Petal,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus canicula,Reif,Pg. 157  H2,304,0,Many Ridged Petal,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus canicula,Reif,Pg. 157  H3,305,0,Central Ridged Extended Trident,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus canicula,Reif,Pg. 157 B1,306,0,Central Five Ridged Extended Trident,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus canicula,Reif,Pg. 157 B3,307,0,Central Ridged Extended Trident,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus canicula,Reif,Pg. 157 H1,308,0,Smooth,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus canicula,Reif,Pg. 159 H2,309,0,Central Five Ridged Extended Trident,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus canicula,Reif,Pg. 159 B1,310,0,Central Five Ridged Extended Trident,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus canicula,Reif,Pg. 159 B3,311,0,Smooth Petal,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus canicula,Reif,Pg. 159 P2,312,0,Many Ridged Petal,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus canicula,Reif,Pg. 159 P5,313,0,Smooth Petal,Scyliorhinus canicula,Scyliorhinus canicula,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus stellaris,Reif,Pg. 161 H1,314,0,Many Ridged Linear Fan,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus stellaris,Reif,Pg. 161 B1,315,0,Central Five Ridged Extended Trident,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus stellaris,Reif,Pg. 161 B3,316,0,Central Five Ridged Extended Trident,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus stellaris,Reif,Pg. 161 C2,317,0,Central Ridged Extended Trident,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus stellaris,Reif,Pg. 161 C3,318,0,Many Ridged Petal,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus stellaris,Reif,Pg. 161 Cla,319,0,Smooth Petal,Scyliorhinus stellaris,Scyliorhinus stellaris,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus retifer,Reif,Pg. 163 Cla,320,0,Madeleine,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus retifer,Reif,Pg. 163 H2,321,0,Central Ridged Extended Trident,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus retifer,Reif,Pg. 163 H3,322,0,Three Ridged Petal,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus retifer,Reif,Pg. 163 P2,323,0,Central Ridged Extended Trident,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Scyliorhinus retifer,Reif,Pg. 163 C3,324,0,Radial Angled Spines,Scyliorhinus retifer,Scyliorhinus retifer,Scyliorhinus,Scyliorhinidae,Carcharhiniformes,Elasmobranchii
+Mitsukurina owstoni,Reif,Pg. 163 M1,325,0,Central Ridged Triangle,Mitsukurina owstoni,Mitsukurina owstoni,Mitsukurina,Mitsukurinidae,Lamniformes,Elasmobranchii
+Mustelus mustelus,Reif,Pg. 165 H1,326,0,Smooth,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus mustelus,Reif,Pg. 165 H2,327,0,Troughed Petal with Extended Center,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus mustelus,Reif,Pg. 165 H3,328,0,Troughed Petal with Extended Center,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus mustelus,Reif,Pg. 165 B3,329,0,Smooth Petal,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus mustelus,Reif,Pg. 165 Cla,330,0,Smooth,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus mustelus,Reif,Pg. 167 M2,331,0,Minnie Indented Shell,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus mustelus,Reif,Pg. 167 N,332,0,Minnie Indented Shell,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus mustelus,Reif,Pg. 167 H2,333,0,Central Troughed Petal,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Mustelus mustelus,Reif,Pg. 167 H3,334,0,Smooth Petal,Mustelus mustelus,Mustelus mustelus,Mustelus,Triakidae,Carcharhiniformes,Elasmobranchii
+Triakis scyllium,Reif,Pg. 169 H1,335,0,Smooth Spade,Triakis scyllium,Triakis scyllium,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
+Triakis scyllium,Reif,Pg. 169 H3,336,0,Smooth Petal,Triakis scyllium,Triakis scyllium,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
+Triakis scyllium,Reif,Pg. 169 P2,337,0,Lopsided Trident,Triakis scyllium,Triakis scyllium,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
+Triakis scyllium,Reif,Pg. 169 B2,338,0,Round Sided Trident,Triakis scyllium,Triakis scyllium,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
+Triakis scyllium,Reif,Pg. 169 N,339,0,Troughed Ridged Circle,Triakis scyllium,Triakis scyllium,Triakis,Triakidae,Carcharhiniformes,Elasmobranchii
+Galeorhinus galeus,Reif,Pg. 171 H1,340,0,Smooth,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
+Galeorhinus galeus,Reif,Pg. 171 H2,341,0,Trident,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
+Galeorhinus galeus,Reif,Pg. 171 H3,342,0,Trident,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
+Galeorhinus galeus,Reif,Pg. 171 M2,343,0,Minnie Indented Shell,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
+Galeorhinus galeus,Reif,Pg. 171 M3,344,0,Smooth Spade,Galeorhinus galeus,Galeorhinus galeus,Galeorhinus,Triakidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 173 H1,345,0,Ridged Circle,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 173 H2,346,0,Ridged Circle,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 173 H3,347,0,Ridged Circle,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 173 B4,348,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 175 B6,349,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 175 C1,350,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 175 C2,351,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 175 C3,352,0,Trident,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 175 P1,353,0,Ridged Circle,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 175 N,354,0,Minnie Ridged Circle,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 177 H1,355,0,Many Ridged Linear Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 177 H2,356,0,Many Ridged Linear Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 177 H3,357,0,Five Thin Ridged Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 177 B1,358,0,Many Ridged Linear Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 177 B3,359,0,Many Ridged Linear Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 177 B4,360,0,Many Ridged Linear Fan,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 179 M1,361,0,Smooth Spade,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 179 M2,362,0,Smooth,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus falciformis,Reif,Pg. 179 M3,363,0,Smooth,Carcharhinus falciformis,Carcharhinus falciformis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus galapagensis,Reif,Pg. 181 H1,364,0,Smooth,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus galapagensis,Reif,Pg. 181 H2,365,0,Many Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus galapagensis,Reif,Pg. 181 H3,366,0,Many Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus galapagensis,Reif,Pg. 181 B1,367,0,Many Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus galapagensis,Reif,Pg. 183 B2,368,0,Many Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus galapagensis,Reif,Pg. 183 B3,369,0,Many Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus galapagensis,Reif,Pg. 183 P2,370,0,Many Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus galapagensis,Reif,Pg. 183 P3,371,0,Many Ridged Linear Fan,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus galapagensis,Reif,Pg. 183 M1,372,0,Many Ridged Trident,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus galapagensis,Reif,Pg. 183 M3,373,0,Smooth Spade,Carcharhinus galapagensis,Carcharhinus galapagensis,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus obscurus,Reif,Pg. 185 C1 Surrounding,374,0,Trident,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus obscurus,Reif,Pg. 185 C1 Central,374,0,Shallow Ridged Wide Crown,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus obscurus,Reif,Pg. 185 C3,375,0,Trident,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus obscurus,Reif,Pg. 185 P1,376,0,Five Ridged Linear Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus obscurus,Reif,Pg. 185 P3,377,0,Central Troughed Petal,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus obscurus,Reif,Pg. 185 C1,378,0,Many Ridged Linear Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus obscurus,Reif,Pg. 187 C2,379,0,Many Ridged Linear Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus obscurus,Reif,Pg. 187 C3,380,0,Five Thin Ridged Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus obscurus,Reif,Pg. 187 P1,381,0,Five Ridged Linear Fan,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus obscurus,Reif,Pg. 187 P2,382,0,Troughed Petal,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus obscurus,Reif,Pg. 187 P3,383,0,Troughed Petal with Extended Center,Carcharhinus obscurus,Carcharhinus obscurus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 189 H1,384,0,Minnie Indented Shell,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 189 H2,385,0,Ridged Circle,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 189 H3,386,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 189 B1,387,0,Ridged Circle,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 189 B3,388,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 190 B6,389,0,Minnie Indented Shell,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 190 P1,390,0,Branching Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 190 P3,391,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 190 N,392,0,Minnie Indented Shell,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 192 B2,393,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 192 B4,394,0,Ridged Circle,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 192 M1,395,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 192 B5,396,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 192 C1 Surrounding,397,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 192 C1 Central,397,0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 192 P1 Central,398,0,Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 192 P1 Surrounding,398,0,Central Troughed Petal,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 194 P3,399,0,Troughed Petal with Extended Center,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 194 M1,400,0,Many Ridged Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 194 M2,401,0,Troughed Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 194 C1 (smaller),402,0,Minnie Indented Shell,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 194 C1 (larger),402,0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 194 H1,403,0,Smooth,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 196 H2 (Surrounding),404,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 196 H2 (Central),404,0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 196 H3 (Surrounding),405,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 196 H3 (Central),405,0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 196 B3,406,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 196 B4 (Surrounding),407,0,Five Thin Ridged Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 196 B4 (Central),407,0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 196 B6,408,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 196 C1 (surrounding),409,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 196 C1 (Central),409,0,Shallow Ridged Wide Crown,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 197 C3,410,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 197 P1,411,0,Five Ridged Linear Fan,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 197 P3,412,0,Troughed Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 197 N,413,0,Minnie Indented Shell,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 197 M1,414,0,Many Ridged Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus plumbeus,Reif,Pg. 197 M3,415,0,Troughed Trident,Carcharhinus plumbeus,Carcharhinus plumbeus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 H1,416,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 H2,417,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 H3,418,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 B1,419,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 B3,420,0,Five Thin Ridged Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 C1,421,0,Five Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 H1,422,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 H2,423,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 H3,424,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 B1,425,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 B3,426,0,Five Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 199 C1,427,0,Five Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 200 C3,428,0,Five Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 200 P1,429,0,Ridged Circle,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 200 P3,430,0,Five Thin Ridged Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 200 N,431,0,Minnie Indented Shell,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 200 H1,432,0,Minnie Indented Shell,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 200 H2,433,0,Many Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 202 B1 (surrounding),434,0,Many Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 202 B1 (Central),434,0,Shallow Ridged Wide Crown,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 202 B2,435,0,Many Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 202 B3,436,0,Many Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 202 P1,437,0,Many Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 202 C1,438,0,Many Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus amblyrhynchos,Reif,Pg. 202 C3,439,0,Many Ridged Linear Fan,Carcharhinus amblyrhynchos,Carcharhinus amblyrhynchos,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 204 B2,440,0,Trident,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 204 H1,441,0,Minnie Ridged Circle,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 204 H2,442,0,Trident,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 204 H3,443,0,Trident,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 204 B1,444,0,Five Thin Ridged Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 204 B3,445,0,Five Ridged Linear Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 206 N,446,0,Minnie Ridged Circle,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 206 M1,447,0,Four Thin Ridged Petal,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 206 M3,448,0,Smooth Spade,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 206 H1,449,0,Smooth,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 206 B2,450,0,Five Ridged Linear Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 206 B3,451,0,Many Ridged Linear Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 208 P1,452,0,Many Ridged Linear Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 208 P3,453,0,Troughed Trident,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 208 C1,454,0,Minnie Indented Shell,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 208 C2,455,0,Five Ridged Linear Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 208 C3,456,0,Five Ridged Linear Fan,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Carcharhinus melanopterus,Reif,Pg. 208 M1,457,0,Shallow Ridged Wide Crown,Carcharhinus melanopterus,Carcharhinus melanopterus,Carcharhinus,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Triaenodon obesus,Reif,Pg. 210 H2,458,0,Ridged Circle,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Triaenodon obesus,Reif,Pg. 210 B1,459,0,Five Thin Ridged Fan,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Triaenodon obesus,Reif,Pg. 210 H1,460,0,Smooth,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Triaenodon obesus,Reif,Pg. 210 H2,461,0,Minnie Indented Shell,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Triaenodon obesus,Reif,Pg. 210 N,462,0,Minnie Indented Shell,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Triaenodon obesus,Reif,Pg. 212 H3,463,0,Minnie Indented Shell,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Triaenodon obesus,Reif,Pg. 212 B1 (Surrounding),464,0,Many Ridged Linear Fan,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Triaenodon obesus,Reif,Pg. 212 B1 (Central),464,0,Shallow Ridged Wide Crown,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Triaenodon obesus,Reif,Pg. 212 C2,465,0,Three Ridged Petal,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Triaenodon obesus,Reif,Pg. 212 C3,466,0,Central Troughed Petal,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Triaenodon obesus,Reif,Pg. 212 M1,467,0,Smooth Spade,Triaenodon obesus,Triaenodon obesus,Triaenodon,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 214 H1,468,0,Minnie Ridged Circle,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 214 H2,469,0,Ridged Circle,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 214 H3 (surrounding),470,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 214 H3 (Central Many Ridge),470,0,Five Thin Ridged Fan,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 214 H3 (Central three ridge),470,0,Pear Shaped Wedge,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 214 B4 (Surrounding),471,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 214 B4 (right),471,0,Airplane,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 214 B5,472,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 215 B6,473,0,Central Ridged Extended Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 215 C1,474,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 215 C2 (Surrounding),475,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 215 C2 (Central),475,0,Branching Fan,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 215 C3,476,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 215 P1,477,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 215 P2,478,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 217 P3,479,0,Stretched Minnie Indented Shell,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 217 N,480,0,Minnie Indented Shell,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 217 H3 (Surrounding smaller),481,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 217 H3 (Central three ridge),481,0,Chubby Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 217 H3 (Central many ridge),481,0,Shallow Ridged Wide Crown,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 217 B1 Surrounding,482,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 217 B1 Central,482,0,Shallow Ridged Wide Crown,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 218 B2,483,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 218 B3,484,0,Ridged Circle,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 218 P3,485,0,Many Ridged Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 218 M1,486,0,Minnie Indented Shell,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 220 M3,487,0,Smooth Spade,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 220 N,488,0,Minnie Indented Shell,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 220 H1,489,0,Minnie Indented Shell,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 220 H2,490,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 220 H3 (surrounding smaller),491,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 220 H3 (Central Larger),491,0,Shallow Ridged Wide Crown,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 220 B1,492,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 221 B2,493,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 221 B3,494,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 221 P2,495,0,Trident,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 221 P3,496,0,Smooth Spade,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Prionace glauca,Reif,Pg. 221 N,497,0,Five Thinned Ridged Branching Fan,Prionace glauca,Prionace glauca,Prionace,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 224 H1,498,0,Minnie Ridged Circle,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 224 H2,499,0,Trident,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 224 H3,500,0,Trident,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 224 B4,501,0,Troughed Petal with Extended Center,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 224 B5,502,0,Trident,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 224 B6,503,0,Many Ridged Linear Fan,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 225 P1,504,0,Five Ridged Linear Fan,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 225 P3,505,0,Troughed Trident,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 225 P4,506,0,Minnie Indented Shell,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 225 P6,507,0,Stretched Minnie Indented Shell,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 225 N,508,0,Minnie Indented Shell,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Negaprion brevirostris,Reif,Pg. 225 M1,509,0,Five Thin Ridged Fan,Negaprion brevirostris,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 227 H1,510,0,Oak Leaf,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 227 H2,511,0,Funky Central Ridged Spade,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 227 B3,512,0,Triangular Spines,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 227 B5,513,0,Central Ridged Triangle,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 227 N,514,0,Cheeky,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 227 M1,515,0,Troughed Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 229 H1,516,0,Smooth,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 229 B5,517,0,Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 229 G,518,0,Smooth Spade,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 229 M1,519,0,Smooth Spade,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 229 M3,520,0,Cheeky,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 229 N,521,0,Smooth,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 231 B1,522,0,Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 231 B2,523,0,Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 231 B4,524,0,Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Galeocerdo cuvier,Reif,Pg. 231 M1,525,0,Many Ridged Trident,Galeocerdo cuvier,Galeocerdo cuvier,Galeocerdo,Carcharhinidae,Carcharhiniformes,Elasmobranchii
+Sphyrna lewini,Reif,Pg. 233 H1,526,0,Trident,Sphyrna lewini,Sphyrna lewini,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna lewini,Reif,Pg. 233 B2,527,0,Trident,Sphyrna lewini,Sphyrna lewini,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna lewini,Reif,Pg. 233 N,528,0,Smooth,Sphyrna lewini,Sphyrna lewini,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna lewini,Reif,Pg. 233 M2,529,0,Trident,Sphyrna lewini,Sphyrna lewini,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 235 H1,530,0,Ridged Circle,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 235 H2,531,0,Trident,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 235 H3,532,0,Trident,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 235 B4,533,0,Trident,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 235 P1,534,0,Minnie Indented Shell,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 237 P3,535,0,Minnie Indented Shell,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 237 H1,536,0,Five Thin Ridged Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 237 H2,537,0,Five Ridged Linear Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 238 C1,538,0,Many Ridged Linear Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 238 C2,539,0,Five Thin Ridged Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 238 C3,540,0,Five Thin Ridged Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 238 M2,541,0,Five Thin Ridged Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 238 M3,542,0,Five Ridged Linear Fan,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna tudes,Reif,Pg. 238 N,543,0,Smooth,Sphyrna tudes,Sphyrna tudes,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,Pg. 240 B1,544,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,B3,545,0,Five Ridged Linear Fan,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,P1,546,0,Ridged Circle,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,P3,547,0,Minnie Indented Shell,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,Cla,548,0,Smooth,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,H1,549,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,H2,550,0,Five Ridged Linear Fan,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,H3,551,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,B1,552,0,Five Ridged Linear Fan,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,B3,553,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,P1,554,0,Five Ridged Linear Fan,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,P3,555,0,Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,M1,556,0,Four Thin Ridged Petal,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,M2,557,0,Many Ridged Trident,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,M3,558,0,Smooth Spade,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii
+Sphyrna zygaena,Reif,N,559,0,Smooth,Sphyrna zygaena,Sphyrna zygaena,Sphyrna,Sphyrnidae,Carcharhiniformes,Elasmobranchii

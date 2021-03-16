@@ -1,7 +1,7 @@
 This file contains all output statisitcs referenced in the manuscript
 It is generated automatically when the Setup.R file is sourced
 
-This file was generated: 2020-08-21 14:14:28
+This file was generated: 2021-03-16 15:49:13
 
 ##### Modern shark diversity ######
 
@@ -9,30 +9,60 @@ There are 152 species of modern shark included in this analysis.
 There are 62 genera of modern shark included in this analysis.
 There are 30 families of modern shark included in this analysis.
 There are 10 orders of modern shark included in this analysis.
-There are 61 unique types of denticles identified across 596 denticle images.
-Of these, 25 modern morphotypes have representation among the 88 morphotypes identified in the fossil record.
-This represents a 71.591% Extinction.
+There are 63 unique types of denticles identified across 596 denticle images.
+Of these, 26 modern morphotypes have representation among the 88 morphotypes identified in the fossil record.
+This represents a 70.455% Extinction.
 
 
 ##### Denticles per taxon ######
 
-There are 2.388 denticle types per species on average, with a median of 1 type per species in the dataset.
-There are 3.774 denticle types per genus on average, with a median of 2 type per genus in the dataset.
-There are 5.867 denticle types per family on average, with a median of 4.5 type per family in the dataset.
-There are 13 denticle types per order on average, with a median of 8.5 type per order in the dataset.
+There are 2.461 denticle types per species on average, with a median of 1 type per species in the dataset.
+There are 3.968 denticle types per genus on average, with a median of 2 type per genus in the dataset.
+There are 6.2 denticle types per family on average, with a median of 5 type per family in the dataset.
+There are 13.5 denticle types per order on average, with a median of 9 type per order in the dataset.
 
 
-##### Range Extension Values ######
+##### Range Extension Values (Supplemental Table T5) ######
 
-For 50% Range Extensions:
-The estimated extinction age is 19.817 Ma
-The 95% confidence for age of extinction is 19.023 to 21.234 Ma
-The 99% confidence for age of extinction is 18.844 to 21.536 Ma
+## For the combined fossil dataset, including DSDP 596 and ODP 886, with modern matches:
+50% Range Extensions:
+	 The estimated extinction age is 19.7 Ma
+	 The 95% confidence for age of extinction is 19.023 to 21.234 Ma
+	 The 99% confidence for age of extinction is 18.844 to 21.536 Ma
+20% Range Extensions:
+	 The estimated extinction age is 19.356 Ma
+	 The 95% confidence for age of extinction is 18.997 to 19.749 Ma
+	 The 99% confidence for age of extinction is 18.495 to 19.853 Ma
 
-For 20% Range Extensions:
-The estimated extinction age is 19.363 Ma
-The 95% confidence for age of extinction is 18.997 to 19.749 Ma
-The 99% confidence for age of extinction is 18.495 to 19.911 Ma
+## For only DSDP Site 596, with modern matches:
+50% Range Extensions:
+	 The estimated extinction age is 18.962 Ma
+	 The 95% confidence for age of extinction is 18.339 to 20.507 Ma
+	 The 99% confidence for age of extinction is 18.291 to 21.697 Ma
+20% Range Extensions:
+	 The estimated extinction age is 19.225 Ma
+	 The 95% confidence for age of extinction is 18.495 to 19.659 Ma
+	 The 99% confidence for age of extinction is 18.244 to 19.687 Ma
+
+## For combined fossil dataset with no modern matches (DSDP 596 + ODP 886):
+50% Range Extensions:
+	 The estimated extinction age is 19.68 Ma
+	 The 95% confidence for age of extinction is 19.057 to 20.939 Ma
+	 The 99% confidence for age of extinction is 18.951 to 21.234 Ma
+20% Range Extensions:
+	 The estimated extinction age is 19.357 Ma
+	 The 95% confidence for age of extinction is 18.967 to 19.633 Ma
+	 The 99% confidence for age of extinction is 18.671 to 19.749 Ma
+
+## For DSDP 596 dataset only with no modern matches:
+50% Range Extensions:
+	 The estimated extinction age is 18.953 Ma
+	 The 95% confidence for age of extinction is 18.608 to 20.165 Ma
+	 The 99% confidence for age of extinction is 18.479 to 20.507 Ma
+20% Range Extensions:
+	 The estimated extinction age is 19.214 Ma
+	 The 95% confidence for age of extinction is 18.69 to 19.358 Ma
+	 The 99% confidence for age of extinction is 18.495 to 19.38 Ma
 
 
 ##### Community Composition Percentages ######
@@ -71,7 +101,7 @@ Using a Chi-square test of independence, we calculate that the pre-extinction de
 
 ##### Fossils ONLY: Morphotype Extinction Calculations #####
 
-There are  89  fossil morphotypes,  83  observed at DSDP Site 596 and  53  observed at ODP Site 886.
+There are  89  fossil morphotypes,  83  observed at DSDP Site 596 and  54  observed at ODP Site 886.
 33 geometric morphotypes, including "GenGeom"
 53 linear morphotypes, including "GenLin"
 2 smooth morphotypes
@@ -108,7 +138,8 @@ Of the 52 linear morphotypes, 6 are found after the extinction (88.462% observed
 
 ##### Including modern denticles: Morphotype Extinction Calculations #####
 
-There are 25 fossil denticle morphotypes that have a modern analog:
+There are 26 fossil denticle morphotypes that have a modern analog:
+Branching Fan
 Central Ridged Extended Trident
 Central Ridged Triangle
 Central Troughed Petal
@@ -135,9 +166,9 @@ Stretched Minnie Indented Shell
 Three Ridged Extended Petal
 Trident
 
-Of the,  88  morphotypes present prior to 19 Ma,  only  25  are present in the fossil record and/or our modern database after the extinction event, a  71.591 % extinction in morphotype diversity.
+Of the,  88  morphotypes present prior to 19 Ma,  only  26  are present in the fossil record and/or our modern database after the extinction event, a  70.455 % extinction in morphotype diversity.
 Of the 33 geometric morphotypes, 6 are occur after the extinction, either in the fossils or by a modern analog (81.818% observed extinction)
-Of the 53 linear morphotypes, 17 are found after the extinction, either in the fossils or by a modern analog (67.925% observed extinction)
+Of the 53 linear morphotypes, 18 are found after the extinction, either in the fossils or by a modern analog (66.038% observed extinction)
 
 
 ##### Number of investigated Neogene and Paleogene Samples wih denticles #####

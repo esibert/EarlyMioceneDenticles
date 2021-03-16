@@ -1,7 +1,7 @@
 #########################################################
 #                                                       #
 #       Statistics and Percentages Calculated           #
-#       Last updated 8/15/2020 by ECS                   #
+#       Last updated 3/15/2020 by ECS                   #
 #                                                       #
 #########################################################
 
@@ -49,17 +49,53 @@ cat('\n\n') #section break
 
 
 ##### Range Extension Calculation Values #####
-cat('##### Range Extension Values ######\n\n')
-cat('For 50% Range Extensions:\n')
-cat(paste('The estimated extinction age is ', round(median(ext.fossils.modern.sub.50$new.lad), 3), ' Ma\n', sep = ''))
-cat(paste('The 95% confidence for age of extinction is ', round(sort(ext.fossils.modern.sub.50$new.lad)[sp.conf.50.95[1]], 3), ' to ', round(sort(ext.fossils.modern.sub.50$new.lad)[sp.conf.50.95[2]], 3), ' Ma\n', sep = ''))
-cat(paste('The 99% confidence for age of extinction is ', round(sort(ext.fossils.modern.sub.50$new.lad)[sp.conf.50.99[1]], 3), ' to ', round(sort(ext.fossils.modern.sub.50$new.lad)[sp.conf.50.99[2]], 3), ' Ma\n', sep = ''))
+cat('##### Range Extension Values (Supplemental Table T5) ######\n\n')
+cat('## For the combined fossil dataset, including DSDP 596 and ODP 886, with modern matches:\n')
+cat('50% Range Extensions:\n')
+cat(paste('\t The estimated extinction age is ', round(median(ext.fossils.modern.sub.50$new.lad), 3), ' Ma\n', sep = ''))
+cat(paste('\t The 95% confidence for age of extinction is ', round(sort(ext.fossils.modern.sub.50$new.lad)[sp.conf.50.95[1]], 3), ' to ', round(sort(ext.fossils.modern.sub.50$new.lad)[sp.conf.50.95[2]], 3), ' Ma\n', sep = ''))
+cat(paste('\t The 99% confidence for age of extinction is ', round(sort(ext.fossils.modern.sub.50$new.lad)[sp.conf.50.99[1]], 3), ' to ', round(sort(ext.fossils.modern.sub.50$new.lad)[sp.conf.50.99[2]], 3), ' Ma\n', sep = ''))
+
+cat('20% Range Extensions:\n')
+cat(paste('\t The estimated extinction age is ', round(quantile(ext.fossils.modern.sub.20$new.lad, 0.2), 3), ' Ma\n', sep = ''))
+cat(paste('\t The 95% confidence for age of extinction is ', round(sort(ext.fossils.modern.sub.20$new.lad)[sp.conf.20.95[1]],3), ' to ', round(sort(ext.fossils.modern.sub.20$new.lad)[sp.conf.20.95[2]],3), ' Ma\n', sep = ''))
+cat(paste('\t The 99% confidence for age of extinction is ', round(sort(ext.fossils.modern.sub.20$new.lad)[sp.conf.20.99[1]],3), ' to ', round(sort(ext.fossils.modern.sub.20$new.lad)[sp.conf.20.99[2]],3), ' Ma\n', sep = ''))
 
 cat('\n')
-cat('For 20% Range Extensions:\n')
-cat(paste('The estimated extinction age is ', round(quantile(ext.fossils.modern.sub.20$new.lad, 0.2), 3), ' Ma\n', sep = ''))
-cat(paste('The 95% confidence for age of extinction is ', round(sort(ext.fossils.modern.sub.20$new.lad)[sp.conf.20.95[1]],3), ' to ', round(sort(ext.fossils.modern.sub.20$new.lad)[sp.conf.20.95[2]],3), ' Ma\n', sep = ''))
-cat(paste('The 99% confidence for age of extinction is ', round(sort(ext.fossils.modern.sub.20$new.lad)[sp.conf.20.99[1]],3), ' to ', round(sort(ext.fossils.modern.sub.20$new.lad)[sp.conf.20.99[2]],3), ' Ma\n', sep = ''))
+cat('## For only DSDP Site 596, with modern matches:\n')
+cat('50% Range Extensions:\n')
+cat(paste('\t The estimated extinction age is ', round(median(ext.596.modern.sub.50$new.lad), 3), ' Ma\n', sep = ''))
+cat(paste('\t The 95% confidence for age of extinction is ', round(sort(ext.596.modern.sub.50$new.lad)[sp.conf.596.50.95[1]], 3), ' to ', round(sort(ext.596.modern.sub.50$new.lad)[sp.conf.596.50.95[2]], 3), ' Ma\n', sep = ''))
+cat(paste('\t The 99% confidence for age of extinction is ', round(sort(ext.596.modern.sub.50$new.lad)[sp.conf.596.50.99[1]], 3), ' to ', round(sort(ext.596.modern.sub.50$new.lad)[sp.conf.596.50.99[2]], 3), ' Ma\n', sep = ''))
+
+cat('20% Range Extensions:\n')
+cat(paste('\t The estimated extinction age is ', round(quantile(ext.596.modern.sub.20$new.lad, 0.2), 3), ' Ma\n', sep = ''))
+cat(paste('\t The 95% confidence for age of extinction is ', round(sort(ext.596.modern.sub.20$new.lad)[sp.conf.596.20.95[1]],3), ' to ', round(sort(ext.596.modern.sub.20$new.lad)[sp.conf.596.20.95[2]],3), ' Ma\n', sep = ''))
+cat(paste('\t The 99% confidence for age of extinction is ', round(sort(ext.596.modern.sub.20$new.lad)[sp.conf.596.20.99[1]],3), ' to ', round(sort(ext.596.modern.sub.20$new.lad)[sp.conf.596.20.99[2]],3), ' Ma\n', sep = ''))
+
+cat('\n')
+cat('## For combined fossil dataset with no modern matches (DSDP 596 + ODP 886):\n')
+cat('50% Range Extensions:\n')
+cat(paste('\t The estimated extinction age is ', round(median(ext.fossils.sub.50$new.lad), 3), ' Ma\n', sep = ''))
+cat(paste('\t The 95% confidence for age of extinction is ', round(sort(ext.fossils.sub.50$new.lad)[sp.fossil.conf.50.95[1]], 3), ' to ', round(sort(ext.fossils.sub.50$new.lad)[sp.fossil.conf.50.95[2]], 3), ' Ma\n', sep = ''))
+cat(paste('\t The 99% confidence for age of extinction is ', round(sort(ext.fossils.sub.50$new.lad)[sp.fossil.conf.50.99[1]], 3), ' to ', round(sort(ext.fossils.sub.50$new.lad)[sp.fossil.conf.50.99[2]], 3), ' Ma\n', sep = ''))
+
+cat('20% Range Extensions:\n')
+cat(paste('\t The estimated extinction age is ', round(quantile(ext.fossils.sub.20$new.lad, 0.2), 3), ' Ma\n', sep = ''))
+cat(paste('\t The 95% confidence for age of extinction is ', round(sort(ext.fossils.sub.20$new.lad)[sp.fossil.conf.20.95[1]],3), ' to ', round(sort(ext.fossils.sub.20$new.lad)[sp.fossil.conf.20.95[2]],3), ' Ma\n', sep = ''))
+cat(paste('\t The 99% confidence for age of extinction is ', round(sort(ext.fossils.sub.20$new.lad)[sp.fossil.conf.20.99[1]],3), ' to ', round(sort(ext.fossils.sub.20$new.lad)[sp.fossil.conf.20.99[2]],3), ' Ma\n', sep = ''))
+
+cat('\n')
+cat('## For DSDP 596 dataset only with no modern matches:\n')
+cat('50% Range Extensions:\n')
+cat(paste('\t The estimated extinction age is ', round(median(ext.596.sub.50$new.lad), 3), ' Ma\n', sep = ''))
+cat(paste('\t The 95% confidence for age of extinction is ', round(sort(ext.596.sub.50$new.lad)[sp.conf.596.fossil.50.95[1]], 3), ' to ', round(sort(ext.596.sub.50$new.lad)[sp.conf.596.fossil.50.95[2]], 3), ' Ma\n', sep = ''))
+cat(paste('\t The 99% confidence for age of extinction is ', round(sort(ext.596.sub.50$new.lad)[sp.conf.596.fossil.50.99[1]], 3), ' to ', round(sort(ext.596.sub.50$new.lad)[sp.conf.596.fossil.50.99[2]], 3), ' Ma\n', sep = ''))
+
+cat('20% Range Extensions:\n')
+cat(paste('\t The estimated extinction age is ', round(quantile(ext.596.sub.20$new.lad, 0.2), 3), ' Ma\n', sep = ''))
+cat(paste('\t The 95% confidence for age of extinction is ', round(sort(ext.596.sub.20$new.lad)[sp.conf.596.fossil.20.95[1]],3), ' to ', round(sort(ext.596.sub.20$new.lad)[sp.conf.596.fossil.20.95[2]],3), ' Ma\n', sep = ''))
+cat(paste('\t The 99% confidence for age of extinction is ', round(sort(ext.596.sub.20$new.lad)[sp.conf.596.fossil.20.99[1]],3), ' to ', round(sort(ext.596.sub.20$new.lad)[sp.conf.596.fossil.20.99[2]],3), ' Ma\n', sep = ''))
 
 cat('\n\n') #section break
 

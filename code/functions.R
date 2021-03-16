@@ -1,7 +1,7 @@
 #################################################
 #                                               #
 #   in-house functions for denticles analysis   #
-#        Updated 7/15/20                        #
+#        Updated 3/15/21                        #
 #                                               #
 #################################################
 
@@ -12,6 +12,7 @@
 # 4. rconf uses the Strauss & Sadler 1989 method to calculate confidence intervals on range charts
 # 5. rangeExtensions uses methods described in Marshall 1995; Wang & Marshall 2004 to calculate range extensions on all morphotypes in a dataset simultaneously
 # 6. binom.conf calculates the binomial probability ranges for the range chart dataset of interest, after Wang & Marshall 2004. 
+# 7. rarefaction.plot is an in-house function that calculates and plots rarefaction curves and standard errors using the vegan package
 
 ##################################
 #                                #
@@ -128,3 +129,25 @@ binom.conf <- function(species, conf, conf.threshold = NULL, print.output = TRUE
    }
 }
 
+
+
+##### 7. rarefaction.plot function #####
+rarefaction.plot <- function(counts.table, ci.type = c('polygon', 'off'), add.line = FALSE, 
+                             lcol = 'blue', pcol, xlab = "Sample Size", ylab = "Morphotypes", ...) {
+   if(missing(pcol)) pcol <- lcol
+   
+   rare.sample <- rarefy(counts.table, sample = c(1:sum(counts.table)), se = T)
+   ci.coords <- cbind(x = c(1:dim(rare.sample)[2], rev(1:dim(rare.sample)[2])), 
+                      y = c(rare.sample[1,]-rare.sample[2,], rev(rare.sample[1,]+rare.sample[2,])))
+   if(add.line == FALSE) {
+      plot(x = 1:dim(rare.sample)[2], y = rare.sample[1,],  type = 'l', col = lcol, xlab = xlab, ylab = ylab, ...)
+   }
+   
+   if(add.line == TRUE) {
+      lines(x = 1:dim(rare.sample)[2], y = rare.sample[1,],  type = 'l', col = lcol, ...)
+   }
+   if(ci.type == 'polygon') {
+      polygon(ci.coords, col = adjustcolor(pcol, alpha.f = 0.5), border = NA)
+   }
+   
+}
