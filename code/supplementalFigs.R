@@ -1,7 +1,7 @@
 #########################################
 #                                       #
 #       Supplemental Figures            #
-#           3/16/2021                   #
+#           4/12/2021                   #
 #                                       #
 #########################################
 
@@ -55,6 +55,7 @@ ratio.886.max <- 0.6
 # lines
 line.type = 3
 line.scale = 1
+
 
 
 #####################################
@@ -345,6 +346,10 @@ sink()
 
 
 ##### S6a. Rarefaction curves figure (full dataset) #####
+## Inset box for Figure S6
+insetbox <- c(0, 0, 50, 30)
+
+##
 fig.dims <- c(8,8) #Set Figure-dimensions
 
 if(writeFile == 'pdf') {
@@ -375,8 +380,8 @@ rarefaction.plot(rare.modern.counts, ci.type = 'polygon', lcol = rare.cols[3], l
 ## Annotations
 # Title
 mtext('(a) Rarefaction of Denticle Types (Full Dataset)', side = 3, cex = 1.5, line = 1.5, font = 2)
-# Rectangle
-rect(xleft = 0, ybottom = 0, xright = 50, ytop = 30, lty = 2)
+# Rectangle for inset
+rect(xleft = insetbox[1], ybottom = insetbox[2], xright = insetbox[3], ytop = insetbox[4], lty = 2)
 # # annotation of (a)
 # mtext("a", side = 3, line = 0, font = 2, adj = 0, cex = 1.2)
 
@@ -392,7 +397,7 @@ par(fig=c(0.4, 0.99, 0.01, 0.6), new = T)
 
 ## Main plot
 # Fossils - pre-extinction
-rarefaction.plot(rare.fossil.split.counts[2,], ci.type = 'polygon', lcol = rare.cols[1], lwd = 2, xlim = c(0, 50), ylim = c(0, 30), axes = F, xlab = '', ylab = '')
+rarefaction.plot(rare.fossil.split.counts[2,], ci.type = 'polygon', lcol = rare.cols[1], lwd = 2, xlim = c(insetbox[1], insetbox[3]), ylim = c(insetbox[2], insetbox[4]), axes = F, xlab = '', ylab = '')
 # Fossils - post-extinction
 rarefaction.plot(rare.fossil.split.counts[1,], ci.type = 'polygon', lcol = rare.cols[2], lwd = 2, add.line = TRUE)
 # Modern - all
@@ -453,8 +458,8 @@ rarefaction.plot(rare.counts.596.post, ci.type = 'polygon', lcol = rare.cols[4],
 ## Annotations
 # Title
 mtext('(b) Rarefaction of Denticle Types (DSDP 596 only)', side = 3, cex = 1.5, line = 1.5, font = 2)
-# Rectangle
-rect(xleft = 0, ybottom = 0, xright = 50, ytop = 30, lty = 2)
+# Rectangle for inset
+rect(xleft = insetbox[1], ybottom = insetbox[2], xright = insetbox[3], ytop = insetbox[4], lty = 2)
 # # annotation of (a)
 # mtext("a", side = 3, line = 0, font = 2, adj = 0, cex = 1.2)
 
@@ -468,7 +473,7 @@ par(fig=c(0.4, 0.99, 0.01, 0.6), new = T)
 
 ## Main plot
 # 596 - pre-extinction all
-rarefaction.plot(rare.counts.596.pre, ci.type = 'polygon', lcol = rare.cols[1], lwd = 2, xlim = c(0, 30), ylim = c(0, 10), axes = F, xlab = '', ylab = '') # 596 pre
+rarefaction.plot(rare.counts.596.pre, ci.type = 'polygon', lcol = rare.cols[1], lwd = 2, xlim = c(insetbox[1], insetbox[3]), ylim = c(insetbox[2], insetbox[4]), axes = F, xlab = '', ylab = '') # 596 pre
 # 596 - youngest pre-extinction subset
 rarefaction.plot(rare.counts.596.pre.sub, ci.type = 'polygon', lcol = rare.cols[2], lwd = 2, add.line = T) # 596 Young subset
 # 596 - resampling lines
